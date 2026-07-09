@@ -1,0 +1,13 @@
+{
+  "name": "product-video-runner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sinh video quang cao san pham 9:16 tu WooCommerce Store API (lucas.vn) dung template co san.",
+  "scripts": {
+    "start": "node runner.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

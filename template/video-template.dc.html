@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #060709; overflow: hidden; }
+  a { color: #3B7DFF; }
+  a:hover { color: #6b9bff; }
+</style>
+</helmet>
+<div style="position:absolute; inset:0; background:#060709;">
+  <x-import component-from-global-scope="ProductVideo" from="./animations.jsx ./product-video.jsx" dc-props="{{ p }}" hint-size="100%,100%"></x-import>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{
+  &quot;$preview&quot;: { &quot;width&quot;: 1080, &quot;height&quot;: 1920 },
+  &quot;accent&quot;: { &quot;editor&quot;: &quot;color&quot;, &quot;default&quot;: &quot;#3B7DFF&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Thương hiệu&quot;, &quot;options&quot;: [&quot;#3B7DFF&quot;, &quot;#22D3EE&quot;, &quot;#C6FF3D&quot;, &quot;#A855F7&quot;, &quot;#FF6B35&quot;] },
+  &quot;brand&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Anker&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Thương hiệu&quot; },
+  &quot;shopName&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Lucas.vn&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Thương hiệu&quot; },
+  &quot;productName&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Sạc Dự Phòng Anker Nano 2C1A 45W 10000mAh A1638&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Sản phẩm&quot; },
+  &quot;productImage&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;images/product.png&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Sản phẩm&quot; },
+  &quot;cutout&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;Sản phẩm&quot; },
+  &quot;hookLine&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Cả trạm sạc 45W gọn trong lòng bàn tay&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Sản phẩm&quot; },
+  &quot;feature1&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Sạc nhanh 45W cho cả laptop&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Tính năng&quot; },
+  &quot;feature2&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Cáp USB-C tích hợp, kéo ra thu vào&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Tính năng&quot; },
+  &quot;feature3&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Màn hình thông minh, bảo vệ pin 24/7&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Tính năng&quot; },
+  &quot;feature4&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Nhỏ gọn hơn 16%, bỏ túi dễ dàng&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Tính năng&quot; },
+  &quot;specCapacity&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;10000&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Thông số&quot; },
+  &quot;specPower&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;45&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Thông số&quot; },
+  &quot;specWeight&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;232&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Thông số&quot; },
+  &quot;priceOriginal&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;1.300.000₫&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Giá &amp; ưu đãi&quot; },
+  &quot;priceSale&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;1.150.000₫&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Giá &amp; ưu đãi&quot; },
+  &quot;discountPercent&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;12&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Giá &amp; ưu đãi&quot; },
+  &quot;coupon&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;LUCAS79K&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Giá &amp; ưu đãi&quot; },
+  &quot;couponValue&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Giảm thêm 79.000đ&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Giá &amp; ưu đãi&quot; },
+  &quot;ctaLine&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;Freeship nội thành • Chính hãng 100% • Đổi trả 30 ngày&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Giá &amp; ưu đãi&quot; }
+}">
+class Component extends DCLogic {
+  renderVals() {
+    // In the editor, content comes from this.props (Tweaks panel).
+    // For automation (standalone / headless render), content can be injected
+    // via  ?data=<base64-encoded JSON>  in the URL, or window.__PRODUCT__.
+    // Injected values win over the built-in defaults.
+    let ext = {};
+    try {
+      const q = new URLSearchParams(location.search).get('data');
+      if (q) ext = JSON.parse(decodeURIComponent(escape(atob(q))));
+      else if (window.__PRODUCT__) ext = window.__PRODUCT__;
+    } catch (e) { /* ignore malformed data, fall back to props */ }
+    return { p: { ...this.props, ...ext } };
+  }
+}
+</script>
+</body>
+</html>

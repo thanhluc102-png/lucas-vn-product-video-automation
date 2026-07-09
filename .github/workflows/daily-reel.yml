@@ -1,0 +1,45 @@
+name: Daily product reel
+
+# 01:00 UTC = 08:00 Asia/Ho_Chi_Minh (UTC+7). Doi gio o day neu can.
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 'Product id cu the (de trong = lay san pham moi nhat)'
+        required: false
+        default: ''
+
+jobs:
+  render-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Cai ffmpeg + thu vien Chrome headless
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg \
+            libnss3 libatk-bridge2.0-0 libatk1.0-0 libcups2 libxcomposite1 \
+            libxdamage1 libxfixes3 libxrandr2 libgbm1 libxkbcommon0 libasound2t64 \
+            libpangocairo-1.0-0 libpango-1.0-0 fonts-liberation libappindicator3-1
+
+      - name: Cai dependencies (npm ci + Chrome cho Puppeteer)
+        run: npm ci
+
+      - name: Render video + dang Facebook Reels
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          if [ -n "${{ github.event.inputs.id }}" ]; then
+            node runner.js --id "${{ github.event.inputs.id }}"
+          else
+            node runner.js
+          fi
