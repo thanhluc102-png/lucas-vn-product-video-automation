@@ -249,7 +249,7 @@ function PriceScene({ p }) {
               <div style={{ display: 'inline-flex', alignItems: 'center', gap: 14, padding: '16px 34px', borderRadius: 100,
                 background: '#FF3B5C', boxShadow: '0 0 40px rgba(255,59,92,0.6)',
                 fontFamily: TEXT, fontWeight: 800, fontSize: 34, letterSpacing: '0.14em', color: '#fff' }}>
-                🔥 GIÁ SỐC HÔM NAY
+                {p.priceBadge}
               </div>
             </div>
           );
@@ -257,12 +257,16 @@ function PriceScene({ p }) {
       </Sprite>
 
       <Sprite start={11.9} end={16.2}>
-        {({ localTime }) => (
-          <div style={{ position: 'absolute', top: 540, left: 0, width: W, textAlign: 'center',
-            opacity: clamp(localTime / 0.4, 0, 1) }}>
-            <span style={{ fontFamily: TEXT, fontWeight: 600, fontSize: 52, color: 'rgba(255,255,255,0.4)', textDecoration: 'line-through' }}>{p.priceOriginal}</span>
-          </div>
-        )}
+        {({ localTime }) => {
+          // Khong hien gia gach ngang neu trung voi gia ban (khong giam gia that).
+          if (p.priceOriginal === p.priceSale) return null;
+          return (
+            <div style={{ position: 'absolute', top: 540, left: 0, width: W, textAlign: 'center',
+              opacity: clamp(localTime / 0.4, 0, 1) }}>
+              <span style={{ fontFamily: TEXT, fontWeight: 600, fontSize: 52, color: 'rgba(255,255,255,0.4)', textDecoration: 'line-through' }}>{p.priceOriginal}</span>
+            </div>
+          );
+        }}
       </Sprite>
 
       <Sprite start={12.25} end={16.2}>
@@ -280,6 +284,8 @@ function PriceScene({ p }) {
 
       <Sprite start={12.7} end={16.2}>
         {({ localTime }) => {
+          // Khong hien vong tron % neu khong co giam gia that (discountPercent '0'/rong).
+          if (!p.discountPercent || p.discountPercent === '0') return null;
           const t = Easing.easeOutBack(clamp(localTime / 0.5, 0, 1));
           return (
             <div style={{ position: 'absolute', top: 430, left: CX + 250, transform: `scale(${t}) rotate(-10deg)`, transformOrigin: 'center',
@@ -401,6 +407,7 @@ function ProductVideo(props) {
     priceOriginal: props.priceOriginal || '1.300.000₫',
     priceSale: props.priceSale || '1.150.000₫',
     discountPercent: props.discountPercent || '12',
+    priceBadge: props.priceBadge || '🔥 GIÁ SỐC HÔM NAY',
     coupon: props.coupon || 'LUCAS79K',
     couponValue: props.couponValue || 'Giảm thêm 79.000đ',
     cutout: props.cutout === undefined ? true : (props.cutout === 'false' ? false : !!props.cutout),

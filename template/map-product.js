@@ -101,6 +101,7 @@ export function mapWooProduct(product, opts = {}) {
   let discountPercent = '';
   const reg = Number(prices.regular_price), sal = Number(prices.sale_price || prices.price);
   if (reg > 0 && sal > 0 && sal < reg) discountPercent = String(Math.round((1 - sal / reg) * 100));
+  const hasDiscount = discountPercent !== '';
 
   const features = extractFeatures(p.short_description);
 
@@ -126,7 +127,9 @@ export function mapWooProduct(product, opts = {}) {
     ];
   } else {
     const salePriceNumber = Number(prices.sale_price || prices.price || 0) / Math.pow(10, Number(prices.currency_minor_unit ?? 0));
-    heroLabel = 'GIÁ SỐC CHỈ TỪ';
+    // "SỐC" (hot deal) chi noi khi co giam gia that — tranh gay hieu nham
+    // rang san pham dang khuyen mai trong khi thuc te khong giam dong nao.
+    heroLabel = hasDiscount ? 'GIÁ SỐC CHỈ TỪ' : 'GIÁ CHỈ TỪ';
     heroValue = String(Math.max(1, Math.round(salePriceNumber / 1000)) || 0);
     heroUnit = 'K';
     specChips = [
@@ -135,6 +138,11 @@ export function mapWooProduct(product, opts = {}) {
       { value: '30', unit: 'NGÀY ĐỔI TRẢ' },
     ];
   }
+
+  // Nhan "GIÁ SỐC HÔM NAY" chi dung khi co giam gia that; khong thi doi sang
+  // 1 tuyen bo trung thuc khac (chinh sach that cua shop) de khong tao cam
+  // giac dang khuyen mai gia.
+  const priceBadge = hasDiscount ? '🔥 GIÁ SỐC HÔM NAY' : '✅ CHÍNH HÃNG 100%';
 
   return {
     brand: opts.brand || (p.brands && p.brands[0] && p.brands[0].name) || '',
@@ -165,6 +173,7 @@ export function mapWooProduct(product, opts = {}) {
     // '0' thay vi '' de template khong fallback nham ve so % demo mac dinh
     // (xem product-video.jsx) khi san pham thuc su khong giam gia.
     discountPercent: discountPercent || '0',
+    priceBadge: opts.priceBadge || priceBadge,
     coupon: opts.coupon || '',
     couponValue: opts.couponValue || '',
     ctaLine: opts.ctaLine || 'Freeship nội thành • Chính hãng 100% • Đổi trả 30 ngày',
