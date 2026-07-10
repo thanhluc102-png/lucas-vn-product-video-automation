@@ -175,15 +175,28 @@ async function renderFrames(page, framesDir) {
 
 async function encodeVideo(framesDir, outFile) {
   await fsp.mkdir(path.dirname(outFile), { recursive: true });
-  const args = [
-    '-y',
-    '-framerate', String(FPS),
-    '-i', path.join(framesDir, 'f%04d.png'),
-    '-c:v', 'libx264',
-    '-pix_fmt', 'yuv420p',
-    '-movflags', '+faststart',
-    outFile,
-  ];
+  const bgmPath = path.join(__dirname, 'assets', 'bgm.m4a');
+  const hasBgm = fs.existsSync(bgmPath);
+
+  const args = ['-y', '-framerate', String(FPS), '-i', path.join(framesDir, 'f%04d.png')];
+
+  if (hasBgm) {
+    // -stream_loop -1 tren nhac: lap lai neu track ngan hon video. -shortest:
+    // cat theo stream ngan hon (luon la video, DURATION_SEC giay) du nhac dai
+    // hon. afade: fade-out 1s cuoi de ket thuc muot, khong bi ngat dot ngot.
+    args.push(
+      '-stream_loop', '-1', '-i', bgmPath,
+      '-filter_complex', `[1:a]afade=t=out:st=${DURATION_SEC - 1}:d=1[aout]`,
+      '-map', '0:v:0', '-map', '[aout]',
+      '-c:v', 'libx264', '-pix_fmt', 'yuv420p',
+      '-c:a', 'aac', '-b:a', '128k',
+      '-shortest'
+    );
+  } else {
+    args.push('-c:v', 'libx264', '-pix_fmt', 'yuv420p');
+  }
+
+  args.push('-movflags', '+faststart', outFile);
   log(`ffmpeg ${args.join(' ')}`);
   await execFileAsync('ffmpeg', args);
 }
