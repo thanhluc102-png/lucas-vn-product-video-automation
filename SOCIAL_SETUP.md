@@ -90,3 +90,30 @@ Sau khi set xong, workflow `.github/workflows/daily-reel.yml` (chạy cron hằn
   yêu cầu **App Review** cho 3 quyền ở Bước 2 — có thể mất vài ngày đến vài tuần để duyệt.
 - Long-lived Page token về lý thuyết không hết hạn, nhưng nếu gặp lỗi `190 Invalid OAuth token` khi
   chạy cron, lặp lại Bước 2–4 để lấy token mới.
+
+---
+
+# (Tuỳ chọn) Lấy Anthropic API Key để Claude viết lại nội dung mượt hơn
+
+`runner.js` có thể gọi Claude (xem [polish.js](polish.js)) để viết lại hook line, feature bullet và
+caption Facebook cho tự nhiên/mượt hơn — dựa **đúng** trên dữ liệu thật của sản phẩm (không bịa số
+liệu, không nói giảm giá nếu không có). Bước này hoàn toàn tuỳ chọn: nếu thiếu `ANTHROPIC_API_KEY`,
+runner vẫn chạy bình thường và dùng nội dung gốc (trích từ mô tả sản phẩm).
+
+## Lấy API key
+
+1. Vào https://console.anthropic.com/ → đăng nhập/đăng ký.
+2. Vào **Settings → API Keys → Create Key**.
+3. Copy key (dạng `sk-ant-api03-...`) — chỉ hiện 1 lần lúc tạo.
+
+## Add vào GitHub Secrets
+
+```bash
+gh secret set ANTHROPIC_API_KEY --body "sk-ant-api03-..."
+```
+
+## Chi phí
+
+Dùng model `claude-opus-4-8`, mỗi lần render chỉ gọi 1 request ngắn (vài trăm token in/out) →
+**~0,01 USD/lần**, chạy hằng ngày gần như không đáng kể. Xem giá hiện tại tại
+https://claude.com/pricing.

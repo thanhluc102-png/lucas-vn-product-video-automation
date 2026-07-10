@@ -20,6 +20,7 @@ import { promisify } from 'node:util';
 import puppeteer from 'puppeteer';
 import { mapWooProduct } from './template/map-product.js';
 import { publishReelToFacebook } from './publishers/facebook.js';
+import { polishCopy } from './polish.js';
 
 const execFileAsync = promisify(execFile);
 
@@ -222,6 +223,24 @@ async function main() {
     });
     log(`Props: ${JSON.stringify(props)}`);
 
+    let facebookCaption = null;
+    if (process.env.ANTHROPIC_API_KEY) {
+      try {
+        log('Polish noi dung bang Claude...');
+        const polished = await polishCopy(product, props);
+        props.hookLine = polished.hookLine;
+        props.feature1 = polished.feature1;
+        props.feature2 = polished.feature2;
+        props.feature3 = polished.feature3;
+        props.feature4 = polished.feature4;
+        facebookCaption = polished.facebookCaption;
+      } catch (e) {
+        log(`Polish that bai, dung noi dung goc: ${e.message}`);
+      }
+    } else {
+      log('Bo qua polish: thieu bien moi truong ANTHROPIC_API_KEY.');
+    }
+
     log('Serving template/ qua HTTP...');
     server = await serveDir(TEMPLATE_DIR);
     const port = server.address().port;
@@ -266,7 +285,7 @@ async function main() {
 
     if (publish) {
       if (process.env.FB_PAGE_ID && process.env.FB_PAGE_ACCESS_TOKEN) {
-        const caption = buildFacebookCaption(product, props);
+        const caption = facebookCaption || buildFacebookCaption(product, props);
         log('Dang len Facebook Page Reels...');
         await publishReelToFacebook(outFile, { description: caption });
       } else {
