@@ -16,8 +16,13 @@ function hexToRgba(hex, a) {
 }
 
 // Background knockout: reads the image pixels, samples the 4 corners to find
-// the background colour, and makes matching pixels transparent (with a feather
-// edge). Bails to the original when: cutout is off, the image is already
+// the background colour, then flood-fills inward from every border pixel that
+// matches it (with a feather edge at the boundary). Flood-filling from the
+// border — instead of testing every pixel in isolation — means a product with
+// light/near-white parts (clear cases, pale grey, glossy highlights) keeps
+// those parts as long as they're not actually contiguous with the border
+// background; a plain per-pixel colour-distance pass would erase them too.
+// Bails to the original when: cutout is off, the image is already
 // transparent, or the pixels can't be read (cross-origin taint). Cached by src.
 const _cutoutCache = {};
 function useCutout(src, enabled, tolerance = 62) {
@@ -38,12 +43,33 @@ function useCutout(src, enabled, tolerance = 62) {
         for (const [cx, cy] of corners) { const i = (cy * w + cx) * 4; r += d[i]; g += d[i + 1]; b += d[i + 2]; a += d[i + 3]; }
         r /= 4; g /= 4; b /= 4; a /= 4;
         if (a < 250) { finish(null); return; } // already has transparency
+
         const t2 = tolerance * 1.7;
-        for (let i = 0; i < d.length; i += 4) {
-          const dist = Math.sqrt((d[i] - r) ** 2 + (d[i + 1] - g) ** 2 + (d[i + 2] - b) ** 2);
-          if (dist < tolerance) d[i + 3] = 0;
-          else if (dist < t2) d[i + 3] = Math.round(d[i + 3] * ((dist - tolerance) / (t2 - tolerance)));
+        const dist = (i) => Math.sqrt((d[i] - r) ** 2 + (d[i + 1] - g) ** 2 + (d[i + 2] - b) ** 2);
+        const n = w * h;
+        const queued = new Uint8Array(n);
+        const stack = [];
+        const seed = (px) => {
+          if (queued[px]) return;
+          const i = px * 4;
+          if (dist(i) < t2) { queued[px] = 1; stack.push(px); }
+        };
+        for (let xx = 0; xx < w; xx++) { seed(xx); seed((h - 1) * w + xx); }
+        for (let yy = 0; yy < h; yy++) { seed(yy * w); seed(yy * w + (w - 1)); }
+
+        while (stack.length) {
+          const px = stack.pop();
+          const xx = px % w, yy = (px / w) | 0;
+          const i = px * 4;
+          const dd = dist(i);
+          if (dd < tolerance) d[i + 3] = 0;
+          else d[i + 3] = Math.round(d[i + 3] * ((dd - tolerance) / (t2 - tolerance)));
+          if (xx > 0) seed(px - 1);
+          if (xx < w - 1) seed(px + 1);
+          if (yy > 0) seed(px - w);
+          if (yy < h - 1) seed(px + w);
         }
+
         x.putImageData(id, 0, 0);
         finish(c.toDataURL('image/png'));
       } catch (e) { finish(null); } // tainted / cross-origin
