@@ -238,7 +238,18 @@ Lưu ý khi dùng cron:
   Security) để ghi file vào thư mục Dropbox/Downloads.
 - Muốn chạy nhiều sản phẩm mỗi ngày: gọi `run-all.sh` từ cron thay vì gọi `runner.js` trực tiếp.
 
-### 9.4. Đăng tự động lên TikTok/YouTube
+### 9.4. Nhạc nền
+
+`assets/bgm.m4a` là nhạc nền mặc định, tự động trộn vào video (lặp lại nếu ngắn hơn 20s, cắt vừa
+đúng độ dài video, fade-out 1s cuối). Muốn đổi nhạc: thay file `assets/bgm.m4a` bằng track khác
+(giữ nguyên tên file, hoặc sửa `bgmPath` trong `encodeVideo()` ở `runner.js`). Nếu xoá file này đi,
+runner tự động render video không có nhạc (không lỗi).
+
+> ⚠️ Chỉ dùng nhạc mà bạn có quyền sử dụng công khai (đã mua bản quyền, tự sáng tác, hoặc lấy từ thư
+> viện royalty-free) — video đăng công khai lên Facebook Page kinh doanh nên tránh nhạc có bản quyền
+> chưa xin phép.
+
+### 9.5. Đăng tự động lên TikTok/YouTube
 
 Không nằm trong phạm vi tool này (xem mục 8) — cần tích hợp riêng theo API từng nền tảng.
 
