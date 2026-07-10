@@ -70,6 +70,19 @@ async function waitUntilProcessed(videoId, accessToken, { timeoutMs = 120000, in
   log('  qua thoi gian cho xu ly, van thu publish...');
 }
 
+async function commentOnPost(postId, message, accessToken) {
+  const res = await fetch(`${GRAPH_BASE}/${postId}/comments`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message, access_token: accessToken }),
+  });
+  const json = await res.json();
+  if (!res.ok) {
+    throw new Error(`Facebook comment that bai: ${JSON.stringify(json)}`);
+  }
+  return json; // { id: comment_id }
+}
+
 async function finishAndPublish(pageId, videoId, accessToken, { description, title } = {}) {
   const params = new URLSearchParams({
     upload_phase: 'finish',
@@ -88,7 +101,7 @@ async function finishAndPublish(pageId, videoId, accessToken, { description, tit
   return json; // { success, post_id }
 }
 
-export async function publishReelToFacebook(videoPath, { description, title } = {}) {
+export async function publishReelToFacebook(videoPath, { description, title, linkComment } = {}) {
   const pageId = process.env.FB_PAGE_ID;
   const accessToken = process.env.FB_PAGE_ACCESS_TOKEN;
   if (!pageId || !accessToken) {
@@ -107,5 +120,15 @@ export async function publishReelToFacebook(videoPath, { description, title } = 
   log('Publish Reel...');
   const result = await finishAndPublish(pageId, videoId, accessToken, { description, title });
   log(`Da dang! post_id=${result.post_id || '(khong co)'}`);
+
+  if (linkComment && result.post_id) {
+    try {
+      await commentOnPost(result.post_id, linkComment, accessToken);
+      log('Da them comment link san pham.');
+    } catch (e) {
+      log(`Khong the them comment link (bo qua, post chinh van thanh cong): ${e.message}`);
+    }
+  }
+
   return result;
 }

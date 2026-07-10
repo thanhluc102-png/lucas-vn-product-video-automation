@@ -74,15 +74,25 @@ async function fetchLatestProduct() {
   return list[0];
 }
 
+// Caption day du (khong chua link san pham — link duoc dang rieng o comment,
+// xem publishReelToFacebook({ linkComment })).
 function buildFacebookCaption(product, props) {
+  const hasDiscount = props.discountPercent && props.discountPercent !== '0';
   const lines = [
     props.productName,
     '',
-    props.discountPercent ? `${props.priceSale} (giảm ${props.discountPercent}%)` : props.priceSale,
-    props.coupon ? `Mã ${props.coupon}: ${props.couponValue}` : '',
-    product.permalink ? `Xem chi tiết: ${product.permalink}` : '',
-    '#lucasvn #giasoc',
-  ].filter((l) => l !== '');
+    props.hookLine,
+    '',
+    ...[props.feature1, props.feature2, props.feature3, props.feature4]
+      .filter(Boolean)
+      .map((f) => `✅ ${f}`),
+    '',
+    hasDiscount ? `${props.priceSale} (giảm ${props.discountPercent}%)` : props.priceSale,
+    props.coupon ? `🎁 Mã ${props.coupon}: ${props.couponValue}` : null,
+    '',
+    props.ctaLine,
+    hasDiscount ? '#lucasvn #giasoc' : '#lucasvn #chinhhang',
+  ].filter((l) => l !== null);
   return lines.join('\n');
 }
 
@@ -240,7 +250,7 @@ async function main() {
     if (process.env.ANTHROPIC_API_KEY) {
       try {
         log('Polish noi dung bang Claude...');
-        const polished = await polishCopy(product, props);
+        const polished = await polishCopy(props);
         props.hookLine = polished.hookLine;
         props.feature1 = polished.feature1;
         props.feature2 = polished.feature2;
@@ -299,8 +309,9 @@ async function main() {
     if (publish) {
       if (process.env.FB_PAGE_ID && process.env.FB_PAGE_ACCESS_TOKEN) {
         const caption = facebookCaption || buildFacebookCaption(product, props);
+        const linkComment = product.permalink ? `Xem chi tiết & đặt hàng: ${product.permalink}` : undefined;
         log('Dang len Facebook Page Reels...');
-        await publishReelToFacebook(outFile, { description: caption });
+        await publishReelToFacebook(outFile, { description: caption, linkComment });
       } else {
         log('Bo qua dang Facebook: thieu bien moi truong FB_PAGE_ID / FB_PAGE_ACCESS_TOKEN.');
       }

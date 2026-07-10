@@ -1,9 +1,9 @@
 name: Daily product reel
 
-# 01:00 UTC = 08:00 Asia/Ho_Chi_Minh (UTC+7). Doi gio o day neu can.
+# 23:17 UTC = 06:17 Asia/Ho_Chi_Minh (UTC+7) ngay hom sau. Doi gio o day neu can.
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '17 23 * * *'
   workflow_dispatch:
     inputs:
       id:

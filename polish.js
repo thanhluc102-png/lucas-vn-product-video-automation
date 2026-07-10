@@ -16,14 +16,14 @@ const CopySchema = z.object({
   feature2: z.string().describe('Tinh nang noi bat 2, 1 cau ngan'),
   feature3: z.string().describe('Tinh nang noi bat 3, 1 cau ngan'),
   feature4: z.string().describe('Tinh nang noi bat 4, 1 cau ngan'),
-  facebookCaption: z.string().describe('Caption dang kem video Facebook Reels, 2-4 dong, co the dung emoji'),
+  facebookCaption: z.string().describe('Caption dang kem video Facebook Reels, dai hơn (khoang 6-10 dong), co the dung emoji, KHONG chua link san pham'),
 });
 
 function log(msg) {
   console.log(`[polish] ${msg}`);
 }
 
-function buildPrompt(product, props) {
+function buildPrompt(props) {
   const context = {
     productName: props.productName,
     brand: props.brand,
@@ -35,7 +35,6 @@ function buildPrompt(product, props) {
     coupon: props.coupon,
     couponValue: props.couponValue,
     shopName: props.shopName,
-    productUrl: product.permalink || '',
   };
 
   return `Day la du lieu THAT ve 1 san pham cua Lucas.vn:
@@ -49,17 +48,19 @@ QUY TAC BAT BUOC:
 - Neu discountPercent la "0", KHONG duoc noi san pham dang giam gia hay "gia soc".
 - Van phong: tieng Viet, ngan gon, tu nhien, gay chu y, phu hop content ban hang online.
 - hookLine va moi feature: toi da khoang 90 ky tu.
-- facebookCaption: 2-4 dong, co the dung emoji, ket bang loi keu goi mua hang;
-  neu co coupon thi nhac ma coupon.`;
+- facebookCaption: dai hon, khoang 6-10 dong, ke chi tiet ve san pham va loi ich,
+  co the dung emoji, ket bang loi keu goi mua hang; neu co coupon thi nhac ma coupon.
+  TUYET DOI KHONG chen link/URL san pham vao caption — link se duoc dang rieng
+  o phan binh luan, khong phai trong caption nay.`;
 }
 
-export async function polishCopy(product, props) {
+export async function polishCopy(props) {
   const client = new Anthropic(); // doc ANTHROPIC_API_KEY tu environment
 
   const res = await client.messages.parse({
     model: MODEL,
     max_tokens: 1024,
-    messages: [{ role: 'user', content: buildPrompt(product, props) }],
+    messages: [{ role: 'user', content: buildPrompt(props) }],
     output_config: { format: zodOutputFormat(CopySchema) },
   });
 
