@@ -16,7 +16,7 @@ const CopySchema = z.object({
   feature2: z.string().describe('Tinh nang noi bat 2, 1 cau ngan'),
   feature3: z.string().describe('Tinh nang noi bat 3, 1 cau ngan'),
   feature4: z.string().describe('Tinh nang noi bat 4, 1 cau ngan'),
-  facebookCaption: z.string().describe('Caption dang kem video Facebook Reels, dai hơn (khoang 6-10 dong), co the dung emoji, KHONG chua link san pham'),
+  facebookCaption: z.string().describe('Caption dang kem video Facebook Reels, dai hơn (khoang 6-10 dong), co the dung emoji, KHONG chua link va KHONG nhac ten shop/website'),
 });
 
 function log(msg) {
@@ -34,7 +34,6 @@ function buildPrompt(props) {
     discountPercent: props.discountPercent,
     coupon: props.coupon,
     couponValue: props.couponValue,
-    shopName: props.shopName,
   };
 
   return `Day la du lieu THAT ve 1 san pham cua Lucas.vn:
@@ -49,9 +48,11 @@ QUY TAC BAT BUOC:
 - Van phong: tieng Viet, ngan gon, tu nhien, gay chu y, phu hop content ban hang online.
 - hookLine va moi feature: toi da khoang 90 ky tu.
 - facebookCaption: dai hon, khoang 6-10 dong, ke chi tiet ve san pham va loi ich,
-  co the dung emoji, ket bang loi keu goi mua hang; neu co coupon thi nhac ma coupon.
-  TUYET DOI KHONG chen link/URL san pham vao caption — link se duoc dang rieng
-  o phan binh luan, khong phai trong caption nay.`;
+  co the dung emoji, ket bang loi keu goi mua hang chung chung (vd "Inbox ngay
+  de dat hang!", "Chot don lien tay!"); neu co coupon thi nhac ma coupon.
+  TUYET DOI KHONG chen link/URL san pham, va KHONG nhac ten shop hay website
+  (vd "Lucas.vn") trong caption — nhung thu do se duoc dang rieng o phan binh
+  luan, khong phai trong caption nay.`;
 }
 
 export async function polishCopy(props) {

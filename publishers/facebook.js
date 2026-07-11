@@ -123,7 +123,10 @@ export async function publishReelToFacebook(videoPath, { description, title, lin
 
   if (linkComment && result.post_id) {
     try {
-      await commentOnPost(result.post_id, linkComment, accessToken);
+      // Graph API doi ID dang "{page_id}_{post_id}" cho edge /comments — goi
+      // bang post_id tran se bao loi (#12) "singular statuses API is
+      // deprecated" (da xac nhan qua test truc tiep).
+      await commentOnPost(`${pageId}_${result.post_id}`, linkComment, accessToken);
       log('Da them comment link san pham.');
     } catch (e) {
       log(`Khong the them comment link (bo qua, post chinh van thanh cong): ${e.message}`);
