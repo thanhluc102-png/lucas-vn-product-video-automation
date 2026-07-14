@@ -132,11 +132,18 @@ export function mapWooProduct(product, opts = {}) {
     heroLabel = hasDiscount ? 'GIÁ SỐC CHỈ TỪ' : 'GIÁ CHỈ TỪ';
     heroValue = String(Math.max(1, Math.round(salePriceNumber / 1000)) || 0);
     heroUnit = 'K';
-    specChips = [
-      { value: discountPercent || '0', unit: '% GIẢM' },
-      { value: '100', unit: '% CHÍNH HÃNG' },
-      { value: '30', unit: 'NGÀY ĐỔI TRẢ' },
-    ];
+    // Chi hien chip "% GIẢM" khi co giam gia that; khong thi bo han (khong hien
+    // "0% GIẢM"), chi con 2 chip chinh hang + doi tra.
+    specChips = hasDiscount
+      ? [
+          { value: discountPercent, unit: '% GIẢM' },
+          { value: '100', unit: '% CHÍNH HÃNG' },
+          { value: '30', unit: 'NGÀY ĐỔI TRẢ' },
+        ]
+      : [
+          { value: '100', unit: '% CHÍNH HÃNG' },
+          { value: '30', unit: 'NGÀY ĐỔI TRẢ' },
+        ];
   }
 
   // Nhan "GIÁ SỐC HÔM NAY" chi dung khi co giam gia that; khong thi doi sang
@@ -151,8 +158,11 @@ export function mapWooProduct(product, opts = {}) {
     cutout: opts.cutout !== undefined ? opts.cutout : true,
 
     productName: p.name || '',
-    // QUAN TRỌNG: dùng ảnh LOCAL (tool tự tải images[0].src về) để xuất không mất ảnh.
+    // QUAN TRỌNG: dùng ảnh LOCAL (tool tự tải images[].src về) để xuất không mất ảnh.
+    // productImage2/3: 2 shot khác cho các màn khác nhau (fallback về ảnh chính).
     productImage: opts.productImageLocalPath || (p.images && p.images[0] && p.images[0].src) || '',
+    productImage2: opts.productImageLocalPath2 || opts.productImageLocalPath || '',
+    productImage3: opts.productImageLocalPath3 || opts.productImageLocalPath2 || opts.productImageLocalPath || '',
     hookLine: opts.hookLine || features[0] || p.name || '',
 
     feature1: features[0] || '',

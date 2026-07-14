@@ -121,15 +121,28 @@ export async function publishReelToFacebook(videoPath, { description, title, lin
   const result = await finishAndPublish(pageId, videoId, accessToken, { description, title });
   log(`Da dang! post_id=${result.post_id || '(khong co)'}`);
 
-  if (linkComment && result.post_id) {
+  if (linkComment) {
+    // Cho 15s de Facebook dong bo va kich hoat post/video tren CDN truoc khi comment
+    log('Cho 15s truoc khi dang comment...');
+    await new Promise((r) => setTimeout(r, 15000));
+
     try {
-      // Graph API doi ID dang "{page_id}_{post_id}" cho edge /comments — goi
-      // bang post_id tran se bao loi (#12) "singular statuses API is
-      // deprecated" (da xac nhan qua test truc tiep).
-      await commentOnPost(`${pageId}_${result.post_id}`, linkComment, accessToken);
-      log('Da them comment link san pham.');
-    } catch (e) {
-      log(`Khong the them comment link (bo qua, post chinh van thanh cong): ${e.message}`);
+      // Cach chuan cho Reels: comment truc tiep len videoId (/{video_id}/comments)
+      log(`Dang comment link san pham len video_id=${videoId}...`);
+      await commentOnPost(videoId, linkComment, accessToken);
+      log('Da them comment link san pham bang video_id.');
+    } catch (e1) {
+      log(`Comment bang video_id that bai: ${e1.message}`);
+      if (result.post_id) {
+        try {
+          // Backup: comment qua post_id ({page_id}_{post_id})
+          log(`Thu comment bang post_id=${result.post_id}...`);
+          await commentOnPost(`${pageId}_${result.post_id}`, linkComment, accessToken);
+          log('Da them comment link san pham bang post_id.');
+        } catch (e2) {
+          log(`Comment bang post_id cung that bai (bo qua, dang video van thanh cong): ${e2.message}`);
+        }
+      }
     }
   }
 

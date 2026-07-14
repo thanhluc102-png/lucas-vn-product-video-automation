@@ -190,20 +190,23 @@ async function encodeVideo(framesDir, outFile) {
 
   const args = ['-y', '-framerate', String(FPS), '-i', path.join(framesDir, 'f%04d.png')];
 
+  // Frame chup o 2x -> thu nho ve dung 1080x1920 bang lanczos (net & muot).
+  const vScale = `scale=${VIDEO_WIDTH}:${VIDEO_HEIGHT}:flags=lanczos`;
+
   if (hasBgm) {
     // -stream_loop -1 tren nhac: lap lai neu track ngan hon video. -shortest:
     // cat theo stream ngan hon (luon la video, DURATION_SEC giay) du nhac dai
     // hon. afade: fade-out 1s cuoi de ket thuc muot, khong bi ngat dot ngot.
     args.push(
       '-stream_loop', '-1', '-i', bgmPath,
-      '-filter_complex', `[1:a]afade=t=out:st=${DURATION_SEC - 1}:d=1[aout]`,
-      '-map', '0:v:0', '-map', '[aout]',
-      '-c:v', 'libx264', '-pix_fmt', 'yuv420p',
+      '-filter_complex', `[0:v]${vScale}[v];[1:a]afade=t=out:st=${DURATION_SEC - 1}:d=1[aout]`,
+      '-map', '[v]', '-map', '[aout]',
+      '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-crf', '18',
       '-c:a', 'aac', '-b:a', '128k',
       '-shortest'
     );
   } else {
-    args.push('-c:v', 'libx264', '-pix_fmt', 'yuv420p');
+    args.push('-vf', vScale, '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-crf', '18');
   }
 
   args.push('-movflags', '+faststart', outFile);
@@ -230,19 +233,30 @@ async function main() {
     }
     const id = product.id;
 
-    const imageUrl = product.images && product.images[0] && product.images[0].src;
-    if (!imageUrl) throw new Error('Product khong co images[0].src');
+    // Lay tối đa 3 anh KHAC NHAU (dedup theo URL) de moi man video dung 1 shot
+    // rieng, video sinh dong hon. Neu san pham co it anh thi lap lai anh dau.
+    const allUrls = (product.images || []).map((im) => im && im.src).filter(Boolean);
+    const uniqueUrls = [...new Set(allUrls)];
+    if (uniqueUrls.length === 0) throw new Error('Product khong co anh nao (images[].src rong)');
+    const chosen = [0, 1, 2].map((i) => uniqueUrls[i] || uniqueUrls[uniqueUrls.length - 1]);
 
-    const imageRelPath = 'images/product.png';
-    const imageDest = path.join(TEMPLATE_DIR, imageRelPath);
-    log(`Tai anh san pham: ${imageUrl}`);
-    await downloadImage(imageUrl, imageDest);
+    const imageRelPaths = ['images/product.png', 'images/product2.png', 'images/product3.png'];
+    for (let i = 0; i < chosen.length; i++) {
+      log(`Tai anh ${i + 1}/${chosen.length}: ${chosen[i]}`);
+      await downloadImage(chosen[i], path.join(TEMPLATE_DIR, imageRelPaths[i]));
+    }
+    const imageRelPath = imageRelPaths[0];
 
     const props = mapWooProduct(product, {
       productImageLocalPath: imageRelPath,
+      productImageLocalPath2: imageRelPaths[1],
+      productImageLocalPath3: imageRelPaths[2],
       coupon: 'LUCAS79K',
       couponValue: 'Giảm thêm 79.000đ',
       accent: '#3B7DFF',
+      // Giu nguyen anh goc tu web (co the co nen trang/xam nhe rieng), khong
+      // co tach nen nua — tranh loi cutout voi san pham mau sang.
+      cutout: false,
     });
     log(`Props: ${JSON.stringify(props)}`);
 
@@ -277,7 +291,9 @@ async function main() {
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
     });
     const page = await browser.newPage();
-    await page.setViewport({ width: 1160, height: 2040, deviceScaleFactor: 1 });
+    // deviceScaleFactor 2 -> chup frame o 2x (2160x3840), sau do ffmpeg thu nho
+    // ve 1080x1920 (supersampling) -> canh chu/so net & muot hon han.
+    await page.setViewport({ width: 1160, height: 2040, deviceScaleFactor: 2 });
 
     page.on('pageerror', (e) => log(`  [pageerror] ${e}`));
     page.on('console', (msg) => {
