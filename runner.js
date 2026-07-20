@@ -163,6 +163,28 @@ function todayYYYYMMDD() {
   return `${d.getFullYear()}${pad2(d.getMonth() + 1)}${pad2(d.getDate())}`;
 }
 
+async function saveReelToHistory(postId, product, props, caption) {
+  const historyFile = path.join(__dirname, 'reels_history.json');
+  let history = [];
+  try {
+    const data = await fsp.readFile(historyFile, 'utf8');
+    history = JSON.parse(data);
+  } catch (e) {
+    history = [];
+  }
+  const newEntry = {
+    post_id: postId,
+    product_id: product.id,
+    product_name: props.productName,
+    hook_line: props.hookLine,
+    caption: caption,
+    publish_time: new Date().toISOString(),
+    performance: null
+  };
+  history.push(newEntry);
+  await fsp.writeFile(historyFile, JSON.stringify(history, null, 2), 'utf8');
+}
+
 async function renderFrames(page, framesDir) {
   const svg = await page.$('svg');
   if (!svg) throw new Error('Khong tim thay phan tu <svg> tren trang.');
@@ -320,7 +342,15 @@ async function main() {
         const caption = facebookCaption || buildFacebookCaption(product, props);
         const linkComment = product.permalink ? `Xem chi tiết & đặt hàng: ${product.permalink}` : undefined;
         log('Dang len Facebook Page Reels...');
-        await publishReelToFacebook(outFile, { description: caption, linkComment });
+        const fbResult = await publishReelToFacebook(outFile, { description: caption, linkComment });
+        if (fbResult && fbResult.post_id) {
+          try {
+            await saveReelToHistory(fbResult.post_id, product, props, caption);
+            log('Da luu Reel vao lich su reels_history.json');
+          } catch (eHistory) {
+            log(`Loi khi luu lich su Reel: ${eHistory.message}`);
+          }
+        }
       } else {
         log('Bo qua dang Facebook: thieu bien moi truong FB_PAGE_ID / FB_PAGE_ACCESS_TOKEN.');
       }

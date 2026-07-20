@@ -7,6 +7,11 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { z } from 'zod';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const MODEL = 'claude-opus-4-8';
 
@@ -36,6 +41,16 @@ function buildPrompt(props) {
     couponValue: props.couponValue,
   };
 
+  let learnings = '';
+  try {
+    const learningsPath = path.join(__dirname, 'learnings.txt');
+    if (fs.existsSync(learningsPath)) {
+      learnings = `\n- HƯỚNG DẪN TỐI ƯU TỪ TƯƠNG TÁC THỰC TẾ HÀNG NGÀY (Cần tuân thủ nghiêm ngặt):\n${fs.readFileSync(learningsPath, 'utf8')}\n`;
+    }
+  } catch (e) {
+    // ignore
+  }
+
   return `Day la du lieu THAT ve 1 san pham cua Lucas.vn:
 ${JSON.stringify(context, null, 2)}
 
@@ -52,7 +67,8 @@ QUY TAC BAT BUOC:
   de dat hang!", "Chot don lien tay!"); neu co coupon thi nhac ma coupon.
   TUYET DOI KHONG chen link/URL san pham, va KHONG nhac ten shop hay website
   (vd "Lucas.vn") trong caption — nhung thu do se duoc dang rieng o phan binh
-  luan, khong phai trong caption nay.`;
+  luan, khong phai trong caption nay.
+${learnings}`;
 }
 
 export async function polishCopy(props) {
