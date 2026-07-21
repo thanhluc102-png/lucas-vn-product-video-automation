@@ -66,11 +66,36 @@ async function fetchProductById(id) {
 }
 
 async function fetchLatestProduct() {
-  const url = 'https://lucas.vn/wp-json/wc/store/v1/products?orderby=date&order=desc&per_page=1';
+  // Lấy danh sách 50 sản phẩm gần đây nhất từ WooCommerce Store API
+  const url = 'https://lucas.vn/wp-json/wc/store/v1/products?orderby=date&order=desc&per_page=50';
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`Fetch danh sach san pham that bai: HTTP ${res.status} (${url})`);
+  if (!res.ok) throw new Error(`Fetch danh sách sản phẩm thất bại: HTTP ${res.status} (${url})`);
   const list = await res.json();
-  if (!Array.isArray(list) || list.length === 0) throw new Error('Store API tra ve danh sach san pham rong.');
+  if (!Array.isArray(list) || list.length === 0) throw new Error('Store API trả về danh sách sản phẩm rỗng.');
+
+  // Đọc lịch sử các video sản phẩm đã đăng để lọc chống trùng
+  let postedIds = new Set();
+  const historyFile = path.join(__dirname, 'reels_history.json');
+  try {
+    const raw = await fsp.readFile(historyFile, 'utf8');
+    const history = JSON.parse(raw);
+    history.forEach(item => {
+      if (item.product_id) postedIds.add(String(item.product_id));
+      if (item.product_name) postedIds.add(item.product_name.toLowerCase().trim());
+    });
+  } catch (e) {
+    // Chưa có history -> sẽ lấy sản phẩm đầu tiên
+  }
+
+  // Lọc sản phẩm CHƯA TỪNG ĐĂNG VIDEO
+  const unpostedList = list.filter(p => !postedIds.has(String(p.id)) && !postedIds.has(p.name.toLowerCase().trim()));
+
+  if (unpostedList.length > 0) {
+    log(`[*] Tìm thấy ${unpostedList.length}/${list.length} sản phẩm CHƯA ĐĂNG VIDEO. Chọn sản phẩm: ${unpostedList[0].name} (ID: ${unpostedList[0].id})`);
+    return unpostedList[0];
+  }
+
+  log(`[*] Tất cả ${list.length} sản phẩm trong kho 50 bài đã được đăng. Tự động xoay tua lấy bài cũ nhất.`);
   return list[0];
 }
 
