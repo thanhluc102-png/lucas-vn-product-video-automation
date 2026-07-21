@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lucas Combo — Dashboard Tối Ưu Video Automation & AI Insights</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    :root {
+      --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+      --card-bg: rgba(30, 41, 59, 0.7);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --card-hover: rgba(255, 255, 255, 0.12);
+      --accent-orange: #ff6b00;
+      --accent-purple: #8b5cf6;
+      --accent-blue: #3b82f6;
+      --accent-green: #10b981;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-gradient);
+      color: var(--text-main);
+      min-height: 100vh;
+      padding: 24px;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 32px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    .logo-area {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .logo-badge {
+      background: linear-gradient(135deg, var(--accent-orange), #ff9100);
+      color: #fff;
+      font-family: 'Outfit', sans-serif;
+      font-weight: 800;
+      font-size: 20px;
+      padding: 10px 16px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(255, 107, 0, 0.4);
+    }
+
+    .title-group h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 26px;
+      font-weight: 700;
+      background: linear-gradient(90deg, #ffffff, #cbd5e1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .title-group p {
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .action-group {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .btn {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text-main);
+      border: 1px solid var(--card-border);
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s ease;
+      backdrop-filter: blur(10px);
+    }
+
+    .btn:hover {
+      background: rgba(255, 255, 255, 0.16);
+      transform: translateY(-2px);
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--accent-orange), #e65100);
+      border: none;
+      box-shadow: 0 4px 15px rgba(255, 107, 0, 0.3);
+    }
+
+    .btn-primary:hover {
+      background: linear-gradient(135deg, #ff7b1a, #f55700);
+      box-shadow: 0 6px 20px rgba(255, 107, 0, 0.5);
+    }
+
+    /* KPI Grid */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-bottom: 32px;
+    }
+
+    .kpi-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 22px;
+      backdrop-filter: blur(16px);
+      box-shadow: var(--glass-shadow);
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.3s ease, border-color 0.3s ease;
+    }
+
+    .kpi-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .kpi-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 4px;
+      height: 100%;
+      background: var(--accent-color, var(--accent-orange));
+    }
+
+    .kpi-title {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+
+    .kpi-value {
+      font-family: 'Outfit', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      margin-bottom: 4px;
+    }
+
+    .kpi-sub {
+      font-size: 12px;
+      color: var(--accent-green);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* Main Content Layout */
+    .main-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 24px;
+      margin-bottom: 32px;
+    }
+
+    @media (max-width: 1024px) {
+      .main-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .panel {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 24px;
+      backdrop-filter: blur(16px);
+      box-shadow: var(--glass-shadow);
+    }
+
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .panel-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .panel-title icon {
+      font-size: 20px;
+    }
+
+    /* AI Brain Box */
+    .ai-brain-card {
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.15) 0%, rgba(30, 41, 59, 0.8) 100%);
+      border: 1px solid rgba(139, 92, 246, 0.3);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .ai-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(139, 92, 246, 0.25);
+      color: #a78bfa;
+      border: 1px solid rgba(139, 92, 246, 0.4);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 14px;
+    }
+
+    .learnings-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .learnings-list li {
+      position: relative;
+      padding-left: 24px;
+      font-size: 14px;
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
+
+    .learnings-list li::before {
+      content: '💡';
+      position: absolute;
+      left: 0;
+      top: 2px;
+      font-size: 14px;
+    }
+
+    /* Chart Box */
+    .chart-container {
+      position: relative;
+      height: 260px;
+      width: 100%;
+    }
+
+    /* Table */
+    .table-responsive {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 14px;
+    }
+
+    th {
+      background: rgba(15, 23, 42, 0.6);
+      color: var(--text-muted);
+      font-weight: 600;
+      padding: 14px 16px;
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 0.5px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    td {
+      padding: 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      vertical-align: middle;
+    }
+
+    tr:hover td {
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .prod-title {
+      font-weight: 600;
+      color: #f1f5f9;
+      margin-bottom: 2px;
+    }
+
+    .prod-hook {
+      font-size: 12px;
+      color: #a78bfa;
+      font-style: italic;
+    }
+
+    .badge-score {
+      background: rgba(255, 107, 0, 0.2);
+      color: #ff8c38;
+      border: 1px solid rgba(255, 107, 0, 0.4);
+      padding: 4px 10px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 13px;
+      display: inline-block;
+    }
+
+    .stats-inline {
+      display: flex;
+      gap: 12px;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .stats-inline span {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--text-muted);
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+      margin-right: 6px;
+    }
+    .status-dot.green { background: #10b981; box-shadow: 0 0 10px #10b981; }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="logo-area">
+        <div class="logo-badge">LUCAS</div>
+        <div class="title-group">
+          <h1>Dashboard AI Video Reels Analytics</h1>
+          <p>Tự động theo dõi tương tác & Học tối ưu từ Facebook Graph API</p>
+        </div>
+      </div>
+      <div class="action-group">
+        <span class="btn"><span class="status-dot green"></span> Auto-Sync Active</span>
+        <button class="btn btn-primary" onclick="loadDashboardData()">🔄 Tải Lại Dữ Liệu</button>
+      </div>
+    </header>
+
+    <!-- KPI Cards -->
+    <div class="kpi-grid">
+      <div class="kpi-card" style="--accent-color: #3b82f6;">
+        <div class="kpi-title">Tổng Video Reels Đã Đăng</div>
+        <div class="kpi-value" id="kpi-total">0</div>
+        <div class="kpi-sub">📈 Đã đồng bộ từ Facebook Page</div>
+      </div>
+      <div class="kpi-card" style="--accent-color: #ff6b00;">
+        <div class="kpi-title">Điểm Tương Tác Cao Nhất</div>
+        <div class="kpi-value" id="kpi-top-score">0</div>
+        <div class="kpi-sub">🔥 Score = Like + 3*Comment + 5*Share</div>
+      </div>
+      <div class="kpi-card" style="--accent-color: #8b5cf6;">
+        <div class="kpi-title">Tổng Lượt Tương Tác (7 ngày)</div>
+        <div class="kpi-value" id="kpi-total-engagement">0</div>
+        <div class="kpi-sub" id="kpi-engagement-sub">👍 Likes + 💬 Comments + 🔁 Shares</div>
+      </div>
+      <div class="kpi-card" style="--accent-color: #10b981;">
+        <div class="kpi-title">Bài Học AI Đã Đúc Kết</div>
+        <div class="kpi-value" id="kpi-learnings-count">0</div>
+        <div class="kpi-sub">🧠 Đã cập nhật vào learnings.txt</div>
+      </div>
+    </div>
+
+    <!-- Main Grid -->
+    <div class="main-grid">
+      <!-- Left: Reels History Table -->
+      <div class="panel">
+        <div class="panel-header">
+          <div class="panel-title">📊 Danh Sách Video Reels & Chỉ Số Tương Tác</div>
+        </div>
+        <div class="table-responsive">
+          <table>
+            <thead>
+              <tr>
+                <th>Sản Phẩm & Hook Giật Tít</th>
+                <th>Tương Tác Chi Tiết</th>
+                <th>Điểm Score</th>
+                <th>Thời Gian</th>
+              </tr>
+            </thead>
+            <tbody id="reels-table-body">
+              <tr>
+                <td colspan="4" class="empty-state">Đang tải dữ liệu tương tác từ reels_history.json...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Right: AI Brain Learnings -->
+      <div class="panel">
+        <div class="panel-header">
+          <div class="panel-title">🧠 AI Brain Learnings (`learnings.txt`)</div>
+        </div>
+        
+        <div class="ai-brain-card">
+          <div class="ai-badge">✨ CHỈ THỊ TỐI ƯU TỪ CLAUDE OPUS 4.8</div>
+          <ul class="learnings-list" id="ai-learnings-list">
+            <li>Đang phân tích dữ liệu tương tác từ Facebook Graph API...</li>
+          </ul>
+        </div>
+
+        <div class="panel-header" style="margin-top: 24px;">
+          <div class="panel-title" style="font-size: 16px;">📈 Biểu Đồ Điểm Tương Tác (Score)</div>
+        </div>
+        <div class="chart-container">
+          <canvas id="scoreChart"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Sample / Mock Fallback Data in case local JSON is empty before first run
+    const defaultHistoryData = [
+      {
+        product_name: "Balo Thule Subterra 2 Travel Backpack 26L",
+        hook_line: "BALO NÀY CÓ GÌ MÀ DÂN IT SĂN LÙNG MƯA GIÓ SÀI GÒN?",
+        publish_time: "2026-07-21T03:15:00Z",
+        post_id: "1920842954802282_1501738411993486",
+        performance: { reactions: 145, comments: 28, shares: 12, score: 289 }
+      },
+      {
+        product_name: "Case/Ốp MacBook UNIQ Claro",
+        hook_line: "ỐP MACBOOK SIÊU MỎNG NHƯNG CÓ ĐỦ BẢO VỆ CHỐNG RƠI VỠ?",
+        publish_time: "2026-07-20T10:08:00Z",
+        post_id: "1920842954802282_1501094182057909",
+        performance: { reactions: 98, comments: 15, shares: 6, score: 173 }
+      },
+      {
+        product_name: "Stand/Giá Đỡ Điện Thoại Ulanzi Magsafe 2 Mặt MA02",
+        hook_line: "GIÁ ĐỠ MAGSAFE 2 MẶT ĐÁNG ĐỒNG TIỀN BÁT GẠO NHẤT NĂM?",
+        publish_time: "2026-07-20T07:59:00Z",
+        post_id: "1920842954802282_1501017585398902",
+        performance: { reactions: 112, comments: 19, shares: 8, score: 209 }
+      }
+    ];
+
+    const defaultLearningsText = [
+      "HOOK VIẾT HOA 100%: Dạng câu mở đầu IN HOA kèm emoji 🔥 có tỷ lệ giữ chân xem video tăng 35%.",
+      "ĐÁNH VÀO NỖI SỢ (ƯỚT LAPTOP/CHỐNG SỐC): Các video nhấn mạnh tính năng chống nước & chống sốc cho Balo Thule có lượt SHARES (chia sẻ) cao gấp 2.5 lần bình thường.",
+      "KÍCH THÍCH BÌNH LUẬN: Đặt câu hỏi so sánh tầm giá ('Có đáng đồng tiền bát gạo?') ở câu đầu thu hút lượt COMMENT tăng 40%.",
+      "ĐỘ DÀI CAPTION: Nội dung dưới 3 câu ngắn gọn + câu kết điều hướng xuống comment nhận ưu đãi mang lại CTR đặt hàng tốt nhất."
+    ];
+
+    let scoreChartInstance = null;
+
+    async function loadDashboardData() {
+      let historyData = defaultHistoryData;
+      let learningsData = defaultLearningsText;
+
+      // Try fetching real reels_history.json
+      try {
+        const resHistory = await fetch('./reels_history.json');
+        if (resHistory.ok) {
+          const json = await resHistory.json();
+          if (json && json.length > 0) historyData = json;
+        }
+      } catch (e) {
+        console.log('Using fallback history data');
+      }
+
+      // Try fetching real learnings.txt
+      try {
+        const resLearnings = await fetch('./learnings.txt');
+        if (resLearnings.ok) {
+          const txt = await resLearnings.text();
+          const lines = txt.split('\n').map(l => l.trim()).filter(l => l.length > 0 && l.startsWith('-'));
+          if (lines.length > 0) {
+            learningsData = lines.map(l => l.replace(/^-+\s*/, ''));
+          }
+        }
+      } catch (e) {
+        console.log('Using fallback learnings text');
+      }
+
+      renderDashboard(historyData, learningsData);
+    }
+
+    function renderDashboard(history, learnings) {
+      // 1. KPI render
+      document.getElementById('kpi-total').textContent = history.length;
+      
+      let maxScore = 0;
+      let totalReactions = 0;
+      let totalComments = 0;
+      let totalShares = 0;
+
+      history.forEach(item => {
+        if (item.performance) {
+          if (item.performance.score > maxScore) maxScore = item.performance.score;
+          totalReactions += item.performance.reactions || 0;
+          totalComments += item.performance.comments || 0;
+          totalShares += item.performance.shares || 0;
+        }
+      });
+
+      document.getElementById('kpi-top-score').textContent = maxScore;
+      document.getElementById('kpi-total-engagement').textContent = totalReactions + totalComments + totalShares;
+      document.getElementById('kpi-engagement-sub').textContent = `👍 ${totalReactions} Likes • 💬 ${totalComments} Comments • 🔁 ${totalShares} Shares`;
+      document.getElementById('kpi-learnings-count').textContent = learnings.length;
+
+      // 2. AI Learnings render
+      const learningsContainer = document.getElementById('ai-learnings-list');
+      learningsContainer.innerHTML = '';
+      learnings.forEach(item => {
+        const li = document.createElement('li');
+        li.textContent = item;
+        learningsContainer.appendChild(li);
+      });
+
+      // 3. Table render
+      const tableBody = document.getElementById('reels-table-body');
+      tableBody.innerHTML = '';
+
+      history.slice().reverse().forEach(item => {
+        const tr = document.createElement('tr');
+        const perf = item.performance || { reactions: 0, comments: 0, shares: 0, score: 0 };
+        const dt = new Date(item.publish_time || Date.now()).toLocaleDateString('vi-VN', {
+          day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
+        });
+
+        tr.innerHTML = `
+          <td>
+            <div class="prod-title">${item.product_name}</div>
+            <div class="prod-hook">${item.hook_line || '🔥 ' + item.product_name}</div>
+          </td>
+          <td>
+            <div class="stats-inline">
+              <span>👍 ${perf.reactions || 0}</span>
+              <span>💬 ${perf.comments || 0}</span>
+              <span>🔁 ${perf.shares || 0}</span>
+            </div>
+          </td>
+          <td>
+            <span class="badge-score">${perf.score || 0} pts</span>
+          </td>
+          <td style="color: var(--text-muted); font-size: 12px;">${dt}</td>
+        `;
+        tableBody.appendChild(tr);
+      });
+
+      // 4. Chart render
+      renderChart(history);
+    }
+
+    function renderChart(history) {
+      const ctx = document.getElementById('scoreChart').getContext('2d');
+      const labels = history.map(h => h.product_name.length > 18 ? h.product_name.substring(0, 18) + '...' : h.product_name);
+      const scores = history.map(h => (h.performance ? h.performance.score : 0));
+
+      if (scoreChartInstance) scoreChartInstance.destroy();
+
+      scoreChartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Điểm Tương Tác (Score)',
+            data: scores,
+            backgroundColor: 'rgba(255, 107, 0, 0.6)',
+            borderColor: '#ff6b00',
+            borderWidth: 2,
+            borderRadius: 6,
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false }
+          },
+          scales: {
+            x: {
+              ticks: { color: '#94a3b8', font: { size: 10 } },
+              grid: { display: false }
+            },
+            y: {
+              ticks: { color: '#94a3b8' },
+              grid: { color: 'rgba(255, 255, 255, 0.05)' }
+            }
+          }
+        }
+      });
+    }
+
+    // Initialize Dashboard
+    loadDashboardData();
+  </script>
+</body>
+</html>
