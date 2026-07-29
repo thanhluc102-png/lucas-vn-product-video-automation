@@ -1,0 +1,40 @@
+name: Re-learn (chi phan tich, khong dang)
+
+# Chay tay: dong bo tuong tac + rut bai hoc tu cac reel da dang, ghi learnings.txt.
+# KHONG render/dang video moi. Dung de kiem chung vong hoc va hoc lai khi can.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  relearn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci || npm install
+
+      - name: Sync tuong tac + rut bai hoc
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          node sync_insights.js
+          node optimize_prompts.js
+
+      - name: Commit learnings
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add learnings.txt reels_history.json post_history.json 2>/dev/null || true
+          git diff --staged --quiet && { echo "Khong co thay doi."; exit 0; }
+          git commit -m "chore: relearn learnings [skip ci]"
+          git pull --rebase
+          git push
