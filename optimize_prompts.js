@@ -31,9 +31,16 @@ async function main() {
   const learningsFile = path.join(__dirname, 'learnings.txt');
   
   if (validReels.length === 0) {
-    console.log('Chua du du lieu tuong tac Reels. Su dung huong dan mac dinh.');
-    const defaultInstructions = '- Viet ngan gon, tao ton, nhan vao tinh nang thuc te.\n- Hook line luon co cau hoi thu vi.\n- Tranh quang cao qua da, tap trung vao nhu cau nguoi dung.';
-    await fs.writeFile(learningsFile, defaultInstructions, 'utf8');
+    console.log('Chua du du lieu tuong tac Reels.');
+    // Chi ghi huong dan mac dinh khi CHUA co learnings.txt — dung ghi de len
+    // bai hoc da tich luy chi vi mot lan sync khong co du lieu moi.
+    try {
+      await fs.access(learningsFile);
+      console.log('Giu nguyen learnings.txt hien co.');
+    } catch {
+      const defaultInstructions = '- Viet ngan gon, tao ton, nhan vao tinh nang thuc te.\n- Hook line luon co cau hoi thu vi.\n- Tranh quang cao qua da, tap trung vao nhu cau nguoi dung.';
+      await fs.writeFile(learningsFile, defaultInstructions, 'utf8');
+    }
     return;
   }
   
@@ -74,7 +81,7 @@ Chi in ra ket qua bo huong dan duoi dang gach dau dong, tuyet doi khong viet loi
       messages: [{ role: 'user', content: prompt }]
     });
     
-    const learnings = response.content[0].text.strip();
+    const learnings = response.content[0].text.trim();
     console.log('-> Da nhan phan tich Reels tu Claude:');
     console.log(learnings);
     
