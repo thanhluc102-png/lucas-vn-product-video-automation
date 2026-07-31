@@ -1,8 +1,8 @@
-- **Hook dạng câu hỏi khơi gợi con số bất ngờ + lợi ích cụ thể** ("chỉ 1 phụ kiện 67g thay 4 món") cho tương tác cao nhất (Score=10) → ưu tiên chèn số liệu gây tò mò ngay trong hook.
-- **Hook chạm nỗi sợ/nỗi đau thực tế** ("sợ mất/trầy thẻ nhớ", "balo để dưới đất vừa bẩn vừa dễ mất") giữ tương tác khá tốt (Score=5) → dùng khi sản phẩm giải quyết vấn đề rõ ràng.
-- **Tránh hook chung chung, thiếu điểm nhấn hoặc lợi ích mơ hồ** ("lo được cho cả bàn làm việc", "hóa laptop trong vài giây") vì tương tác thấp nhất (Score=3).
-- **Luôn đưa 1 con số/thông số ấn tượng vào hook** (khối lượng, thời gian, số chức năng) thay vì mô tả cảm tính.
-- **Feature bullets phải quy đổi thông số thành lợi ích cảm nhận được** (nhẹ = tiện mang, đa năng = tiết kiệm tiền/không gian), tối đa 3-4 bullet ngắn.
-- **Caption nên mở bằng câu hỏi kích thích bình luận** vì Comments có trọng số cao (x3) → cài câu hỏi tương tác cuối caption ("Bạn chọn món nào?").
-- **Ưu tiên kêu gọi chia sẻ** (Shares x5) bằng CTA gợi giá trị lan tỏa, vì hiện chưa video nào có share → cần bổ sung để tăng Score đột phá.
-- **Giữ hook ngắn, dùng emoji khơi tò mò 🤔** nhưng phải đi kèm nội dung cụ thể, tránh emoji rỗng nghĩa.
+- **Ưu tiên hook dạng câu hỏi tạo tò mò kèm con số cụ thể** (vd: "chỉ 1 phụ kiện 67g thay 4 món", "0,1 giây", "10mm đựng 3 thẻ") — đây là kiểu cho điểm tương tác cao nhất (Score=10), vì kích thích comment.
+- **Chèn số liệu định lượng gây bất ngờ + emoji tư duy 🤔** vào cuối hook để tăng bình luận (comment nhân hệ số 3, quyết định điểm số).
+- **Dùng cấu trúc "Bạn có biết...?" gợi lợi ích ẩn/nỗi đau người dùng** (mất, bẩn, trầy, tốn công) — nhóm này giữ Reactions tốt (Score=5), phù hợp sản phẩm chống mất/bảo vệ.
+- **Feature bullets nên nhấn "1 món thay nhiều công dụng" hoặc "biến hóa nhanh"** (iPad hóa laptop, xoay 360°, 2-in-1) vì đúng insight tạo tò mò.
+- **Tránh hook chung chung, khẳng định mờ nhạt "bạn tin không?"** kiểu đế sạc Anker (Score=3) — thiếu con số ấn tượng nên tương tác kém.
+- **Tránh hook chỉ nêu công dụng mà không có nỗi đau hoặc con số bất ngờ** — dễ rơi vào nhóm Score=3 (chỉ 1 comment, 0 reaction/share).
+- **Caption cần kết bằng CTA khuyến khích chia sẻ/gắn thẻ bạn bè** (Shares nhân hệ số 5) vì hiện tất cả video đều Shares=0, đây là điểm yếu lớn nhất cần khắc phục.
+- **Luôn chèn 1 câu hỏi mở cuối caption để thúc đẩy bình luận**, giữ hook ngắn gọn 1 dòng, ưu tiên tiếng Việt có dấu chuẩn.
