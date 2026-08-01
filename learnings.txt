@@ -1,8 +1,7 @@
-- **Ưu tiên hook dạng câu hỏi tạo tò mò kèm con số cụ thể** (vd: "chỉ 1 phụ kiện 67g thay 4 món", "0,1 giây", "10mm đựng 3 thẻ") — đây là kiểu cho điểm tương tác cao nhất (Score=10), vì kích thích comment.
-- **Chèn số liệu định lượng gây bất ngờ + emoji tư duy 🤔** vào cuối hook để tăng bình luận (comment nhân hệ số 3, quyết định điểm số).
-- **Dùng cấu trúc "Bạn có biết...?" gợi lợi ích ẩn/nỗi đau người dùng** (mất, bẩn, trầy, tốn công) — nhóm này giữ Reactions tốt (Score=5), phù hợp sản phẩm chống mất/bảo vệ.
-- **Feature bullets nên nhấn "1 món thay nhiều công dụng" hoặc "biến hóa nhanh"** (iPad hóa laptop, xoay 360°, 2-in-1) vì đúng insight tạo tò mò.
-- **Tránh hook chung chung, khẳng định mờ nhạt "bạn tin không?"** kiểu đế sạc Anker (Score=3) — thiếu con số ấn tượng nên tương tác kém.
-- **Tránh hook chỉ nêu công dụng mà không có nỗi đau hoặc con số bất ngờ** — dễ rơi vào nhóm Score=3 (chỉ 1 comment, 0 reaction/share).
-- **Caption cần kết bằng CTA khuyến khích chia sẻ/gắn thẻ bạn bè** (Shares nhân hệ số 5) vì hiện tất cả video đều Shares=0, đây là điểm yếu lớn nhất cần khắc phục.
-- **Luôn chèn 1 câu hỏi mở cuối caption để thúc đẩy bình luận**, giữ hook ngắn gọn 1 dòng, ưu tiên tiếng Việt có dấu chuẩn.
+- **Ưu tiên hook dạng câu hỏi + con số cụ thể/gây tò mò** (VD: "chỉ 1 phụ kiện 67g thay 4 món", "0,1 giây", "10mm đựng 3 thẻ"): dạng này tạo Score cao nhất (7–10) nhờ kích thích comment.
+- **Dùng công thức "Bạn có tin không? / có biết không? 🤔"** để mời gọi phản hồi trực tiếp — các hook thắng đều theo cấu trúc thách thức/nghi vấn này.
+- **Nhấn mạnh lợi ích "đa năng, 1 món thay nhiều món, tiết kiệm"** (giá đỡ 2 mặt, tẩu sạc 2 cổng cùng lúc): nhóm sản phẩm phụ kiện đa năng cho tương tác tốt hơn.
+- **Luôn chèn ít nhất 1 con số đo lường được** (gram, mm, giây, số cổng, số thẻ) vào hook và feature bullets để tăng độ tin và tò mò.
+- **Tránh hook chung chung về nỗi sợ/bẩn/mất** (VD "balo dưới đất vừa bẩn vừa mất", "mất trầy thẻ nhớ"): chỉ đạt Score thấp (5), thiếu yếu tố bất ngờ.
+- **Tránh hook mô tả tính năng phẳng, không con số** (VD "hóa laptop vài giây", "lo cho cả bàn làm việc"): tương tác kém nhất (Score=3).
+- **Viết caption ngắn, kết bằng 1 câu hỏi mở mời bình luận** thay vì chỉ khẳng định, vì comment (x3) và share (x5) mới đẩy Score, reaction (x1) đóng góp rất ít.
