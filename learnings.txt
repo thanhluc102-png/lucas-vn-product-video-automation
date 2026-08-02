@@ -1,7 +1,8 @@
-- **Ưu tiên hook dạng câu hỏi + con số cụ thể/gây tò mò** (VD: "chỉ 1 phụ kiện 67g thay 4 món", "0,1 giây", "10mm đựng 3 thẻ"): dạng này tạo Score cao nhất (7–10) nhờ kích thích comment.
-- **Dùng công thức "Bạn có tin không? / có biết không? 🤔"** để mời gọi phản hồi trực tiếp — các hook thắng đều theo cấu trúc thách thức/nghi vấn này.
-- **Nhấn mạnh lợi ích "đa năng, 1 món thay nhiều món, tiết kiệm"** (giá đỡ 2 mặt, tẩu sạc 2 cổng cùng lúc): nhóm sản phẩm phụ kiện đa năng cho tương tác tốt hơn.
-- **Luôn chèn ít nhất 1 con số đo lường được** (gram, mm, giây, số cổng, số thẻ) vào hook và feature bullets để tăng độ tin và tò mò.
-- **Tránh hook chung chung về nỗi sợ/bẩn/mất** (VD "balo dưới đất vừa bẩn vừa mất", "mất trầy thẻ nhớ"): chỉ đạt Score thấp (5), thiếu yếu tố bất ngờ.
-- **Tránh hook mô tả tính năng phẳng, không con số** (VD "hóa laptop vài giây", "lo cho cả bàn làm việc"): tương tác kém nhất (Score=3).
-- **Viết caption ngắn, kết bằng 1 câu hỏi mở mời bình luận** thay vì chỉ khẳng định, vì comment (x3) và share (x5) mới đẩy Score, reaction (x1) đóng góp rất ít.
+- **Ưu tiên hook dạng câu hỏi "con số + lợi ích bất ngờ"**: mẫu Score cao nhất (10) là "chỉ 1 phụ kiện 67g có thể thay 4 món cùng lúc?" — nêu số liệu cụ thể (67g, 4 món, 240W, 10mm) gắn với công dụng gây tò mò.
+- **Thêm chi tiết "gộp nhiều chức năng/thiết bị vào 1 món"**: các hook Score 7 ("1 sợi cáp 240W sạc cả laptop", "sạc điện thoại lẫn tablet cùng lúc") đều nhấn one-to-many, kích comment thảo luận.
+- **Kết thúc hook bằng thử thách niềm tin + emoji 🤔**: "bạn tin không? 🤔" tạo tương tác tốt (Score 7-10), nên duy trì trong hook và caption.
+- **Ưu tiên đẩy comment thay vì chỉ reaction**: Comments nhân hệ số 3, là đòn bẩy điểm chính; luôn cài 1 câu hỏi mở hoặc CTA "comment để nhận..." ở cuối caption.
+- **Feature bullets phải định lượng**: mỗi bullet gắn 1 con số/thông số (g, mm, W, °, số thẻ) như các mẫu điểm cao, tránh mô tả chung chung.
+- **Tránh hook mở đầu bằng nỗi sợ chung chung** ("sợ mất/trầy", "bẩn dễ mất"): các mẫu này chỉ ra reaction lẻ, thiếu con số nên tương tác thấp (Score 5).
+- **Tránh hook khẳng định/mơ hồ không có số liệu** ("lo được cả bàn làm việc", "hóa laptop trong vài giây"): nhóm Score thấp nhất (3), thiếu yếu tố tò mò định lượng.
+- **Luôn viết tiếng Việt có dấu, chèn 1 emoji 🤔 và giữ hook dưới 20 từ**: bám đúng công thức nhóm hiệu quả nhất.
