@@ -1,15 +1,15 @@
-- **Ưu tiên hook dạng câu hỏi thách thức + con số cụ thể** (VD: "chỉ 1 phụ kiện 67g thay 4 món", "1 sợi cáp 240W sạc cả laptop"): nhóm này đạt Score cao nhất (7–10), vì kích thích tò mò và tạo cảm giác "khó tin nhưng thật".
+- **Ưu tiên hook dạng câu hỏi thách thức + số liệu cụ thể gây bất ngờ** (VD: "chỉ 1 phụ kiện 67g thay 4 món", "1 sợi cáp 240W sạc cả laptop") — nhóm này đạt Score cao nhất (7–10), kích thích comment vì tạo tò mò và tính "khó tin".
 
-- **Chèn yếu tố gây bất ngờ/nghi ngờ tích cực** bằng emoji 🤔 và cụm "bạn tin không?": các Reels dùng công thức này (Score 7) vượt trội hơn hẳn hook không có yếu tố thách thức (Score 3).
+- **Chèn yếu tố định lượng ấn tượng** (số watt, gram, mm, giây, số thẻ) ngay trong hook để tăng tương tác; sản phẩm sạc/phụ kiện có thông số mạnh (48W, 170W, 240W, 100W) đều cho Score ≥7 khi viết theo kiểu này.
 
-- **Nhấn mạnh lợi ích đa năng "1 món làm nhiều việc"** (thay 4 món, 2 mặt, sạc nhiều thiết bị cùng lúc): tăng comment mạnh, nên đưa vào feature bullets đầu tiên.
+- **Kết hợp "công thức nghi ngờ"**: mô tả lợi ích vượt mong đợi + đuôi "bạn tin không? 🤔" — dạng này liên tục kéo được Reactions lẫn Comments, hiệu quả hơn hẳn hook chỉ hỏi suông.
 
-- **Hook chạm nỗi sợ/nỗi đau thực tế** (mất/trầy thẻ nhớ, balo bẩn dễ mất) đạt Score 5 – khá ổn, nên giữ nhưng kết hợp thêm con số để đẩy tương tác cao hơn.
+- **Tận dụng nỗi sợ/nỗi đau cụ thể** (VD: "sợ mất/trầy thẻ nhớ", "balo để đất vừa bẩn vừa dễ mất") giúp tăng Reactions — nên đặt vấn đề đau thực tế ở đầu hook.
 
-- **Tránh hook mô tả suông, thiếu số liệu hoặc thiếu thách thức** (VD: "iPad hóa laptop trong vài giây", "nâng cao laptop 0,1 giây"): nhóm này chỉ đạt Score 3, tương tác kém nhất.
+- **Tránh hook dạng lợi ích chung chung, mơ hồ, thiếu con số** (VD: "hóa laptop trong vài giây", "nâng cao laptop 0,1 giây", "lo cho cả bàn làm việc") — nhóm này chỉ đạt Score thấp nhất (3), tương tác yếu.
 
-- **Tránh mở đầu bằng "Chỉ 1..." mà không có cú hích tò mò mạnh** (đế sạc, giá đỡ): cần thêm cụm "bạn tin không?" hoặc con số gây sốc để tránh rơi về Score 3.
+- **Không viết hook thiếu emoji và thiếu tính thách thức**: các hook Score=3 đều nhạt, không có "🤔" và không mời gọi phản biện.
 
-- **Công thức hook tối ưu:** [Nỗi đau/Con số bất ngờ] + [Lợi ích đa năng] + [Câu hỏi thách thức + 🤔] → ví dụ mẫu để tái sử dụng cho mọi sản phẩm tiếp theo.
+- **Mọi hook nên nhắm tạo Comment (trọng số x3) và Share (x5)** thay vì chỉ Reactions; ưu tiên câu hỏi mở buộc người xem phải trả lời/đánh giá đúng-sai.
 
-- **Caption nên ưu tiên gợi comment** (đặt câu hỏi mở cuối bài) thay vì kêu gọi share, vì dữ liệu cho thấy Shares=0 toàn bộ, còn Comments là đòn bẩy Score chính (nhân hệ số 3).
+- **Feature bullets nên diễn đạt lợi ích bằng con số + so sánh "thay thế nhiều món / đa năng"** (2-in-1, 4 trong 1, đựng cả X lẫn Y) vì các sản phẩm đa năng có số liệu rõ đạt tương tác tốt hơn.
