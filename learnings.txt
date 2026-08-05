@@ -1,15 +1,8 @@
-- **Ưu tiên hook dạng câu hỏi thách thức + số liệu cụ thể gây bất ngờ** (VD: "chỉ 1 phụ kiện 67g thay 4 món", "1 sợi cáp 240W sạc cả laptop") — nhóm này đạt Score cao nhất (7–10), kích thích comment vì tạo tò mò và tính "khó tin".
-
-- **Chèn yếu tố định lượng ấn tượng** (số watt, gram, mm, giây, số thẻ) ngay trong hook để tăng tương tác; sản phẩm sạc/phụ kiện có thông số mạnh (48W, 170W, 240W, 100W) đều cho Score ≥7 khi viết theo kiểu này.
-
-- **Kết hợp "công thức nghi ngờ"**: mô tả lợi ích vượt mong đợi + đuôi "bạn tin không? 🤔" — dạng này liên tục kéo được Reactions lẫn Comments, hiệu quả hơn hẳn hook chỉ hỏi suông.
-
-- **Tận dụng nỗi sợ/nỗi đau cụ thể** (VD: "sợ mất/trầy thẻ nhớ", "balo để đất vừa bẩn vừa dễ mất") giúp tăng Reactions — nên đặt vấn đề đau thực tế ở đầu hook.
-
-- **Tránh hook dạng lợi ích chung chung, mơ hồ, thiếu con số** (VD: "hóa laptop trong vài giây", "nâng cao laptop 0,1 giây", "lo cho cả bàn làm việc") — nhóm này chỉ đạt Score thấp nhất (3), tương tác yếu.
-
-- **Không viết hook thiếu emoji và thiếu tính thách thức**: các hook Score=3 đều nhạt, không có "🤔" và không mời gọi phản biện.
-
-- **Mọi hook nên nhắm tạo Comment (trọng số x3) và Share (x5)** thay vì chỉ Reactions; ưu tiên câu hỏi mở buộc người xem phải trả lời/đánh giá đúng-sai.
-
-- **Feature bullets nên diễn đạt lợi ích bằng con số + so sánh "thay thế nhiều món / đa năng"** (2-in-1, 4 trong 1, đựng cả X lẫn Y) vì các sản phẩm đa năng có số liệu rõ đạt tương tác tốt hơn.
+- **Ưu tiên hook dạng "thách thức niềm tin"**: mở đầu bằng con số/thông số gây sốc + "bạn tin không? 🤔" (VD: "170W sạc cả laptop lẫn 2 điện thoại", "240W sạc được cả laptop") — nhóm này đạt Score cao nhất (7–10).
+- **Chèn số liệu cụ thể, gây bất ngờ** vào hook (67g thay 4 món, 10mm đựng 3 thẻ, 0,1 giây): định lượng rõ ràng kích thích comment mạnh (Score 10 cho hook "1 phụ kiện 67g thay 4 món").
+- **Nhấn "1 món làm được nhiều việc" / đa năng**: mô típ combo tiện ích (đế sạc lo cả bàn, ví vừa đựng thẻ vừa làm giá đỡ) tạo tương tác tốt; feature bullets nên liệt kê 3–4 công dụng gộp trong 1 sản phẩm.
+- **Feature bullets nên nêu thông số kỹ thuật nổi bật + tình huống dùng thực tế** (chống RFID, CornerArmor™ bảo vệ 4 góc, GaN 170W): dữ liệu cụ thể giữ được Reactions.
+- **Tránh hook chung chung, hỏi "bạn có biết/có sợ" mà không kèm con số** (móc treo balo, hộp thẻ nhớ): các hook cảm tính thiếu số liệu chỉ đạt Score thấp (3–5).
+- **Tránh hook mô tả tính năng đơn thuần, không tạo tranh luận** (iPad hóa laptop, xoay 360°, nâng laptop): thiếu yếu tố "khó tin" nên tương tác đáy (Score 3).
+- **Luôn thêm emoji 🤔 cuối hook** để mời gọi phản hồi — xuất hiện ở hầu hết video Score cao.
+- **Mục tiêu tối ưu Comments (trọng số x3)**: viết hook dạng câu hỏi mở buộc người xem phản biện/khẳng định, thay vì câu khẳng định đóng.
