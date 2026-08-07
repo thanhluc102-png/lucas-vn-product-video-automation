@@ -1,13 +1,8 @@
-- **Ưu tiên hook dạng câu hỏi "con số cụ thể + thách thức niềm tin"**: các hook điểm cao nhất đều dùng số liệu gây sốc ("chỉ 1 phụ kiện 67g thay 4 món" Score=10; "170W sạc cả laptop lẫn 2 điện thoại" Score=9; "240W sạc được cả laptop" Score=7) — luôn nhét 1 con số ấn tượng vào hook.
-
-- **Kết hook bằng cụm khơi gợi phản biện "..., bạn tin không? 🤔"**: nhóm hook có đuôi này kéo comment tốt (Score 7-9), nên dùng làm công thức mặc định để tăng bình luận.
-
-- **Nhấn công dụng "1 món làm được nhiều việc / gấp nhiều lần công suất"**: các sản phẩm phụ kiện sạc và giá đỡ đa năng tương tác cao nhất; feature bullets nên nêu bật tính "đa năng, thay thế nhiều thiết bị, công suất vượt kích thước".
-
-- **Đưa yếu tố bảo vệ/an toàn kèm tên công nghệ độc quyền**: hook "CornerArmor™ bảo vệ 4 góc" có phản hồi khá — nên trích dẫn tên công nghệ cụ thể để tăng độ tin và tò mò.
-
-- **Tránh hook chung chung kiểu "Bạn có biết... vừa bẩn vừa dễ mất" hoặc mô tả nỗi sợ mơ hồ không có số liệu**: các hook này chỉ đạt Score 3-5, thiếu điểm nhấn định lượng.
-
-- **Tránh hook không có con số và không có đuôi khơi gợi**: đa số hook Score=3 đều thiếu cả hai yếu tố này (chỉ 1 comment, 0 reaction) → hiệu quả thấp nhất.
-
-- **Cần cải thiện Shares (toàn bộ = 0)**: bổ sung caption tạo lý do chia sẻ (mẹo hữu ích, "lưu lại kẻo quên", "tag người cần") để tăng thành phần Shares trọng số cao nhất (x5).
+- **Ưu tiên hook dạng câu hỏi thách thức "…, bạn tin không? 🤔"** kèm số liệu cụ thể (170W, 240W, 67g, 3 thẻ) — nhóm này đạt Score cao nhất (7–10), vì kích thích tranh luận và bình luận.
+- **Nhấn mạnh "1 sản phẩm làm được nhiều việc/thay nhiều món"** (thay 4 món, sạc cả laptop lẫn 2 điện thoại cùng lúc) — công thức đa năng + con số gây tò mò tạo tương tác vượt trội.
+- **Đưa thông số/định lượng gây bất ngờ ngay trong hook** (kích thước nhỏ vs công suất lớn, thời gian 0,1 giây, trọng lượng nhẹ) để tăng Reactions và Comments.
+- **Viết feature bullets bám vào 1 lợi ích "khó tin" duy nhất rồi chứng minh bằng số** — tránh liệt kê dàn trải nhiều tính năng ngang nhau.
+- **Tránh hook mở đầu "Bạn có biết…" chung chung, không kèm số liệu mạnh** (case iPad, giá đỡ MacBook, ví, túi) — nhóm này chỉ đạt Score 3, tương tác thấp nhất.
+- **Tránh hook về nỗi sợ mất/bẩn/trầy đơn thuần** (móc treo balo, hộp thẻ nhớ) — hiệu quả trung bình thấp, thiếu yếu tố tò mò định lượng.
+- **Luôn kèm 1 emoji 🤔 cuối hook** và giữ caption ngắn, đặt câu hỏi mời người xem trả lời để đẩy Comments (trọng số x3) và Shares (x5).
+- **Ưu tiên nhóm sản phẩm sạc/tẩu đa cổng công suất cao** vì đây là nhóm cho Score ổn định và cao nhất trong tuần.
