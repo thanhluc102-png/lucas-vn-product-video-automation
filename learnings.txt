@@ -1,15 +1,15 @@
-- **Ưu tiên hook dạng câu hỏi "bạn tin không? 🤔" kèm con số cụ thể gây sốc** (VD: "67g thay 4 món", "170W sạc cả laptop lẫn 2 điện thoại") — nhóm này đạt Score cao nhất (7–10), kích comment mạnh.
+- **Ưu tiên hook dạng con số cụ thể + thách thức niềm tin**: cấu trúc "1 [sản phẩm nhỏ/nhẹ] mà làm được [nhiều việc], bạn tin không? 🤔" cho điểm cao nhất (Score 7–10, ví dụ Ulanzi MA02, LISEN 170W, cáp 240W).
 
-- **Luôn nhồi thông số ấn tượng + so sánh vượt kỳ vọng vào hook** (công suất W, khối lượng g, số thiết bị sạc cùng lúc, độ mỏng mm) vì kích thích tương tác và tranh luận.
+- **Nhấn mạnh thông số gây bất ngờ** (67g thay 4 món, 240W, 170W sạc 3 thiết bị, 0,1 giây): con số ấn tượng + lợi ích "nhiều-trong-một" kích thích comment và reaction mạnh nhất.
 
-- **Ưu tiên nhóm sản phẩm sạc/tẩu sạc đa cổng công suất cao** (Ulanzi MA02, LISEN 170W, cáp 240W, Anker 100W) — chủ đề "1 món thay nhiều món" luôn cho Score tốt.
+- **Giữ emoji 🤔 cuối hook** để tạo cảm giác tò mò, mời gọi tương tác — xuất hiện ở hầu hết video điểm cao.
 
-- **Viết feature bullets dạng khẳng định "chỉ 1 X mà làm được Y + Z"** (đa năng, gộp nhiều chức năng) thay vì mô tả tính năng đơn lẻ.
+- **Tập trung nhóm sản phẩm sạc/phụ kiện đa năng** (tẩu sạc, cáp, giá đỡ): dễ khai thác góc "1 món lo hết", tương tác ổn định hơn nhóm túi/case.
 
-- **Tránh hook nhấn mạnh nỗi sợ/vấn đề tiêu cực thuần túy** (VD "balo bẩn dễ mất", "làm rớt MacBook") — chỉ đạt Score thấp (5) vì thiếu con số hấp dẫn.
+- **Tránh hook chung chung, thiếu số liệu** ("iPad hóa laptop", "xoay 360°", "lo cho cả bàn làm việc"): các hook này chỉ đạt Score 3, ít reaction và share.
 
-- **Tránh hook chung chung, ít số liệu và không mời gọi tương tác** (VD "lo được cho cả bàn làm việc") — nhóm này rơi xuống Score thấp nhất (3).
+- **Viết feature bullets dạng đối lập bất ngờ** (nhỏ/mỏng/nhẹ NHƯNG mạnh/đa năng), ví dụ "10mm mà đựng 3 thẻ + làm giá đỡ" — tạo mâu thuẫn thu hút.
 
-- **Luôn kết hook bằng câu hỏi mở kích comment** (dùng "bạn tin không?", "bạn có biết?") kèm emoji 🤔 để tăng bình luận — comment có trọng số cao (x3).
+- **Cần thêm yếu tố kích share** (CTA chia sẻ, tình huống thực tế đáng lan truyền): toàn bộ video đều Shares=0, đây là điểm yếu lớn nhất cần cải thiện.
 
-- **Ưu tiên tạo giá trị "gộp – tiết kiệm – bất ngờ" trong caption**, hạn chế caption mô tả kỹ thuật khô khan không có điểm nhấn số liệu.
+- **Ưu tiên tình huống "cứu nguy" cụ thể để tăng reaction** ("làm rớt MacBook vẫn nguyên vẹn" đạt Reactions=2): kịch bản đời thực dễ đồng cảm hơn liệt kê tính năng.
