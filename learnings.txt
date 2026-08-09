@@ -1,15 +1,8 @@
-- **Ưu tiên hook dạng con số cụ thể + thách thức niềm tin**: cấu trúc "1 [sản phẩm nhỏ/nhẹ] mà làm được [nhiều việc], bạn tin không? 🤔" cho điểm cao nhất (Score 7–10, ví dụ Ulanzi MA02, LISEN 170W, cáp 240W).
-
-- **Nhấn mạnh thông số gây bất ngờ** (67g thay 4 món, 240W, 170W sạc 3 thiết bị, 0,1 giây): con số ấn tượng + lợi ích "nhiều-trong-một" kích thích comment và reaction mạnh nhất.
-
-- **Giữ emoji 🤔 cuối hook** để tạo cảm giác tò mò, mời gọi tương tác — xuất hiện ở hầu hết video điểm cao.
-
-- **Tập trung nhóm sản phẩm sạc/phụ kiện đa năng** (tẩu sạc, cáp, giá đỡ): dễ khai thác góc "1 món lo hết", tương tác ổn định hơn nhóm túi/case.
-
-- **Tránh hook chung chung, thiếu số liệu** ("iPad hóa laptop", "xoay 360°", "lo cho cả bàn làm việc"): các hook này chỉ đạt Score 3, ít reaction và share.
-
-- **Viết feature bullets dạng đối lập bất ngờ** (nhỏ/mỏng/nhẹ NHƯNG mạnh/đa năng), ví dụ "10mm mà đựng 3 thẻ + làm giá đỡ" — tạo mâu thuẫn thu hút.
-
-- **Cần thêm yếu tố kích share** (CTA chia sẻ, tình huống thực tế đáng lan truyền): toàn bộ video đều Shares=0, đây là điểm yếu lớn nhất cần cải thiện.
-
-- **Ưu tiên tình huống "cứu nguy" cụ thể để tăng reaction** ("làm rớt MacBook vẫn nguyên vẹn" đạt Reactions=2): kịch bản đời thực dễ đồng cảm hơn liệt kê tính năng.
+- **Ưu tiên nhóm sản phẩm sạc/tẩu sạc ô tô**: đây là nhóm đạt Score cao nhất (7–9đ), luôn viết hook nhấn mạnh "sạc nhiều thiết bị cùng lúc" + con số công suất cụ thể (48W, 90W, 170W, 240W).
+- **Dùng cấu trúc hook "nghịch lý con số + thách thức"**: "[Vật nhỏ/1 thiết bị] mà [làm được điều lớn], bạn tin không? 🤔" — mẫu này gắn với các Score cao nhất (VD tẩu 170W = 9đ, cáp 240W = 7đ).
+- **Luôn chèn số liệu định lượng gây sốc**: công suất (W), số cổng/thiết bị, độ mỏng (mm), 0,1 giây, 360° — hook có số cụ thể tương tác tốt hơn hook mô tả chung chung.
+- **Nêu tính năng bảo vệ có tên thương hiệu**: nhắc "CornerArmor™", "chống RFID" giúp túi chống sốc đạt 5đ (cao hơn túi không nêu = 3đ) → feature bullets nên gọi tên công nghệ độc quyền.
+- **Giữ emoji 🤔 cuối hook**: hầu hết bài Score cao đều có, tạo cảm giác tò mò/thách thức.
+- **Tránh hook không có emoji và không có con số**: các bài dạng này (đế sạc, giá đỡ MacBook viết chung chung) chỉ đạt 3đ.
+- **Tránh nhóm phụ kiện iPad/case/túi đeo mô tả tính năng chung**: nhóm này tương tác kém nhất (đều 3đ), cần viết lại theo công thức "nghịch lý số + thách thức + emoji" như nhóm sạc.
+- **Feature bullets nên dạng "1 sản phẩm – nhiều lợi ích"**: nhấn tính đa năng/thay thế nhiều thiết bị (VD "biến iPad thành laptop", "1 ví = 3 thẻ + giá đỡ") để tăng sức thuyết phục.
