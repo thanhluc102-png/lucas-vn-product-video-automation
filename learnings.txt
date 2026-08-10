@@ -1,8 +1,15 @@
-- **Ưu tiên nhóm sản phẩm sạc/tẩu sạc ô tô**: đây là nhóm đạt Score cao nhất (7–9đ), luôn viết hook nhấn mạnh "sạc nhiều thiết bị cùng lúc" + con số công suất cụ thể (48W, 90W, 170W, 240W).
-- **Dùng cấu trúc hook "nghịch lý con số + thách thức"**: "[Vật nhỏ/1 thiết bị] mà [làm được điều lớn], bạn tin không? 🤔" — mẫu này gắn với các Score cao nhất (VD tẩu 170W = 9đ, cáp 240W = 7đ).
-- **Luôn chèn số liệu định lượng gây sốc**: công suất (W), số cổng/thiết bị, độ mỏng (mm), 0,1 giây, 360° — hook có số cụ thể tương tác tốt hơn hook mô tả chung chung.
-- **Nêu tính năng bảo vệ có tên thương hiệu**: nhắc "CornerArmor™", "chống RFID" giúp túi chống sốc đạt 5đ (cao hơn túi không nêu = 3đ) → feature bullets nên gọi tên công nghệ độc quyền.
-- **Giữ emoji 🤔 cuối hook**: hầu hết bài Score cao đều có, tạo cảm giác tò mò/thách thức.
-- **Tránh hook không có emoji và không có con số**: các bài dạng này (đế sạc, giá đỡ MacBook viết chung chung) chỉ đạt 3đ.
-- **Tránh nhóm phụ kiện iPad/case/túi đeo mô tả tính năng chung**: nhóm này tương tác kém nhất (đều 3đ), cần viết lại theo công thức "nghịch lý số + thách thức + emoji" như nhóm sạc.
-- **Feature bullets nên dạng "1 sản phẩm – nhiều lợi ích"**: nhấn tính đa năng/thay thế nhiều thiết bị (VD "biến iPad thành laptop", "1 ví = 3 thẻ + giá đỡ") để tăng sức thuyết phục.
+- **Ưu tiên sản phẩm phụ kiện sạc/xe hơi (tẩu sạc, cáp sạc)**: nhóm này đạt Score cao nhất (7–9); nên khai thác mạnh và đặt lên đầu chuỗi content.
+
+- **Dùng cấu trúc hook "thách thức niềm tin"**: mở bằng con số/thông số ấn tượng + kết bằng "bạn tin không? 🤔" — đây là công thức mang tương tác tốt nhất (Score 5–9).
+
+- **Nhấn nghịch lý "nhỏ mà mạnh / một mà nhiều"**: ví dụ "nhỏ xíu mà 170W", "1 sợi cáp 240W", "4 thiết bị cùng lúc" — kích thích comment/reaction cao.
+
+- **Chèn số liệu cụ thể vào hook** (W, mm, số cổng, 360°, số thiết bị): các hook có con số rõ ràng luôn vượt trội hơn hook mô tả chung chung.
+
+- **Feature bullets nên nêu công dụng đa năng + lợi ích tức thì** (sạc nhiều thiết bị không tụt tốc, chống sốc 4 góc, xoay 360°): các sản phẩm giải quyết "nỗi lo/tiện ích thực tế" giữ được reaction.
+
+- **Tránh hook kiểu "hóa laptop / xoay 360° / nâng cao laptop" cho case & phụ kiện iPad/MacBook**: nhóm này Score thấp nhất (chỉ 3), tương tác kém, không nên nhân rộng.
+
+- **Tránh hook thiếu emoji, thiếu con số hoặc không có yếu tố thách thức** (vd hook không dấu, không "bạn tin không?"): tương tác luôn thấp.
+
+- **Luôn thêm 1 emoji 🤔 và câu hỏi mở cuối hook để đẩy comment** (Comments nhân hệ số 3, tác động mạnh tới Score) — nhưng nội dung phải gây tò mò thật, tránh lạm dụng khiến hook nhạt.
