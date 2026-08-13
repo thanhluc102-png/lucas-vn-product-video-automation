@@ -1,13 +1,15 @@
-- **Dùng câu hỏi khơi gợi sự hoài nghi:** Hook mạnh nhất đều kết thúc bằng "bạn tin không? 🤔" kèm số liệu gây sốc (170W, 240W, 4 thiết bị, xoay 360°) — công thức "thông số ấn tượng + thách thức niềm tin" cho score cao nhất (7–9).
+- **Nêu con số cụ thể + đa năng ngay đầu hook**: các Score cao nhất (7-9) đều mở đầu bằng thông số ấn tượng ("240W", "170W", "48W") gắn với việc sạc/chạy nhiều thiết bị cùng lúc → luôn đưa số liệu mạnh + lợi ích "nhiều-trong-một" lên trước.
 
-- **Ưu tiên nhóm sản phẩm sạc/tẩu sạc công suất cao:** Các sản phẩm tẩu sạc, cáp sạc, giá đỡ MagSafe tương tác tốt nhất; nên nhấn mạnh "1 thiết bị làm nhiều việc cùng lúc" (sạc laptop + 2 điện thoại, 4-in-1, 3-in-1).
+- **Ưu tiên nhóm sản phẩm sạc/tẩu ô tô công suất cao**: tẩu sạc và cáp sạc nhanh cho tương tác tốt nhất; khai thác mạnh insight "sạc laptop + điện thoại/tablet đồng thời không tụt tốc độ".
 
-- **Nhấn con số nghịch lý "nhỏ mà mạnh":** "Nhỏ xíu mà 170W", "10mm đựng 3 thẻ", "miếng dán nhỏ giữ chắc 360°" — sự tương phản kích thước/hiệu năng tạo tò mò và tăng comment.
+- **Dùng câu hỏi thách thức "bạn tin không? 🤔"**: motif này xuất hiện ở hầu hết bài Score cao, giữ nguyên vì kích thích comment (Comments nhân hệ số 3).
 
-- **Feature bullets nên gọi tên công nghệ độc quyền:** CornerArmor™, Nano-Gel, MagSafe... giúp tạo điểm nhấn khác biệt (Túi Terra A27 với CornerArmor™ đạt score 5 dù chỉ dùng hình thức chống sốc quen thuộc).
+- **Feature bullets nên nhấn tính năng độc quyền có tên riêng**: "CornerArmor™", "chống RFID", "xoay 360°", "Nano-Gel" tạo điểm nhớ; đặt tên công nghệ + hệ quả thực tế (rơi vẫn an toàn, giữ chặt).
 
-- **Tránh hook chung chung, thiếu con số cụ thể:** Các hook chỉ đạt score 3 thường mơ hồ hoặc lợi ích khó hình dung (túi đựng nhiều món, iPad xoay 360°) — luôn chèn 1 con số/thông số gây bất ngờ ngay đầu hook.
+- **Tránh hook mơ hồ, không có số hoặc lợi ích yếu**: hook "0,1 giây để nâng cao laptop" (Score=3) quá trừu tượng, không tạo tò mò → tránh mở đầu bằng đơn vị thời gian/khái niệm khó hình dung.
 
-- **Tránh lặp lại y hệt cùng một mô-típ chống sốc "4 góc CornerArmor™":** Khi trùng lặp giữa nhiều sản phẩm túi (A04, A27), tương tác giảm — cần đa dạng góc nhìn (bảo vệ, thẩm mỹ, tiện dụng) thay vì lặp nguyên câu.
+- **Tránh nhóm túi/ví chỉ nói công năng chứa đồ**: các bài túi, ví Score thấp (3) vì lợi ích quen thuộc; nếu viết cần xoáy vào yếu tố bảo vệ/chống sốc số hoá hoặc mỏng-nhẹ bất ngờ kèm số đo (mm).
 
-- **Viết caption ngắn, tập trung 1 lợi ích cốt lõi + emoji tò mò 🤔:** Không dàn trải nhiều tính năng; chọn 1 điểm "wow" duy nhất làm trục chính cho cả hook lẫn caption.
+- **Caption cần chèn 1 CTA khuyến khích bình luận/chia sẻ**: tương tác hiện dồn vào Comments, gần như không có Shares (Shares=0 toàn bộ) → thêm lời kêu gọi "tag người cần" hoặc "share cho hội đi xe" để đẩy Shares (hệ số 5).
+
+- **Giữ độ dài hook 1 câu, có emoji tư duy/tò mò**: các bài hiệu quả đều ngắn gọn, 1 dòng, kèm emoji 🤔 → duy trì format này thay vì mô tả dài dòng.
