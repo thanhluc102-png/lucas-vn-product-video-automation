@@ -1,15 +1,15 @@
-- **Nêu con số cụ thể + đa năng ngay đầu hook**: các Score cao nhất (7-9) đều mở đầu bằng thông số ấn tượng ("240W", "170W", "48W") gắn với việc sạc/chạy nhiều thiết bị cùng lúc → luôn đưa số liệu mạnh + lợi ích "nhiều-trong-một" lên trước.
+- **Ưu tiên hook có con số cụ thể + đa năng "1 sản phẩm làm nhiều việc"**: Top điểm cao (Score 7-9) đều là tẩu sạc/cáp nêu rõ công suất (48W, 90W, 170W, 240W) và lợi ích kép (sạc laptop + 2 điện thoại cùng lúc). Đây là công thức mạnh nhất, cần nhân rộng.
 
-- **Ưu tiên nhóm sản phẩm sạc/tẩu ô tô công suất cao**: tẩu sạc và cáp sạc nhanh cho tương tác tốt nhất; khai thác mạnh insight "sạc laptop + điện thoại/tablet đồng thời không tụt tốc độ".
+- **Giữ cấu trúc "[Con số/chi tiết nhỏ] mà [làm được điều bất ngờ], bạn tin không? 🤔"**: Dạng câu hỏi thách thức + nghịch lý "nhỏ nhưng mạnh" tạo tương tác comment tốt, nên duy trì làm khung chuẩn cho mọi hook.
 
-- **Dùng câu hỏi thách thức "bạn tin không? 🤔"**: motif này xuất hiện ở hầu hết bài Score cao, giữ nguyên vì kích thích comment (Comments nhân hệ số 3).
+- **Nhấn mạnh nghịch lý kích thước vs hiệu năng**: Các cụm "nhỏ xíu mà đẩy tới 90W", "10mm mà đựng 3 thẻ" gây tò mò; luôn chèn tương phản nhỏ-gọn với sức mạnh/công năng.
 
-- **Feature bullets nên nhấn tính năng độc quyền có tên riêng**: "CornerArmor™", "chống RFID", "xoay 360°", "Nano-Gel" tạo điểm nhớ; đặt tên công nghệ + hệ quả thực tế (rơi vẫn an toàn, giữ chặt).
+- **Nhóm ngành hàng sạc/cáp ô tô hiệu quả nhất**: Ưu tiên khai thác sâu feature kỹ thuật (số cổng, chuẩn PD, GaN, dây rút/cuộn) vì tệp khách quan tâm thông số, dễ vào comment hỏi.
 
-- **Tránh hook mơ hồ, không có số hoặc lợi ích yếu**: hook "0,1 giây để nâng cao laptop" (Score=3) quá trừu tượng, không tạo tò mò → tránh mở đầu bằng đơn vị thời gian/khái niệm khó hình dung.
+- **Tránh hook mơ hồ, cảm tính không có số liệu**: Nhóm túi/giá đỡ (Score 3-5) dùng thuật ngữ thương hiệu (CornerArmor™, RFID) nhưng thiếu con số ấn tượng và lợi ích đo lường được nên tương tác thấp — cần bổ sung số liệu cụ thể.
 
-- **Tránh nhóm túi/ví chỉ nói công năng chứa đồ**: các bài túi, ví Score thấp (3) vì lợi ích quen thuộc; nếu viết cần xoáy vào yếu tố bảo vệ/chống sốc số hoá hoặc mỏng-nhẹ bất ngờ kèm số đo (mm).
+- **Tránh liệt kê quá nhiều lợi ích rời rạc trong 1 hook**: "đựng cả iPad, Switch lẫn thẻ RFID" bị loãng, kém hơn hook tập trung 1 con số ấn tượng duy nhất.
 
-- **Caption cần chèn 1 CTA khuyến khích bình luận/chia sẻ**: tương tác hiện dồn vào Comments, gần như không có Shares (Shares=0 toàn bộ) → thêm lời kêu gọi "tag người cần" hoặc "share cho hội đi xe" để đẩy Shares (hệ số 5).
+- **Feature bullets nên tối đa 3-4 gạch, mỗi gạch 1 con số/thông số nổi bật**: Đặt yếu tố mạnh nhất (công suất, số thiết bị sạc đồng thời) lên đầu, tránh dàn trải đặc điểm phụ.
 
-- **Giữ độ dài hook 1 câu, có emoji tư duy/tò mò**: các bài hiệu quả đều ngắn gọn, 1 dòng, kèm emoji 🤔 → duy trì format này thay vì mô tả dài dòng.
+- **Caption kết bằng câu hỏi/CTA gợi comment** (vì Comments nhân hệ số 3): chèn câu hỏi mở về nhu cầu sử dụng để đẩy bình luận thay vì chỉ mô tả sản phẩm.
