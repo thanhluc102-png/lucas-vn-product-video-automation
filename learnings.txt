@@ -1,15 +1,15 @@
-- **Ưu tiên nhóm sản phẩm sạc/tẩu sạc ô tô có công suất cao (LISEN 170W, 240W)**: các hook nhấn "công suất lớn trong kích thước nhỏ" + "sạc nhiều thiết bị cùng lúc" đạt Score cao nhất (7–9); nên khai thác mạnh mô-típ này.
+- **Tối ưu Reactions bằng con số cụ thể + đa năng:** Các hook điểm cao nhất (Score 9, 6-7) đều nêu công suất rõ ràng và khả năng làm nhiều việc cùng lúc (VD: "170W sạc cả laptop lẫn 2 điện thoại cùng lúc", "240W sạc được cả laptop", "xoay 360°"). Ưu tiên con số ấn tượng + lợi ích kép.
 
-- **Dùng con số cụ thể gây tương phản** (VD: "170W nhỏ xíu", "1 sợi cáp 240W", "sạc cả laptop"): tạo sự bất ngờ, kích comment tốt; luôn chèn số liệu ấn tượng vào hook.
+- **Dùng cấu trúc "vật nhỏ – công năng lớn" gây tò mò:** Motif "nhỏ xíu mà..." (tẩu sạc nhỏ xíu 90W-170W, miếng dán nhỏ xíu giữ 360°) kéo Reactions tốt. Nên giữ tương phản kích thước/sức mạnh.
 
-- **Giữ công thức hook "[Lợi ích khó tin] + bạn tin không? 🤔"**: định dạng câu hỏi nghi vấn hiệu quả ổn định, nên duy trì nhưng cần biến tấu để tránh nhàm.
+- **Giữ định dạng câu hỏi "bạn tin không? 🤔":** Xuất hiện ở hầu hết video và luôn có ít nhất 1 comment, tạo phản xạ tương tác. Duy trì làm câu chốt hook.
 
-- **Nhấn tính năng "đa nhiệm/đa thiết bị cùng lúc"** (sạc 2–4 thiết bị, túi đựng nhiều đồ): các hook có yếu tố "cùng lúc / 3 in 1 / 4 in 1" cho tương tác nhỉnh hơn nhóm còn lại.
+- **Tránh hook trừu tượng, thiếu con số:** Các hook Score=3 thấp nhất đều mơ hồ, không có số liệu hoặc lợi ích quá chung chung ("giữ chắc trên mọi mặt phẳng", "đựng cả iPad/Switch", "4 góc chống sốc" lặp lại). Cần thay bằng lợi ích định lượng, tình huống cụ thể.
 
-- **Tránh nhóm túi/giá đỡ chỉ nêu tính năng bảo vệ trừu tượng** (CornerArmor™, chống RFID, hút chân không thuần) — các hook này Score thấp nhất (3); nếu viết cần quy đổi thành tình huống thực tế + con số.
+- **Tránh lặp mô tả tính năng giữa các sản phẩm cùng dòng:** Hook trùng ý "CornerArmor™ / 4 góc chống sốc" và "hút chân không giữ chặt" bị nhàm, điểm thấp. Mỗi sản phẩm cần 1 điểm nhấn khác biệt duy nhất.
 
-- **Tránh lặp y hệt cụm mở đầu "Miếng dán nhỏ xíu / Đế hút chân không"** cho nhiều sản phẩm cùng loại: gây trùng lặp, làm giảm tương tác nhóm giá đỡ.
+- **Đẩy mạnh yếu tố tạo Shares (đang = 0 toàn bộ):** Bổ sung nội dung có giá trị chia sẻ: mẹo dùng, so sánh trước/sau, tình huống "cứu nguy" thực tế (rơi máy, hết pin trên xe) để kích Shares (hệ số 5 cao nhất).
 
-- **Feature bullets nên ngắn, mỗi dòng 1 lợi ích + 1 con số hoặc so sánh cụ thể**, ưu tiên "sạc nhanh / công suất W / số cổng / số thiết bị" hơn tên công nghệ độc quyền.
+- **Feature bullets nên dẫn bằng số + kết quả thực tế:** Ưu tiên "240W / 170W / 360° / 4-in-1 / 2 thiết bị cùng lúc" thay vì tên công nghệ đơn thuần, kèm lợi ích người dùng cảm nhận được.
 
-- **Caption nên đặt câu hỏi chốt kêu gọi bình luận** (comment là hệ số x3, cao thứ nhì) vì shares hiện gần như bằng 0 — tập trung tăng comment thay vì kỳ vọng share.
+- **Caption nên đặt câu hỏi mở kích comment:** Vì Comments có hệ số 3, thêm CTA hỏi ý kiến ("Bạn sạc mấy thiết bị trên xe?") để tăng bình luận thay vì chỉ mô tả sản ph
