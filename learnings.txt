@@ -1,15 +1,15 @@
-- **Tối ưu Reactions bằng con số cụ thể + đa năng:** Các hook điểm cao nhất (Score 9, 6-7) đều nêu công suất rõ ràng và khả năng làm nhiều việc cùng lúc (VD: "170W sạc cả laptop lẫn 2 điện thoại cùng lúc", "240W sạc được cả laptop", "xoay 360°"). Ưu tiên con số ấn tượng + lợi ích kép.
+- **Ưu tiên sản phẩm "sạc/tẩu sạc đa năng" và nhấn con số công suất cụ thể ngay đầu hook** (170W, 90W): nhóm này đạt Score cao nhất (9, 5), vì con số lớn + lợi ích "sạc nhiều thiết bị cùng lúc" tạo tò mò mạnh.
 
-- **Dùng cấu trúc "vật nhỏ – công năng lớn" gây tò mò:** Motif "nhỏ xíu mà..." (tẩu sạc nhỏ xíu 90W-170W, miếng dán nhỏ xíu giữ 360°) kéo Reactions tốt. Nên giữ tương phản kích thước/sức mạnh.
+- **Dùng cấu trúc "vật nhỏ – công năng lớn" gây tương phản bất ngờ** ("nhỏ xíu mà 170W", "miếng dán nhỏ xíu mà giữ 360°"): các hook dạng này (Score 9, 6) kéo Reactions cao hơn hẳn.
 
-- **Giữ định dạng câu hỏi "bạn tin không? 🤔":** Xuất hiện ở hầu hết video và luôn có ít nhất 1 comment, tạo phản xạ tương tác. Duy trì làm câu chốt hook.
+- **Nêu tính năng độc quyền/thương hiệu có tên riêng** (CornerArmor™, MagSafe, Nano-Gel) và lợi ích an toàn cụ thể ("rơi vẫn nguyên vẹn"): giúp tăng nhẹ Reactions so với mô tả chung chung.
 
-- **Tránh hook trừu tượng, thiếu con số:** Các hook Score=3 thấp nhất đều mơ hồ, không có số liệu hoặc lợi ích quá chung chung ("giữ chắc trên mọi mặt phẳng", "đựng cả iPad/Switch", "4 góc chống sốc" lặp lại). Cần thay bằng lợi ích định lượng, tình huống cụ thể.
+- **Feature bullets nên là 3–4 gạch, mỗi gạch 1 con số hoặc 1 lợi ích tương phản** (công suất, số thiết bị, góc xoay, khả năng chống sốc), tránh liệt kê tính năng mờ nhạt.
 
-- **Tránh lặp mô tả tính năng giữa các sản phẩm cùng dòng:** Hook trùng ý "CornerArmor™ / 4 góc chống sốc" và "hút chân không giữ chặt" bị nhàm, điểm thấp. Mỗi sản phẩm cần 1 điểm nhấn khác biệt duy nhất.
+- **Tránh hook trừu tượng, thiếu con số hoặc lợi ích chung chung** ("giữ chắc trên mọi mặt phẳng", "giữ máy siêu chắc", "chống RFID"): các hook này Score thấp nhất (3), ít Reactions vì không tạo hình ảnh cụ thể.
 
-- **Đẩy mạnh yếu tố tạo Shares (đang = 0 toàn bộ):** Bổ sung nội dung có giá trị chia sẻ: mẹo dùng, so sánh trước/sau, tình huống "cứu nguy" thực tế (rơi máy, hết pin trên xe) để kích Shares (hệ số 5 cao nhất).
+- **Tránh lạm dụng cụm "bạn tin không? 🤔" lặp lại y hệt mọi bài**: gần như bài nào cũng dùng nên hết tác dụng gây tò mò; chỉ giữ khi hook có yếu tố bất ngờ thật sự.
 
-- **Feature bullets nên dẫn bằng số + kết quả thực tế:** Ưu tiên "240W / 170W / 360° / 4-in-1 / 2 thiết bị cùng lúc" thay vì tên công nghệ đơn thuần, kèm lợi ích người dùng cảm nhận được.
+- **Tránh nhóm giá đỡ/túi mô tả kiểu "làm được 3 việc / đựng được nhiều thứ"** khi thiếu con số ấn tượng: tương tác đều thấp (3–5); nếu viết cần thêm tình huống thực tế (làm rớt, đi xe, 1 tay).
 
-- **Caption nên đặt câu hỏi mở kích comment:** Vì Comments có hệ số 3, thêm CTA hỏi ý kiến ("Bạn sạc mấy thiết bị trên xe?") để tăng bình luận thay vì chỉ mô tả sản ph
+- **Công thức hook tối ưu**: [Vật nhỏ/đơn giản] + [con số hoặc năng lực vượt kỳ vọng] + [lợi ích cụ thể trong tình huống thực] → ưu tiên Reactions và Comments, hạn chế câu hỏi sáo mòn.
