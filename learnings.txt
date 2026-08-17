@@ -1,15 +1,15 @@
-- **Ưu tiên sản phẩm "sạc/tẩu sạc đa năng" và nhấn con số công suất cụ thể ngay đầu hook** (170W, 90W): nhóm này đạt Score cao nhất (9, 5), vì con số lớn + lợi ích "sạc nhiều thiết bị cùng lúc" tạo tò mò mạnh.
+- **Ưu tiên hook nêu con số + lợi ích kép rõ ràng** (VD: "Miếng dán nhỏ xíu mà giữ chắc điện thoại xoay 360°", "Xoay 360° kẹp cửa gió, thao tác 1 tay"): nhóm giá đỡ điện thoại có tính năng xoay 360°/hút chân không đạt Score cao nhất (6).
 
-- **Dùng cấu trúc "vật nhỏ – công năng lớn" gây tương phản bất ngờ** ("nhỏ xíu mà 170W", "miếng dán nhỏ xíu mà giữ 360°"): các hook dạng này (Score 9, 6) kéo Reactions cao hơn hẳn.
+- **Nhấn tương phản "nhỏ – mạnh"** (nhỏ gọn nhưng công suất/khả năng lớn): các hook kiểu "nhỏ xíu mà đẩy 90W", "1 tẩu sạc sạc 4 thiết bị" giữ tương tác ổn định (Score 4-5).
 
-- **Nêu tính năng độc quyền/thương hiệu có tên riêng** (CornerArmor™, MagSafe, Nano-Gel) và lợi ích an toàn cụ thể ("rơi vẫn nguyên vẹn"): giúp tăng nhẹ Reactions so với mô tả chung chung.
+- **Dùng hook cụ thể hóa cảnh dùng thực tế** (gắn cửa gió, gắn tựa đầu, giữ 2 điện thoại, chống rơi 4 góc) hiệu quả hơn mô tả kỹ thuật khô khan.
 
-- **Feature bullets nên là 3–4 gạch, mỗi gạch 1 con số hoặc 1 lợi ích tương phản** (công suất, số thiết bị, góc xoay, khả năng chống sốc), tránh liệt kê tính năng mờ nhạt.
+- **Tránh hook chung chung, thiếu con số hoặc cảnh dùng cụ thể** (VD: "Đế hút chân không giữ chắc trên mọi mặt phẳng", "hút nam châm giữ siêu chắc"): các hook này rơi xuống Score thấp nhất (3).
 
-- **Tránh hook trừu tượng, thiếu con số hoặc lợi ích chung chung** ("giữ chắc trên mọi mặt phẳng", "giữ máy siêu chắc", "chống RFID"): các hook này Score thấp nhất (3), ít Reactions vì không tạo hình ảnh cụ thể.
+- **Hạn chế lặp mô tả tính năng đã quen** (CornerArmor™ chống sốc laptop lặp nhiều lần) vì gây bão hòa, tương tác kém (Score 3-5).
 
-- **Tránh lạm dụng cụm "bạn tin không? 🤔" lặp lại y hệt mọi bài**: gần như bài nào cũng dùng nên hết tác dụng gây tò mò; chỉ giữ khi hook có yếu tố bất ngờ thật sự.
+- **Không lạm dụng công thức "..., bạn tin không? 🤔"** một cách máy móc: khi kèm hook mờ nhạt vẫn không cứu được tương tác; cần thay bằng câu chốt đánh vào trải nghiệm/nỗi đau người dùng.
 
-- **Tránh nhóm giá đỡ/túi mô tả kiểu "làm được 3 việc / đựng được nhiều thứ"** khi thiếu con số ấn tượng: tương tác đều thấp (3–5); nếu viết cần thêm tình huống thực tế (làm rớt, đi xe, 1 tay).
+- **Feature bullets nên ưu tiên: con số cụ thể → lợi ích tức thì → tình huống dùng**, tránh liệt kê thông số thuần túy không gắn giá trị.
 
-- **Công thức hook tối ưu**: [Vật nhỏ/đơn giản] + [con số hoặc năng lực vượt kỳ vọng] + [lợi ích cụ thể trong tình huống thực] → ưu tiên Reactions và Comments, hạn chế câu hỏi sáo mòn.
+- **Caption nên mở bằng lợi ích gây bất ngờ + đặt câu hỏi tương tác nhắm comment**, vì Comments (nhân hệ số 3) là nguồn Score chính khi Shares gần như bằng 0.
