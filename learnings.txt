@@ -1,15 +1,8 @@
-- **Ưu tiên hook nêu con số + lợi ích kép rõ ràng** (VD: "Miếng dán nhỏ xíu mà giữ chắc điện thoại xoay 360°", "Xoay 360° kẹp cửa gió, thao tác 1 tay"): nhóm giá đỡ điện thoại có tính năng xoay 360°/hút chân không đạt Score cao nhất (6).
-
-- **Nhấn tương phản "nhỏ – mạnh"** (nhỏ gọn nhưng công suất/khả năng lớn): các hook kiểu "nhỏ xíu mà đẩy 90W", "1 tẩu sạc sạc 4 thiết bị" giữ tương tác ổn định (Score 4-5).
-
-- **Dùng hook cụ thể hóa cảnh dùng thực tế** (gắn cửa gió, gắn tựa đầu, giữ 2 điện thoại, chống rơi 4 góc) hiệu quả hơn mô tả kỹ thuật khô khan.
-
-- **Tránh hook chung chung, thiếu con số hoặc cảnh dùng cụ thể** (VD: "Đế hút chân không giữ chắc trên mọi mặt phẳng", "hút nam châm giữ siêu chắc"): các hook này rơi xuống Score thấp nhất (3).
-
-- **Hạn chế lặp mô tả tính năng đã quen** (CornerArmor™ chống sốc laptop lặp nhiều lần) vì gây bão hòa, tương tác kém (Score 3-5).
-
-- **Không lạm dụng công thức "..., bạn tin không? 🤔"** một cách máy móc: khi kèm hook mờ nhạt vẫn không cứu được tương tác; cần thay bằng câu chốt đánh vào trải nghiệm/nỗi đau người dùng.
-
-- **Feature bullets nên ưu tiên: con số cụ thể → lợi ích tức thì → tình huống dùng**, tránh liệt kê thông số thuần túy không gắn giá trị.
-
-- **Caption nên mở bằng lợi ích gây bất ngờ + đặt câu hỏi tương tác nhắm comment**, vì Comments (nhân hệ số 3) là nguồn Score chính khi Shares gần như bằng 0.
+- **Ưu tiên hook nêu con số + lợi ích kép cụ thể** (VD: "xoay 360°", "15W", "2 điện thoại cùng lúc", "3 việc"): các hook dạng này đạt Score cao nhất (6 điểm — CH058, SuctionPro Nano-Gel).
+- **Giữ công thức "vật nhỏ nhưng làm được điều lớn"** ("Miếng dán nhỏ xíu mà giữ chắc", "Đế nhỏ xíu mà hút chặt"): tạo tương phản gây tò mò, tương tác tốt.
+- **Kết hook bằng "bạn tin không? 🤔"** giúp kích thích phản hồi (comment ổn định), nhưng phải đi kèm con số/lợi ích mạnh mới bật Reactions.
+- **Feature bullets nên gắn tên công nghệ độc quyền + kết quả thực tế** (VD: CornerArmor™ → "rơi vẫn nguyên 4 góc"): tăng độ tin và Reactions.
+- **Tránh hook mơ hồ, chung chung, không có số liệu** ("giữ chắc trên mọi mặt phẳng", "giữ máy siêu chắc"): các hook này Score thấp nhất (3 điểm — CH056, CH062).
+- **Tránh lặp y nguyên cùng một hook cho nhiều sản phẩm** (2 hook CornerArmor™ trùng ý → sản phẩm sau chỉ đạt Score 3): mỗi sản phẩm cần góc nhìn/lợi ích riêng.
+- **Caption nên chèn CTA rõ ràng để đẩy Comments/Shares** (hiện Shares=0 toàn bộ): thêm câu hỏi mở hoặc mời tag bạn bè để tăng Score qua trọng số Shares×5.
+- **Nhấn tính năng "đa nhiệm/đa thiết bị"** ("nuôi cả laptop lẫn điện thoại", "sạc 4 thiết bị"): nhóm sản phẩm sạc/giá đỡ đa năng giữ Score ổn định 4–5.
