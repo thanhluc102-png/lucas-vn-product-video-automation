@@ -1,8 +1,13 @@
-- **Ưu tiên hook nêu con số + lợi ích kép cụ thể** (VD: "xoay 360°", "15W", "2 điện thoại cùng lúc", "3 việc"): các hook dạng này đạt Score cao nhất (6 điểm — CH058, SuctionPro Nano-Gel).
-- **Giữ công thức "vật nhỏ nhưng làm được điều lớn"** ("Miếng dán nhỏ xíu mà giữ chắc", "Đế nhỏ xíu mà hút chặt"): tạo tương phản gây tò mò, tương tác tốt.
-- **Kết hook bằng "bạn tin không? 🤔"** giúp kích thích phản hồi (comment ổn định), nhưng phải đi kèm con số/lợi ích mạnh mới bật Reactions.
-- **Feature bullets nên gắn tên công nghệ độc quyền + kết quả thực tế** (VD: CornerArmor™ → "rơi vẫn nguyên 4 góc"): tăng độ tin và Reactions.
-- **Tránh hook mơ hồ, chung chung, không có số liệu** ("giữ chắc trên mọi mặt phẳng", "giữ máy siêu chắc"): các hook này Score thấp nhất (3 điểm — CH056, CH062).
-- **Tránh lặp y nguyên cùng một hook cho nhiều sản phẩm** (2 hook CornerArmor™ trùng ý → sản phẩm sau chỉ đạt Score 3): mỗi sản phẩm cần góc nhìn/lợi ích riêng.
-- **Caption nên chèn CTA rõ ràng để đẩy Comments/Shares** (hiện Shares=0 toàn bộ): thêm câu hỏi mở hoặc mời tag bạn bè để tăng Score qua trọng số Shares×5.
-- **Nhấn tính năng "đa nhiệm/đa thiết bị"** ("nuôi cả laptop lẫn điện thoại", "sạc 4 thiết bị"): nhóm sản phẩm sạc/giá đỡ đa năng giữ Score ổn định 4–5.
+- **Ưu tiên hook nêu con số/lợi ích kép cụ thể + cảm xúc ngạc nhiên**: các hook điểm cao nhất (Score 6) đều nhấn mạnh tính năng "nhỏ mà mạnh" gây bất ngờ (VD: "Miếng dán nhỏ xíu mà giữ chắc… xoay 360°", "Xoay 360° kẹp cửa gió, thao tác 1 tay"). Nên viết theo mô-típ: [chi tiết nhỏ/bất ngờ] + [công năng vượt trội] + [chốt "bạn tin không? 🤔"].
+
+- **Giữ công thức tương phản "nhỏ xíu / đơn giản → hiệu năng cao"**: nhóm sản phẩm sạc & giá đỡ có yếu tố tương phản kích thước-công suất (90W, 15W, hút 2400G, 4 in 1) tương tác tốt hơn. Luôn đưa 1 con số ấn tượng vào ngay hook.
+
+- **Luôn kết hook bằng câu hỏi tương tác "bạn tin không? 🤔"**: hầu hết hook điểm cao đều dùng, kích comment/reaction; nên duy trì hoặc thay bằng câu hỏi mở tương tự để mời phản hồi.
+
+- **Feature bullets nên cụ thể hóa con số + tình huống dùng thực tế**: nhấn 360°/720°, công suất W, lực hút G, số thiết bị sạc cùng lúc; gắn với ngữ cảnh (trên xe, cửa gió, taplo, kính lái) để tăng độ tin và tương tác.
+
+- **Tránh hook chung chung, thiếu con số hoặc thiếu yếu tố bất ngờ**: các hook điểm thấp nhất (Score 3) mô tả tính năng phẳng lặng ("giữ điện thoại chắc trên mọi mặt phẳng", "hút nam châm giữ máy siêu chắc", hook laptop chống sốc) — nên viết lại kèm số liệu và tương phản.
+
+- **Tránh hook bỏ câu hỏi tương tác cuối**: các hook không có "bạn tin không?" (2 sản phẩm sạc WiWU CH-325/326) chỉ đạt Score 4; nên bổ sung câu hỏi chốt.
+
+- **Caption nên đẩy 1 lợi ích chính + 1 câu hỏi mời bình luận**: dữ liệu cho thấy comment là nguồn điểm ổn định (đều =1); tối ưu bằng câu hỏi cụ thể ("Bạn hay để điện thoại ở đâu trên xe?") để tăng lượng comment vượt mức 1.
