@@ -1,15 +1,8 @@
-- **Hook chạm cảm xúc/tò mò thắng lớn:** Các hook dùng công thức "vật nhỏ xíu + công dụng vượt kỳ vọng + 'bạn tin không? 🤔'" cho điểm cao nhất (Score 6: "Miếng dán nhỏ xíu mà giữ chắc… xoay 360°", "Xoay 360° kẹp cửa gió, thao tác 1 tay"). Ưu tiên nhấn tương phản kích thước–hiệu năng và thao tác tiện lợi.
-
-- **Ưu tiên nhóm sản phẩm hút tương tác:** Giá đỡ điện thoại từ tính/MagSafe và giá đỡ có tính năng "xoay 360°", "thao tác 1 tay", "giữ 2 thiết bị" tạo hứng thú tốt hơn; nên khai thác mạnh các benefit chuyển động, tiện dụng khi lái xe.
-
-- **Con số ấn tượng cần đặt đúng chỗ:** Số liệu mạnh (90W, 15W, 2400G, sạc 4 thiết bị) nên ghép với lợi ích đời thực ("nuôi cả laptop lẫn điện thoại") thay vì chỉ nêu thông số khô, để tăng sức thuyết phục.
-
-- **Tránh hook thiếu tương phản/không có yếu tố bất ngờ:** Các hook đều đều, chỉ mô tả tính năng phẳng ("giữ điện thoại chắc trên mọi mặt phẳng", "hút nam châm giữ máy siêu chắc") cho Score thấp nhất (3). Cần thêm chi tiết gây sốc hoặc lợi ích cụ thể.
-
-- **Tránh lặp khuôn cứng gây nhàm:** Việc mọi hook đều kết bằng "bạn tin không? 🤔" khiến độ khác biệt thấp; nên luân phiên biến thể (câu hỏi, thách thức, tình huống thực tế) để giữ độ mới.
-
-- **Tránh bỏ trống Shares:** Toàn bộ video 0 share — caption cần thêm lời kêu gọi chia sẻ/tag bạn và tình huống dễ lan truyền (mẹo dùng xe, quà tặng) để tăng chỉ số Shares (trọng số x5).
-
-- **Công thức hook đề xuất:** [Vật thể nhỏ/đơn giản] + [con số hoặc công dụng vượt mong đợi gắn lợi ích thực] + [thao tác tiện lợi: xoay 360°/1 tay/gắn nhanh] + [câu hỏi hoặc thách thức biến thể].
-
-- **Caption & bullets:** Mỗi bullet nêu 1 benefit cụ thể kèm số liệu + tình huống dùng thật; caption chố
+- **Ưu tiên hook gợi lợi ích cụ thể + con số ấn tượng** ("giữ chắc 360°", "sạc 15W", "hút 2400G"): các video Score cao nhất (6đ) đều dùng công thức "tính năng nổi bật + xoay 360°/lực hút + bạn tin không? 🤔".
+- **Giữ mô-típ tương phản "nhỏ xíu mà làm được việc lớn"** ("Miếng dán nhỏ xíu mà giữ chắc xoay 360°" đạt 6đ) — nhấn nghịch lý kích thước vs hiệu năng để kích tò mò.
+- **Kết hook bằng câu hỏi thách thức "bạn tin không? 🤔"** cho hiệu quả ổn định, nên duy trì nhưng biến tấu đuôi câu để tránh lặp máy móc.
+- **Tránh hook chung chung, thiếu con số/điểm nhấn** ("giữ chắc trên mọi mặt phẳng", "hút nam châm giữ siêu chắc"): các video này Reactions=0, Score thấp nhất (3đ) — luôn chèn 1 thông số đo lường được (W, độ, gram).
+- **Tránh nhóm sản phẩm phụ kiện MacBook (miếng dán kê tay/trackpad)**: tương tác kém (3-4đ), nếu viết cần thêm yếu tố thị giác/nỗi đau cụ thể ("hết mỏi tay", "chống trầy") thay vì mô tả kỹ thuật.
+- **Feature bullets nên dẫn bằng lợi ích lượng hóa** (số cổng, công suất, góc xoay, lực hút) đặt ở dòng đầu, tránh liệt kê thông số khô khan không gắn tình huống dùng.
+- **Ưu tiên đẩy nhóm giá đỡ từ tính MagSafe / gắn cửa gió xoay 360°** (Score 5-6) làm chủ lực nội dung Reels tiếp theo.
+- **Caption cần chèn tình huống dùng thực tế trên xe hơi** (sạc 2 máy cùng lúc, thao tác 1 tay) để tăng comment — vì mọi video đều có comment nhưng share=0, hãy thêm CTA kích chia sẻ/tag bạn bè.
