@@ -1,8 +1,7 @@
-- **Ưu tiên hook gợi lợi ích cụ thể + con số ấn tượng** ("giữ chắc 360°", "sạc 15W", "hút 2400G"): các video Score cao nhất (6đ) đều dùng công thức "tính năng nổi bật + xoay 360°/lực hút + bạn tin không? 🤔".
-- **Giữ mô-típ tương phản "nhỏ xíu mà làm được việc lớn"** ("Miếng dán nhỏ xíu mà giữ chắc xoay 360°" đạt 6đ) — nhấn nghịch lý kích thước vs hiệu năng để kích tò mò.
-- **Kết hook bằng câu hỏi thách thức "bạn tin không? 🤔"** cho hiệu quả ổn định, nên duy trì nhưng biến tấu đuôi câu để tránh lặp máy móc.
-- **Tránh hook chung chung, thiếu con số/điểm nhấn** ("giữ chắc trên mọi mặt phẳng", "hút nam châm giữ siêu chắc"): các video này Reactions=0, Score thấp nhất (3đ) — luôn chèn 1 thông số đo lường được (W, độ, gram).
-- **Tránh nhóm sản phẩm phụ kiện MacBook (miếng dán kê tay/trackpad)**: tương tác kém (3-4đ), nếu viết cần thêm yếu tố thị giác/nỗi đau cụ thể ("hết mỏi tay", "chống trầy") thay vì mô tả kỹ thuật.
-- **Feature bullets nên dẫn bằng lợi ích lượng hóa** (số cổng, công suất, góc xoay, lực hút) đặt ở dòng đầu, tránh liệt kê thông số khô khan không gắn tình huống dùng.
-- **Ưu tiên đẩy nhóm giá đỡ từ tính MagSafe / gắn cửa gió xoay 360°** (Score 5-6) làm chủ lực nội dung Reels tiếp theo.
-- **Caption cần chèn tình huống dùng thực tế trên xe hơi** (sạc 2 máy cùng lúc, thao tác 1 tay) để tăng comment — vì mọi video đều có comment nhưng share=0, hãy thêm CTA kích chia sẻ/tag bạn bè.
+- **Hook thắng lớn nhất là công thức "vật nhỏ – công năng lớn + số cụ thể + 'bạn tin không? 🤔"**: các top score (6đ) đều dùng cấu trúc này với con số gây sốc (xoay 360°, hút 2400G, sạc 15W) — ưu tiên nêu 1 thông số ấn tượng ngay trong hook.
+- **Sản phẩm tương tác tốt nhất là nhóm giá đỡ từ tính/hút chân không có tính năng "xoay 360°" hoặc "giữ siêu chắc"** (MagSafe Nano-Gel, WiWU CH058) — nhấn mạnh khả năng giữ chắc + linh hoạt xoay là điểm câu view mạnh nhất.
+- **Luôn kết hook bằng câu hỏi thách thức người xem** ("bạn tin không?", "bạn thử chưa?") — dạng khẳng định trần trụi không có câu hỏi (các sản phẩm sạc CH-325/326) chỉ đạt điểm trung bình.
+- **Feature bullets nên dẫn bằng con số/định lượng cụ thể** (69W, 4-in-1, 2400G, 1,5mm, 15W, 720°) thay vì mô tả chung chung — con số càng cụ thể càng tăng độ tin và tương tác.
+- **Cần tránh hook trừu tượng, thiếu con số hoặc dùng thông số khô khan không gợi lợi ích** (CH056, CH062, ốp MacBook, miếng dán JRC — đều chỉ 3đ): mọi thông số phải quy đổi thành lợi ích thấy được ngay.
+- **Tránh chọn sản phẩm phụ kiện "che chắn/bảo vệ" thụ động làm chủ đề chính** (ốp lưng, miếng dán trackpad) vì tương tác thấp — nếu bắt buộc, hãy gắn thêm yếu tố bất ngờ ("bóc ra 100% không dính keo").
+- **Caption nên mở đầu bằng đúng hook đã tối ưu, giữ 1 emoji 🤔 hoặc ❗ tạo tò mò**, sau đó liệt kê 3 bullet số liệu và chốt bằng CTA nhẹ (comment/hỏi giá) để đẩy Comments (trọng số x3) và Shares (x5) vốn đang gần như bằng 0.
