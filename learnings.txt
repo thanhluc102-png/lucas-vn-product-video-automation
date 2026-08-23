@@ -1,7 +1,8 @@
-- **Hook thắng lớn nhất là công thức "vật nhỏ – công năng lớn + số cụ thể + 'bạn tin không? 🤔"**: các top score (6đ) đều dùng cấu trúc này với con số gây sốc (xoay 360°, hút 2400G, sạc 15W) — ưu tiên nêu 1 thông số ấn tượng ngay trong hook.
-- **Sản phẩm tương tác tốt nhất là nhóm giá đỡ từ tính/hút chân không có tính năng "xoay 360°" hoặc "giữ siêu chắc"** (MagSafe Nano-Gel, WiWU CH058) — nhấn mạnh khả năng giữ chắc + linh hoạt xoay là điểm câu view mạnh nhất.
-- **Luôn kết hook bằng câu hỏi thách thức người xem** ("bạn tin không?", "bạn thử chưa?") — dạng khẳng định trần trụi không có câu hỏi (các sản phẩm sạc CH-325/326) chỉ đạt điểm trung bình.
-- **Feature bullets nên dẫn bằng con số/định lượng cụ thể** (69W, 4-in-1, 2400G, 1,5mm, 15W, 720°) thay vì mô tả chung chung — con số càng cụ thể càng tăng độ tin và tương tác.
-- **Cần tránh hook trừu tượng, thiếu con số hoặc dùng thông số khô khan không gợi lợi ích** (CH056, CH062, ốp MacBook, miếng dán JRC — đều chỉ 3đ): mọi thông số phải quy đổi thành lợi ích thấy được ngay.
-- **Tránh chọn sản phẩm phụ kiện "che chắn/bảo vệ" thụ động làm chủ đề chính** (ốp lưng, miếng dán trackpad) vì tương tác thấp — nếu bắt buộc, hãy gắn thêm yếu tố bất ngờ ("bóc ra 100% không dính keo").
-- **Caption nên mở đầu bằng đúng hook đã tối ưu, giữ 1 emoji 🤔 hoặc ❗ tạo tò mò**, sau đó liệt kê 3 bullet số liệu và chốt bằng CTA nhẹ (comment/hỏi giá) để đẩy Comments (trọng số x3) và Shares (x5) vốn đang gần như bằng 0.
+- **Ưu tiên hook dạng câu hỏi thách thức "..., bạn tin không? 🤔"**: các video điểm cao nhất (Score 5-6) đều dùng công thức này kết hợp con số/lợi ích gây bất ngờ (xoay 360°, 3-in-1, giữ chắc, hút chân không).
+- **Nhấn mạnh sự tương phản "nhỏ mà mạnh"**: các hook "miếng dán nhỏ xíu mà...", "đế nhỏ xíu mà hút chặt 2400G", "1 giá đỡ làm 3 việc" tạo tò mò tốt — luôn đặt yếu tố kích thước nhỏ cạnh lợi ích lớn kèm số liệu cụ thể.
+- **Sản phẩm giá đỡ điện thoại/ô tô tương tác tốt hơn**: tập trung viết mạnh cho nhóm này; nêu bật tính năng nổi bật (lực hút, độ xoay, sạc nhanh 15W) ngay trong hook.
+- **Tránh hook khẳng định trơn không có câu hỏi kích thích** (VD sạc WiWU CH-325/326 chỉ dùng câu cảm thán) — luôn thêm cú "bạn tin không?/bạn thử chưa?" ở cuối để tăng comment.
+- **Nhóm phụ kiện MacBook (ốp, miếng dán) đang yếu nhất (Score 3)**: cần đổi góc hook sang lợi ích cảm xúc/nỗi đau cụ thể (chống trầy, mồ hôi tay, xước trackpad) thay vì chỉ khoe độ mỏng.
+- **Tránh lặp lại y hệt một mẫu hook cho nhiều sản phẩm** (nhiều hook "xoay 360°/hút chặt" giống nhau gây nhàm, kéo Reactions về 0-1) — biến tấu con số, tình huống dùng thật (kẹt xe, đi phượt, làm việc).
+- **Feature bullets nên đưa số liệu + tình huống**: mỗi bullet 1 lợi ích rõ (VD "Hút 2400G – không rơi khi xóc ổ gà"), tối đa 3-4 bullet, kết caption bằng CTA đặt câu hỏi để đẩy comment (yếu tố có trọng số 3).
+- **Khai thác mạnh yếu tố Share (trọng số 5 nhưng hiện = 0)**: thêm nội dung đáng chia sẻ như mẹo dùng, "tag người hay làm rơi điện thoại", tình huống hài hước để kích Share.
