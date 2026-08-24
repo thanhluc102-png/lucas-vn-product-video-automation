@@ -1,8 +1,8 @@
-- **Ưu tiên hook dạng câu hỏi thách thức "..., bạn tin không? 🤔"**: các video điểm cao nhất (Score 5-6) đều dùng công thức này kết hợp con số/lợi ích gây bất ngờ (xoay 360°, 3-in-1, giữ chắc, hút chân không).
-- **Nhấn mạnh sự tương phản "nhỏ mà mạnh"**: các hook "miếng dán nhỏ xíu mà...", "đế nhỏ xíu mà hút chặt 2400G", "1 giá đỡ làm 3 việc" tạo tò mò tốt — luôn đặt yếu tố kích thước nhỏ cạnh lợi ích lớn kèm số liệu cụ thể.
-- **Sản phẩm giá đỡ điện thoại/ô tô tương tác tốt hơn**: tập trung viết mạnh cho nhóm này; nêu bật tính năng nổi bật (lực hút, độ xoay, sạc nhanh 15W) ngay trong hook.
-- **Tránh hook khẳng định trơn không có câu hỏi kích thích** (VD sạc WiWU CH-325/326 chỉ dùng câu cảm thán) — luôn thêm cú "bạn tin không?/bạn thử chưa?" ở cuối để tăng comment.
-- **Nhóm phụ kiện MacBook (ốp, miếng dán) đang yếu nhất (Score 3)**: cần đổi góc hook sang lợi ích cảm xúc/nỗi đau cụ thể (chống trầy, mồ hôi tay, xước trackpad) thay vì chỉ khoe độ mỏng.
-- **Tránh lặp lại y hệt một mẫu hook cho nhiều sản phẩm** (nhiều hook "xoay 360°/hút chặt" giống nhau gây nhàm, kéo Reactions về 0-1) — biến tấu con số, tình huống dùng thật (kẹt xe, đi phượt, làm việc).
-- **Feature bullets nên đưa số liệu + tình huống**: mỗi bullet 1 lợi ích rõ (VD "Hút 2400G – không rơi khi xóc ổ gà"), tối đa 3-4 bullet, kết caption bằng CTA đặt câu hỏi để đẩy comment (yếu tố có trọng số 3).
-- **Khai thác mạnh yếu tố Share (trọng số 5 nhưng hiện = 0)**: thêm nội dung đáng chia sẻ như mẹo dùng, "tag người hay làm rơi điện thoại", tình huống hài hước để kích Share.
+- **Ưu tiên hook dạng thách thức tò mò "..., bạn tin không? 🤔"** kết hợp yếu tố tương phản "nhỏ xíu / mỏng chỉ Xmm mà [công dụng mạnh]" — nhóm này đạt Score cao nhất (6): dùng cho giá đỡ, sạc, phụ kiện.
+- **Nhấn mạnh con số/thông số ấn tượng gây shock** (xoay 360°, hút 2400G, giữ 2 điện thoại, 15W) ngay trong hook để tăng reactions.
+- **Nhóm sản phẩm giá đỡ điện thoại (WiWU Gentleman, LISEN MagSafe) tương tác tốt nhất** — nên đẩy mạnh, đặt tên sản phẩm gọn, đưa lợi ích trực quan lên đầu.
+- **Feature bullets nên viết dạng lợi ích cụ thể + số liệu** (giữ chắc, xoay 360°, không khoan vít, thao tác 1 tay), tránh liệt kê thông số khô khan.
+- **Tránh hook dạng câu hỏi nêu vấn đề/nỗi đau chung chung** ("...xước vì mồ hôi tay, bạn có gặp không?") — nhóm này Score thấp nhất (3), phản hồi kém.
+- **Hạn chế nhóm ốp/miếng dán MacBook** dùng hook chỉ mô tả độ mỏng mà thiếu con số gây tò mò — tương tác thấp (Score 3); nếu viết cần thêm yếu tố "mà vẫn..." bất ngờ.
+- **Caption ngắn, mở bằng emoji tò mò 🤔, chèn CTA nhẹ khuyến khích comment** vì comments chiếm trọng số cao (x3) và là kênh tương tác chủ đạo hiện tại.
+- **Tối ưu để tạo shares (trọng số x5, đang = 0 ở tất cả video)**: thêm tình huống "gửi ngay cho người hay dùng điện thoại trên xe" hoặc mẹo hữu ích đáng chia sẻ.
