@@ -1,8 +1,8 @@
-- **Ưu tiên hook dạng thách thức tò mò "..., bạn tin không? 🤔"** kết hợp yếu tố tương phản "nhỏ xíu / mỏng chỉ Xmm mà [công dụng mạnh]" — nhóm này đạt Score cao nhất (6): dùng cho giá đỡ, sạc, phụ kiện.
-- **Nhấn mạnh con số/thông số ấn tượng gây shock** (xoay 360°, hút 2400G, giữ 2 điện thoại, 15W) ngay trong hook để tăng reactions.
-- **Nhóm sản phẩm giá đỡ điện thoại (WiWU Gentleman, LISEN MagSafe) tương tác tốt nhất** — nên đẩy mạnh, đặt tên sản phẩm gọn, đưa lợi ích trực quan lên đầu.
-- **Feature bullets nên viết dạng lợi ích cụ thể + số liệu** (giữ chắc, xoay 360°, không khoan vít, thao tác 1 tay), tránh liệt kê thông số khô khan.
-- **Tránh hook dạng câu hỏi nêu vấn đề/nỗi đau chung chung** ("...xước vì mồ hôi tay, bạn có gặp không?") — nhóm này Score thấp nhất (3), phản hồi kém.
-- **Hạn chế nhóm ốp/miếng dán MacBook** dùng hook chỉ mô tả độ mỏng mà thiếu con số gây tò mò — tương tác thấp (Score 3); nếu viết cần thêm yếu tố "mà vẫn..." bất ngờ.
-- **Caption ngắn, mở bằng emoji tò mò 🤔, chèn CTA nhẹ khuyến khích comment** vì comments chiếm trọng số cao (x3) và là kênh tương tác chủ đạo hiện tại.
-- **Tối ưu để tạo shares (trọng số x5, đang = 0 ở tất cả video)**: thêm tình huống "gửi ngay cho người hay dùng điện thoại trên xe" hoặc mẹo hữu ích đáng chia sẻ.
+- **Ưu tiên hook có số liệu cụ thể + gây sốc**: "hút chặt tới 2400G", "sạc 25W xoay 360°", "15W" — các hook chứa thông số ấn tượng đạt Score cao nhất (6), tạo tò mò và tin cậy tức thì.
+- **Dùng công thức "[Lợi ích bất ngờ] + xoay 360°/720° + bạn tin không? 🤔"**: các Reels về giá đỡ xoay góc rộng (CH058, CH062, W608) tương tác tốt hơn; nhấn chuyển động và tính linh hoạt.
+- **Nhấn nghịch lý "nhỏ mà mạnh"**: "đế nhỏ xíu mà hút chặt cả kính lái", "nhỏ gọn mà sạc 15W" — tương phản kích thước vs sức mạnh kéo tương tác lên.
+- **Ưu tiên nhóm sản phẩm ô tô/giá đỡ xe hơi**: sạc và giá đỡ gắn xe (CH058, W608, CH-325/326) hiệu quả hơn nhóm phụ kiện MacBook.
+- **Tránh hook chung chung, thiếu số liệu**: "giữ chặt trên mọi mặt phẳng", "bảo vệ trọn 360°" — mơ hồ, Reactions=0, Score thấp (3).
+- **Tránh hook cho nhóm phụ kiện MacBook (ốp, miếng dán, cường lực)**: gần như chỉ đạt Score=3, ít cảm xúc; nếu viết cần thêm tình huống đau (mồ hôi tay, xước máy) rõ và số liệu cụ thể.
+- **Hạn chế lạm dụng "bạn tin không? 🤔" đơn thuần**: nếu không đi kèm thông số mạnh sẽ chìm; luôn ghép một con số hoặc lợi ích độc nhất.
+- **Feature bullets nên bám 3 trục**: (1) con số đo lường được (G lực hút, W công suất, độ xoay), (2) tình huống dùng thực tế trên xe/bàn, (3) thao tác nhanh "1 tay/không khoan vít".
