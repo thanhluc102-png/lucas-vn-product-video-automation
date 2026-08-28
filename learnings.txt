@@ -1,13 +1,13 @@
-- **Ưu tiên hook có con số cụ thể + tính năng mạnh** (VD: "xoay 360°", "sạc 25W", "hút chặt kính lái"): nhóm điểm cao nhất (Score 5-6) đều có thông số rõ ràng gắn với lợi ích trực quan.
+- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (VD: "xoay 360°", "25W", "hút 2400G", "120Gbps"): các video điểm cao nhất (Score 6) đều gắn thông số/tính năng mạnh gây tò mò ngay đầu câu.
 
-- **Chủ đề thắng: phụ kiện ô tô** (giá đỡ điện thoại xe, sạc không dây ô tô CH054/CH058, LISEN W608) — đây là dòng sản phẩm nên khai thác nhiều và đặt lên đầu.
+- **Dùng hook dạng "khả năng vượt kỳ vọng" cho sản phẩm giá đỡ/sạc ô tô** (xoay 360°, giữ chắc, sạc nhanh) – nhóm này kéo Reactions tốt hơn hẳn nhóm phụ kiện MacBook.
 
-- **Giữ công thức hook "[Tính năng số cụ thể] mà [lợi ích bất ngờ], bạn tin không? 🤔"** nhưng luôn nhét ít nhất 1 con số ấn tượng vào; hook chỉ nêu tính năng chung chung không có số cho tương tác thấp.
+- **Thêm yếu tố lợi ích chống rủi ro/riêng tư** (VD: "không ai đọc được màn hình", chống nhìn trộm) cũng tạo tương tác khá (Score 5) – khai thác góc "bảo vệ, an tâm".
 
-- **Tránh hook trừu tượng/kỹ thuật khó hình dung** (VD "120Gbps", "ốp mỏng chưa tới li", "không dính keo thừa"): nhóm phụ kiện MacBook và cáp đều Score 3 — cần thêm bối cảnh đời thường, cảm xúc.
+- **Hạn chế lạm dụng công thức "…, bạn tin không? 🤔"**: xuất hiện dày đặc, phần lớn chỉ đạt Score 3 (chỉ có 1 comment, 0 reaction) → gây nhàm, giảm hiệu quả; nên đa dạng câu hỏi/CTA.
 
-- **Tránh mở đầu bằng vấn đề tiêu cực chung chung** ("xước vì mồ hôi tay, bạn có gặp không?"): tương tác kém; nên chuyển sang lợi ích tích cực + số liệu.
+- **Tránh hook chung chung, thiếu con số cho phụ kiện MacBook** (ốp, miếng dán kê tay, cường lực): toàn bộ chỉ Score 3 → cần thêm số liệu cụ thể (độ mỏng mm, % chống xước, lực bám) và tình huống đau thực tế.
 
-- **Feature bullets nên bám 3 trụ: thông số (W, độ xoay, lực hút G) + thao tác tiện lợi (1 tay, gắn cửa gió) + độ chắc chắn** — đây là các yếu tố xuất hiện ở mọi hook điểm cao.
+- **Feature bullets nên bám sát 1 điểm mạnh định lượng + 1 tình huống dùng thật** (trên xe, cửa gió, taplo, ngồi cạnh người lạ) thay vì liệt kê tính năng khô khan.
 
-- **Caption cần chèn CTA kích shares/comments mạnh hơn** (đặt câu hỏi chọn lựa, mini game, tag bạn đi ô tô): toàn bộ video Shares=0 và Comments chỉ =1, đòn bẩy Score đang bị bỏ trống.
+- **Caption cần đẩy CTA khuyến khích SHARE và REACTION**, không chỉ hỏi để lấy comment: hiện Shares=0 toàn bộ, đây là điểm yếu lớn nhất kéo Score thấp – thêm lời kêu gọi lưu/chia sẻ cho người cần.
