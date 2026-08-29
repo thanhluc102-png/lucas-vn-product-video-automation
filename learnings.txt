@@ -1,13 +1,8 @@
-- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (VD: "xoay 360°", "25W", "hút 2400G", "120Gbps"): các video điểm cao nhất (Score 6) đều gắn thông số/tính năng mạnh gây tò mò ngay đầu câu.
-
-- **Dùng hook dạng "khả năng vượt kỳ vọng" cho sản phẩm giá đỡ/sạc ô tô** (xoay 360°, giữ chắc, sạc nhanh) – nhóm này kéo Reactions tốt hơn hẳn nhóm phụ kiện MacBook.
-
-- **Thêm yếu tố lợi ích chống rủi ro/riêng tư** (VD: "không ai đọc được màn hình", chống nhìn trộm) cũng tạo tương tác khá (Score 5) – khai thác góc "bảo vệ, an tâm".
-
-- **Hạn chế lạm dụng công thức "…, bạn tin không? 🤔"**: xuất hiện dày đặc, phần lớn chỉ đạt Score 3 (chỉ có 1 comment, 0 reaction) → gây nhàm, giảm hiệu quả; nên đa dạng câu hỏi/CTA.
-
-- **Tránh hook chung chung, thiếu con số cho phụ kiện MacBook** (ốp, miếng dán kê tay, cường lực): toàn bộ chỉ Score 3 → cần thêm số liệu cụ thể (độ mỏng mm, % chống xước, lực bám) và tình huống đau thực tế.
-
-- **Feature bullets nên bám sát 1 điểm mạnh định lượng + 1 tình huống dùng thật** (trên xe, cửa gió, taplo, ngồi cạnh người lạ) thay vì liệt kê tính năng khô khan.
-
-- **Caption cần đẩy CTA khuyến khích SHARE và REACTION**, không chỉ hỏi để lấy comment: hiện Shares=0 toàn bộ, đây là điểm yếu lớn nhất kéo Score thấp – thêm lời kêu gọi lưu/chia sẻ cho người cần.
+- **Ưu tiên hook nêu thông số ấn tượng, cụ thể** (25W, 360°, 720°, 2400G, chống nhìn trộm): các video điểm cao nhất (Score 5–6) đều gắn con số/tính năng gây "wow" rõ ràng, dễ hình dung lợi ích.
+- **Dùng emoji gây tò mò hợp lý** — ưu tiên 🤯 hoặc 🤔 khi đi kèm thông số sốc; tránh lạm dụng 🤔 cho hook chung chung vì nhóm này đa số chỉ đạt Score 3.
+- **Nhấn mạnh nhóm sản phẩm sạc không dây ô tô công suất cao và phụ kiện bảo mật/bảo vệ**: đây là nhóm tương tác tốt nhất, nên khai thác sâu và ưu tiên sản xuất.
+- **Feature bullets nên biến thông số thành lợi ích tức thì** (VD: "sạc 25W = đầy pin sau 1 chuyến đi ngắn"), tránh chỉ liệt kê tính năng khô khan.
+- **Tránh công thức "sản phẩm nhỏ xíu mà... bạn tin không? 🤔"** lặp lại quá nhiều (giá đỡ, miếng dán, ốp MacBook) — đang bão hòa, chỉ đạt Score 3, gây nhàm.
+- **Tránh hook trừu tượng, thiếu con số** (VD ốp "mỏng chưa tới li", balo "chống thấm nước") vì không tạo được cú hích tò mò mạnh.
+- **Caption nên chèn CTA khuyến khích share/comment** (đặt câu hỏi mở, mini game) vì Shares hiện đang = 0 hoàn toàn, cần cải thiện để tăng Score theo trọng số cao nhất (Shares ×5).
+- **Mỗi hook chỉ tập trung 1 điểm bán độc nhất + 1 con số**, đặt ngay câu đầu để giữ chân người xem Reels trong 2–3 giây đầu.
