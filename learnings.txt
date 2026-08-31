@@ -1,8 +1,8 @@
-- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (25W, 2400G, 360°, 120Gbps): các sản phẩm điểm cao nhất đều gắn số đo hiệu năng gây "wow" (Sạc LISEN 25W Score=6, chống nhìn trộm Score=5).
-- **Dùng lợi ích/lo lắng thực tế thay vì chỉ mô tả tính năng**: hook "ngồi cạnh mà không ai đọc được màn hình" (Score=5) hiệu quả hơn các hook mô tả kỹ thuật khô khan.
-- **Giữ công thức "[Lợi ích bất ngờ + con số] — bạn tin không? 🤔/🤯"** nhưng phải kèm giá trị đủ mạnh; emoji 🤯 hợp với thông số cực đỉnh, 🤔 dễ thành nhàm nếu lặp.
-- **Tránh lạm dụng mẫu "bạn tin không? 🤔" cho tính năng nhàm** (ốp mỏng 1,5mm, miếng dán không dính keo, balo chống thấm): loạt hook này chỉ đạt Score=3, tương tác đáy.
-- **Tránh hook chung chung về "bảo vệ 360°"** không có điểm khác biệt định lượng (túi Tomtoc, ốp MacBook): dễ chìm, không kích comment/share.
-- **Feature bullets nên dẫn 1 con số đo lường mỗi dòng** (công suất, lực hút, tốc độ, độ xoay) thay vì tính từ cảm tính ("siêu chắc", "trọn vẹn").
-- **Caption cần chèn 1 câu hỏi tương tác + kêu gọi bình luận** để đẩy Comments (trọng số ×3) và thúc Shares (×5) — hiện toàn bộ video Shares=0, đây là điểm cần cải thiện nhất.
-- **Nhóm sản phẩm sạc/giá đỡ ô tô có nhiều số liệu hấp dẫn nên khai thác mạnh**; nhóm phụ kiện MacBook (dán, ốp, túi) cần đổi góc sang nỗi đau người dùng để thoát vùng Score=3.
+- **Ưu tiên hook có con số/thông số gây sốc cụ thể** (VD: "25W xoay 360°", "hút 2400G", "120Gbps") — nhóm này đạt Score cao nhất (5–6), vượt trội so với hook chung chung.
+- **Nhấn mạnh lợi ích khác biệt, độc đáo** (chống nhìn trộm, sạc nhanh + xoay, giữ máy siêu chắc) thu hút Reactions thật, không chỉ Comment lấy lệ.
+- **Giữ emoji 🤯 cho tính năng ấn tượng**, dùng 🤔 vừa phải; câu hỏi "bạn tin không?" đơn thuần đã bão hòa, chỉ tạo Score đáy (3) khi thiếu số liệu đi kèm.
+- **Tránh hook mơ hồ, cảm tính không số liệu** ("bảo vệ trọn vẹn", "chống thấm nước", "giữ hương 60 ngày") — nhóm này tương tác kém nhất (Score=3).
+- **Hạn chế lạm dụng mô-típ "nhỏ xíu mà..."** vì lặp lại nhiều lần khiến nội dung nhàm, tương tác thấp.
+- **Feature bullets nên dẫn số đo lường + kết quả người dùng cảm nhận được** (tốc độ, lực hút, độ mỏng mm, công suất W) thay vì tính từ chung chung.
+- **Caption cần chèn CTA khuyến khích Share** (tag bạn bè, lưu lại) vì hiện Shares=0 toàn bộ, đây là đòn bẩy Score lớn nhất (x5) đang bị bỏ trống.
+- **Tập trung ngân sách/nội dung vào nhóm sản phẩm sạc ô tô, phụ kiện công nghệ có thông số mạnh**, giảm dần dạng phụ kiện mềm (túi, balo, sáp thơm) đang tương tác yếu.
