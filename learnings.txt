@@ -1,8 +1,8 @@
-- **Ưu tiên hook có con số/thông số gây sốc cụ thể** (VD: "25W xoay 360°", "hút 2400G", "120Gbps") — nhóm này đạt Score cao nhất (5–6), vượt trội so với hook chung chung.
-- **Nhấn mạnh lợi ích khác biệt, độc đáo** (chống nhìn trộm, sạc nhanh + xoay, giữ máy siêu chắc) thu hút Reactions thật, không chỉ Comment lấy lệ.
-- **Giữ emoji 🤯 cho tính năng ấn tượng**, dùng 🤔 vừa phải; câu hỏi "bạn tin không?" đơn thuần đã bão hòa, chỉ tạo Score đáy (3) khi thiếu số liệu đi kèm.
-- **Tránh hook mơ hồ, cảm tính không số liệu** ("bảo vệ trọn vẹn", "chống thấm nước", "giữ hương 60 ngày") — nhóm này tương tác kém nhất (Score=3).
-- **Hạn chế lạm dụng mô-típ "nhỏ xíu mà..."** vì lặp lại nhiều lần khiến nội dung nhàm, tương tác thấp.
-- **Feature bullets nên dẫn số đo lường + kết quả người dùng cảm nhận được** (tốc độ, lực hút, độ mỏng mm, công suất W) thay vì tính từ chung chung.
-- **Caption cần chèn CTA khuyến khích Share** (tag bạn bè, lưu lại) vì hiện Shares=0 toàn bộ, đây là đòn bẩy Score lớn nhất (x5) đang bị bỏ trống.
-- **Tập trung ngân sách/nội dung vào nhóm sản phẩm sạc ô tô, phụ kiện công nghệ có thông số mạnh**, giảm dần dạng phụ kiện mềm (túi, balo, sáp thơm) đang tương tác yếu.
+- **Ưu tiên hook nêu con số/thông số gây sốc cụ thể** (25W, 50.000mAh, 2400G, 720°): các Reels điểm cao nhất (Score 5-6) đều dẫn bằng thông số ấn tượng đi kèm lợi ích rõ ràng.
+- **Nhấn mạnh nhóm sản phẩm tương tác tốt**: sạc không dây/dự phòng công suất cao và phụ kiện có tính năng "wow" (chống nhìn trộm, sạc nhanh) — khai thác sâu góc "công nghệ mạnh mẽ, bảo mật, tiện lợi".
+- **Dùng emoji 🤯 cho hook thông số mạnh** thay vì 🤔; 🤯 gắn với các bài điểm cao hơn, tạo cảm giác bất ngờ thay vì nghi ngờ.
+- **Tránh mở đầu bằng "nhỏ xíu/mỏng mà... bạn tin không? 🤔"**: motif này (miếng dán, ốp MacBook) đều rơi vào Score 3-4, gây nhàm và thiếu sức thuyết phục.
+- **Viết feature bullets dạng lợi ích + số liệu định lượng** (ví dụ: "Giữ hương 60 ngày", "Chống sốc 4 góc CornerArmor™"), không dừng ở mô tả chung chung.
+- **Đặt câu hỏi khơi "nỗi đau" cụ thể của người dùng** (ám mùi xe, xước trackpad) nhưng phải kèm ngay giải pháp số hóa để tăng reaction.
+- **Caption nên chốt bằng CTA rõ ràng + kích thích chia sẻ** (Shares đang = 0 toàn bộ): thêm yếu tố "tag người cần", "lưu lại kẻo quên" để đẩy điểm Shares (hệ số 5 cao nhất).
+- **Hạn chế hook chỉ liệt kê tính năng phẳng, không có số hoặc phản đề** (balo chống thấm, ốp bảo vệ 360°): dễ rơi về Score 3.
