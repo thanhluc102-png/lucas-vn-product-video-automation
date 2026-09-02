@@ -1,8 +1,13 @@
-- **Ưu tiên hook nêu con số/thông số gây sốc cụ thể** (25W, 50.000mAh, 2400G, 720°): các Reels điểm cao nhất (Score 5-6) đều dẫn bằng thông số ấn tượng đi kèm lợi ích rõ ràng.
-- **Nhấn mạnh nhóm sản phẩm tương tác tốt**: sạc không dây/dự phòng công suất cao và phụ kiện có tính năng "wow" (chống nhìn trộm, sạc nhanh) — khai thác sâu góc "công nghệ mạnh mẽ, bảo mật, tiện lợi".
-- **Dùng emoji 🤯 cho hook thông số mạnh** thay vì 🤔; 🤯 gắn với các bài điểm cao hơn, tạo cảm giác bất ngờ thay vì nghi ngờ.
-- **Tránh mở đầu bằng "nhỏ xíu/mỏng mà... bạn tin không? 🤔"**: motif này (miếng dán, ốp MacBook) đều rơi vào Score 3-4, gây nhàm và thiếu sức thuyết phục.
-- **Viết feature bullets dạng lợi ích + số liệu định lượng** (ví dụ: "Giữ hương 60 ngày", "Chống sốc 4 góc CornerArmor™"), không dừng ở mô tả chung chung.
-- **Đặt câu hỏi khơi "nỗi đau" cụ thể của người dùng** (ám mùi xe, xước trackpad) nhưng phải kèm ngay giải pháp số hóa để tăng reaction.
-- **Caption nên chốt bằng CTA rõ ràng + kích thích chia sẻ** (Shares đang = 0 toàn bộ): thêm yếu tố "tag người cần", "lưu lại kẻo quên" để đẩy điểm Shares (hệ số 5 cao nhất).
-- **Hạn chế hook chỉ liệt kê tính năng phẳng, không có số hoặc phản đề** (balo chống thấm, ốp bảo vệ 360°): dễ rơi về Score 3.
+- **Ưu tiên con số gây sốc cụ thể trong hook**: các video top điểm (LISEN 25W/360°, Chống nhìn trộm, PS300 50.000mAh, Giá đỡ 7 mức, Sạc dự phòng) đều dẫn bằng thông số ấn tượng + lợi ích tức thì → luôn nhét 1 con số nổi bật ngay đầu hook.
+
+- **Nhắm nhóm sản phẩm sạc/phụ kiện tiện ích (ô tô, sạc dự phòng, giá đỡ, chống nhìn trộm) mạnh hơn**: đây là nhóm kéo Reactions cao nhất; ưu tiên khai thác pain-point đời thường (hết pin, mỏi cổ, lộ màn hình, xe ám mùi).
+
+- **Kết hợp câu hỏi khơi tò mò + emoji 🤯 khi có con số đắt giá**: "🤯" gắn với thông số lớn (120Gbps, 50.000mAh, 60 ngày) hiệu quả hơn "🤔" chung chung.
+
+- **Tránh hook kiểu "nhỏ xíu mà... bạn tin không? 🤔"**: dạng này (miếng dán, ốp lưng JRC) chỉ đạt điểm thấp (3-4), lặp mô-típ nhàm, thiếu con số cụ thể → cần viết lại, bỏ công thức sáo rỗng này.
+
+- **Hạn chế mô-típ "bảo vệ 360°/trọn vẹn" chung chung cho nhóm case/túi/ốp**: tương tác kém; thay bằng lợi ích đo lường được hoặc tình huống thực tế (mưa, rơi vỡ, xước do mồ hôi tay).
+
+- **Feature bullets nên diễn giải con số ra lợi ích cảm nhận được**: ví dụ "2400G lực hút = không rơi khi vào cua gấp", "7 mức cao = hết mỏi cổ sau 8 tiếng làm việc".
+
+- **Caption cần chèn CTA kích shares/comments (đang = 0 shares toàn bộ)**: thêm câu hỏi tương tác, mini-poll, hoặc "tag người cần món này" để cải thiện chỉ số Shares/Comments vốn đang rất thấp.
