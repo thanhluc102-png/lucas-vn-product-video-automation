@@ -1,13 +1,15 @@
-- **Ưu tiên con số gây sốc cụ thể trong hook**: các video top điểm (LISEN 25W/360°, Chống nhìn trộm, PS300 50.000mAh, Giá đỡ 7 mức, Sạc dự phòng) đều dẫn bằng thông số ấn tượng + lợi ích tức thì → luôn nhét 1 con số nổi bật ngay đầu hook.
+- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (25W, 50.000mAh, 2400G, 7 mức, 22.5W): các video này đạt Score cao nhất (5–6). Đưa số liệu gây sốc lên ngay đầu hook.
 
-- **Nhắm nhóm sản phẩm sạc/phụ kiện tiện ích (ô tô, sạc dự phòng, giá đỡ, chống nhìn trộm) mạnh hơn**: đây là nhóm kéo Reactions cao nhất; ưu tiên khai thác pain-point đời thường (hết pin, mỏi cổ, lộ màn hình, xe ám mùi).
+- **Dùng emoji 🤯 hoặc ⚡ thay cho 🤔**: hook có 🤯 (sạc dự phòng, giá đỡ, chống nhìn trộm) tương tác tốt hơn hẳn nhóm 🤔 chung chung. 🤯/⚡ tạo cảm giác choáng ngợp, kích reaction mạnh hơn.
 
-- **Kết hợp câu hỏi khơi tò mò + emoji 🤯 khi có con số đắt giá**: "🤯" gắn với thông số lớn (120Gbps, 50.000mAh, 60 ngày) hiệu quả hơn "🤔" chung chung.
+- **Ưu tiên nhóm sản phẩm SẠC/PIN/PHỤ KIỆN CÔNG NGHỆ CÓ TÍNH NĂNG NỔI BẬT** (sạc không dây ô tô, pin dự phòng, chống nhìn trộm): đây là các sản phẩm đạt Score 5–6, nên khai thác góc "tiện ích bất ngờ".
 
-- **Tránh hook kiểu "nhỏ xíu mà... bạn tin không? 🤔"**: dạng này (miếng dán, ốp lưng JRC) chỉ đạt điểm thấp (3-4), lặp mô-típ nhàm, thiếu con số cụ thể → cần viết lại, bỏ công thức sáo rỗng này.
+- **TRÁNH lạm dụng công thức "... nhỏ xíu mà ..., bạn tin không? 🤔"**: nhóm hook này (giá đỡ, miếng dán, ốp lưng) chỉ đạt Score 3–4, quá quen thuộc và nhàm, giảm hiệu quả.
 
-- **Hạn chế mô-típ "bảo vệ 360°/trọn vẹn" chung chung cho nhóm case/túi/ốp**: tương tác kém; thay bằng lợi ích đo lường được hoặc tình huống thực tế (mưa, rơi vỡ, xước do mồ hôi tay).
+- **TRÁNH hook dạng câu hỏi mơ hồ/nêu vấn đề chung** ("bạn có gặp không?", "bạn thử chưa?"): kém tương tác (Score 3), thiếu điểm nhấn cụ thể để dừng lướt.
 
-- **Feature bullets nên diễn giải con số ra lợi ích cảm nhận được**: ví dụ "2400G lực hút = không rơi khi vào cua gấp", "7 mức cao = hết mỏi cổ sau 8 tiếng làm việc".
+- **Feature bullets phải quy đổi thành LỢI ÍCH CẢM NHẬN ĐƯỢC + số liệu** (VD: "sạc cả tuần không lo hết pin", "tạm biệt mỏi cổ", "chống sốc 4 góc 360°"): kết hợp con số với kết quả thực tế cho người dùng.
 
-- **Caption cần chèn CTA kích shares/comments (đang = 0 shares toàn bộ)**: thêm câu hỏi tương tác, mini-poll, hoặc "tag người cần món này" để cải thiện chỉ số Shares/Comments vốn đang rất thấp.
+- **Caption nên mở đầu bằng con số/tính năng vượt trội, chèn 1 emoji mạnh (🤯/⚡)**, tránh mở bằng câu hỏi hoài nghi "bạn tin không?" đã bị dùng lặp quá nhiều.
+
+- **Kích Comments và Shares (trọng số 3 và 5)**: thêm CTA rõ ràng cuối caption (mời để lại bình luận, tag bạn bè, chia sẻ) vì hầu hết video hiện chỉ đạt 1 comment, 0 share — đây là dư địa tăng Score lớn nhất.
