@@ -1,15 +1,13 @@
-- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (25W, 50.000mAh, 2400G, 7 mức, 22.5W): các video này đạt Score cao nhất (5–6). Đưa số liệu gây sốc lên ngay đầu hook.
+- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (25W, 50.000mAh, 120Gbps, 7 mức, 22.5W): các sản phẩm sạc/pin/phụ kiện có số liệu mạnh đạt Score cao nhất (5–6). Luôn nhét ít nhất 1 con số gây "wow" ngay đầu hook.
 
-- **Dùng emoji 🤯 hoặc ⚡ thay cho 🤔**: hook có 🤯 (sạc dự phòng, giá đỡ, chống nhìn trộm) tương tác tốt hơn hẳn nhóm 🤔 chung chung. 🤯/⚡ tạo cảm giác choáng ngợp, kích reaction mạnh hơn.
+- **Nhấn lợi ích chống nhìn trộm / bảo mật / tiện ích đời sống** (chống nhìn trộm, sạc cả tuần, xoay 360° trên xe) tạo tương tác tốt hơn nhóm ốp/miếng dán thông thường — ưu tiên khai thác pain point thực tế người dùng gặp hằng ngày.
 
-- **Ưu tiên nhóm sản phẩm SẠC/PIN/PHỤ KIỆN CÔNG NGHỆ CÓ TÍNH NĂNG NỔI BẬT** (sạc không dây ô tô, pin dự phòng, chống nhìn trộm): đây là các sản phẩm đạt Score 5–6, nên khai thác góc "tiện ích bất ngờ".
+- **Tránh lạm dụng mô-típ "…bạn tin không? 🤔"**: cụm này lặp lại quá nhiều và gắn với các video Score thấp nhất (=3). Đa dạng hóa cách kết hook, hạn chế emoji 🤔 nghi ngờ, ưu tiên 🤯⚡ tạo cảm giác bất ngờ/mạnh mẽ.
 
-- **TRÁNH lạm dụng công thức "... nhỏ xíu mà ..., bạn tin không? 🤔"**: nhóm hook này (giá đỡ, miếng dán, ốp lưng) chỉ đạt Score 3–4, quá quen thuộc và nhàm, giảm hiệu quả.
+- **Tránh hook chung chung, mơ hồ về "bảo vệ 360°, mỏng nhẹ" cho ốp/miếng dán** (Score đều =3): nhóm này tương tác kém nhất, cần gắn số đo cụ thể (độ mỏng mm, % chống xước) hoặc tình huống thiệt hại thực tế để tăng sức hút.
 
-- **TRÁNH hook dạng câu hỏi mơ hồ/nêu vấn đề chung** ("bạn có gặp không?", "bạn thử chưa?"): kém tương tác (Score 3), thiếu điểm nhấn cụ thể để dừng lướt.
+- **Viết feature bullets dạng "con số + lợi ích tức thì"** (VD: "22.5W: đầy pin thần tốc"), mỗi bullet 1 ý ngắn, đặt lợi ích trải nghiệm lên trước thông số kỹ thuật.
 
-- **Feature bullets phải quy đổi thành LỢI ÍCH CẢM NHẬN ĐƯỢC + số liệu** (VD: "sạc cả tuần không lo hết pin", "tạm biệt mỏi cổ", "chống sốc 4 góc 360°"): kết hợp con số với kết quả thực tế cho người dùng.
+- **Caption nên mở bằng câu hỏi pain point ngắn gọn** (VD: "Xe ám mùi khó chịu?") rồi chốt bằng giải pháp + con số, thay vì khẳng định "bạn tin không".
 
-- **Caption nên mở đầu bằng con số/tính năng vượt trội, chèn 1 emoji mạnh (🤯/⚡)**, tránh mở bằng câu hỏi hoài nghi "bạn tin không?" đã bị dùng lặp quá nhiều.
-
-- **Kích Comments và Shares (trọng số 3 và 5)**: thêm CTA rõ ràng cuối caption (mời để lại bình luận, tag bạn bè, chia sẻ) vì hầu hết video hiện chỉ đạt 1 comment, 0 share — đây là dư địa tăng Score lớn nhất.
+- **Mỗi hook chỉ dùng tối đa 1 emoji nhấn mạnh** (⚡ hoặc 🤯), đặt cuối câu; tránh dàn trải nhiều emoji làm loãng thông điệp.
