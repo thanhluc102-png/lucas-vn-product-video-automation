@@ -1,13 +1,7 @@
-- **Ưu tiên hook nêu CON SỐ ẤN TƯỢNG cụ thể** (25W, 50.000mAh, 120Gbps, 7 mức, 22.5W): các sản phẩm sạc/pin/phụ kiện có số liệu mạnh đạt Score cao nhất (5–6). Luôn nhét ít nhất 1 con số gây "wow" ngay đầu hook.
-
-- **Nhấn lợi ích chống nhìn trộm / bảo mật / tiện ích đời sống** (chống nhìn trộm, sạc cả tuần, xoay 360° trên xe) tạo tương tác tốt hơn nhóm ốp/miếng dán thông thường — ưu tiên khai thác pain point thực tế người dùng gặp hằng ngày.
-
-- **Tránh lạm dụng mô-típ "…bạn tin không? 🤔"**: cụm này lặp lại quá nhiều và gắn với các video Score thấp nhất (=3). Đa dạng hóa cách kết hook, hạn chế emoji 🤔 nghi ngờ, ưu tiên 🤯⚡ tạo cảm giác bất ngờ/mạnh mẽ.
-
-- **Tránh hook chung chung, mơ hồ về "bảo vệ 360°, mỏng nhẹ" cho ốp/miếng dán** (Score đều =3): nhóm này tương tác kém nhất, cần gắn số đo cụ thể (độ mỏng mm, % chống xước) hoặc tình huống thiệt hại thực tế để tăng sức hút.
-
-- **Viết feature bullets dạng "con số + lợi ích tức thì"** (VD: "22.5W: đầy pin thần tốc"), mỗi bullet 1 ý ngắn, đặt lợi ích trải nghiệm lên trước thông số kỹ thuật.
-
-- **Caption nên mở bằng câu hỏi pain point ngắn gọn** (VD: "Xe ám mùi khó chịu?") rồi chốt bằng giải pháp + con số, thay vì khẳng định "bạn tin không".
-
-- **Mỗi hook chỉ dùng tối đa 1 emoji nhấn mạnh** (⚡ hoặc 🤯), đặt cuối câu; tránh dàn trải nhiều emoji làm loãng thông điệp.
+- **Ưu tiên hook có con số/thông số cụ thể gây tò mò** (VD: "25W xoay 360°", "50.000mAh", "7 mức điều chỉnh") — nhóm này đạt Score cao nhất (5–6), vượt trội so với hook chung chung.
+- **Dùng lợi ích thực tế, chạm nỗi đau người dùng** (chống nhìn trộm, hết mỏi cổ, chống xước vì mồ hôi tay) cho tương tác tốt; nêu rõ "được gì" thay vì chỉ mô tả sản phẩm.
+- **Kết hợp emoji nhấn mạnh 🤯 hoặc ⚡ đúng chỗ** để tăng cảm giác bất ngờ/tốc độ, nhưng chỉ 1 emoji/hook, tránh lạm dụng.
+- **Tránh lạm dụng công thức "..., bạn tin không? 🤔"** — dạng nghi vấn nhẹ này cho Score thấp (chủ yếu 3), dễ nhàm và ít kích thích phản hồi.
+- **Tránh hook thiếu con số hoặc lợi ích mơ hồ** (VD: "bảo vệ trọn vẹn", "phủ sáng rộng") vì tương tác kém; luôn gắn số liệu định lượng cụ thể.
+- **Feature bullets nên viết dạng ngắn, mỗi dòng 1 lợi ích + 1 thông số** (VD: "Sạc nhanh 22.5W – đầy pin cả ngày"), đặt lợi ích lên trước, thông số làm bằng chứng.
+- **Caption nên mở đầu bằng câu hỏi chạm nỗi đau + chốt bằng con số ấn tượng**, đồng thời thêm CTA rõ ràng (bình luận/inbox) để đẩy Comments và Shares (hiện Shares đang = 0, cần kêu gọi chia sẻ).
