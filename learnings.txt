@@ -1,7 +1,15 @@
-- **Ưu tiên hook có con số/thông số cụ thể gây tò mò** (VD: "25W xoay 360°", "50.000mAh", "7 mức điều chỉnh") — nhóm này đạt Score cao nhất (5–6), vượt trội so với hook chung chung.
-- **Dùng lợi ích thực tế, chạm nỗi đau người dùng** (chống nhìn trộm, hết mỏi cổ, chống xước vì mồ hôi tay) cho tương tác tốt; nêu rõ "được gì" thay vì chỉ mô tả sản phẩm.
-- **Kết hợp emoji nhấn mạnh 🤯 hoặc ⚡ đúng chỗ** để tăng cảm giác bất ngờ/tốc độ, nhưng chỉ 1 emoji/hook, tránh lạm dụng.
-- **Tránh lạm dụng công thức "..., bạn tin không? 🤔"** — dạng nghi vấn nhẹ này cho Score thấp (chủ yếu 3), dễ nhàm và ít kích thích phản hồi.
-- **Tránh hook thiếu con số hoặc lợi ích mơ hồ** (VD: "bảo vệ trọn vẹn", "phủ sáng rộng") vì tương tác kém; luôn gắn số liệu định lượng cụ thể.
-- **Feature bullets nên viết dạng ngắn, mỗi dòng 1 lợi ích + 1 thông số** (VD: "Sạc nhanh 22.5W – đầy pin cả ngày"), đặt lợi ích lên trước, thông số làm bằng chứng.
-- **Caption nên mở đầu bằng câu hỏi chạm nỗi đau + chốt bằng con số ấn tượng**, đồng thời thêm CTA rõ ràng (bình luận/inbox) để đẩy Comments và Shares (hiện Shares đang = 0, cần kêu gọi chia sẻ).
+- **Ưu tiên hook có con số/thông số cụ thể gây sốc** (25W, 50.000mAh, 1000 lumen, 22.5W): các sản phẩm sạc, pin, đèn dùng số liệu định lượng đạt Score cao nhất (5-6). Luôn nhét ít nhất 1 con số ấn tượng vào hook.
+
+- **Nhấn lợi ích “bảo vệ / an toàn / riêng tư” đo được** cho phụ kiện MacBook (chống nhìn trộm, chống sốc 360°, giá đỡ 7 mức) — nhóm này ổn định Score 4-5. Diễn đạt lợi ích theo kết quả người dùng nhận được, không chỉ mô tả tính năng.
+
+- **Tránh hook chung chung “bạn tin không? 🤔” lặp lại nhiều lần**: các ốp/miếng dán/cáp dùng công thức này chỉ đạt Score 3 (thấp nhất). Không xài lại motif nghi vấn sáo mòn cho nhiều sản phẩm.
+
+- **Hạn chế hook thiên về “mỏng/nhẹ/li”** (ốp trong suốt, miếng dán) — độ hấp dẫn kém; thay bằng lợi ích cảm xúc rõ ràng hoặc con số bảo vệ (chống xước %, chịu lực kg).
+
+- **Ưu tiên emoji ⚡ và 🤯 thay cho 🤔**: 🤔 gắn liền cụm Score thấp; ⚡/🤯 xuất hiện ở nhóm điểm cao hơn, tạo cảm giác mạnh và tức thời.
+
+- **Viết feature bullets dạng “con số + lợi ích tức thì”** (VD: “360° xoay tự do”, “chống sốc 4 góc CornerArmor™”, “7 mức chỉnh độ cao — hết mỏi cổ”), gạch nối lợi ích ngay sau thông số.
+
+- **Caption cần chèn call-to-comment/CTA rõ** để tận dụng Comments (trọng số x3) và kích Shares (trọng số x5) — hiện gần như 0 share, đây là điểm yếu lớn nhất cần khắc phục bằng câu hỏi tương tác hoặc lời kêu gọi chia sẻ.
+
+- **Ưu tiên phân bổ nội dung cho nhóm sạc/pin/xe hơi và phụ kiện chống nhìn trộm/chống sốc** (nhóm Score cao); giảm tần suất hook kiểu cũ cho ốp/dán/cáp trừ khi đổi hoàn toàn góc tiếp cận.
