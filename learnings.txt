@@ -1,15 +1,15 @@
-- **Ưu tiên hook có con số/thông số cụ thể gây sốc** (25W, 50.000mAh, 1000 lumen, 22.5W): các sản phẩm sạc, pin, đèn dùng số liệu định lượng đạt Score cao nhất (5-6). Luôn nhét ít nhất 1 con số ấn tượng vào hook.
+- **Ưu tiên hook dạng câu hỏi "bạn tin không? 🤔" gắn với lợi ích cụ thể, đo lường được** (VD: Sạc 25W, chống nhìn trộm): nhóm này đạt Score cao nhất (5–6). Luôn đặt con số/tính năng gây bất ngờ ngay trong câu hỏi.
 
-- **Nhấn lợi ích “bảo vệ / an toàn / riêng tư” đo được** cho phụ kiện MacBook (chống nhìn trộm, chống sốc 360°, giá đỡ 7 mức) — nhóm này ổn định Score 4-5. Diễn đạt lợi ích theo kết quả người dùng nhận được, không chỉ mô tả tính năng.
+- **Tập trung nhóm sản phẩm tương tác tốt: sạc/pin dự phòng, phụ kiện bảo vệ MacBook (chống nhìn trộm, giá đỡ, túi chống sốc)** — đây là các sản phẩm cho Score ≥4–6, nên khai thác sâu và ưu tiên tần suất.
 
-- **Tránh hook chung chung “bạn tin không? 🤔” lặp lại nhiều lần**: các ốp/miếng dán/cáp dùng công thức này chỉ đạt Score 3 (thấp nhất). Không xài lại motif nghi vấn sáo mòn cho nhiều sản phẩm.
+- **Chèn ít nhất 1 con số ấn tượng vào hook** (25W, 360°, 50.000mAh, 7 mức, 1000 lumen): hook có số liệu luôn nhỉnh hơn hook chung chung.
 
-- **Hạn chế hook thiên về “mỏng/nhẹ/li”** (ốp trong suốt, miếng dán) — độ hấp dẫn kém; thay bằng lợi ích cảm xúc rõ ràng hoặc con số bảo vệ (chống xước %, chịu lực kg).
+- **Tránh hook mô tả chung chung không có câu hỏi kích thích và không có số nổi bật** (VD: "Balo chống thấm nước...", "Sạc nhanh 22.5W: đầy pin thần tốc"): các hook này chỉ đạt Score 3.
 
-- **Ưu tiên emoji ⚡ và 🤯 thay cho 🤔**: 🤔 gắn liền cụm Score thấp; ⚡/🤯 xuất hiện ở nhóm điểm cao hơn, tạo cảm giác mạnh và tức thời.
+- **Hạn chế lạm dụng emoji 🤯/⚡ đơn thuần mà thiếu yếu tố tương tác** — emoji không cứu được hook thiếu con số hoặc thiếu câu hỏi mở.
 
-- **Viết feature bullets dạng “con số + lợi ích tức thì”** (VD: “360° xoay tự do”, “chống sốc 4 góc CornerArmor™”, “7 mức chỉnh độ cao — hết mỏi cổ”), gạch nối lợi ích ngay sau thông số.
+- **Feature bullets nên viết dạng "lợi ích + con số" ngắn gọn** (VD: "Chống sốc 4 góc 360°", "Giữ hương 60 ngày"), mỗi bullet 1 ý, tối đa 3–4 bullet.
 
-- **Caption cần chèn call-to-comment/CTA rõ** để tận dụng Comments (trọng số x3) và kích Shares (trọng số x5) — hiện gần như 0 share, đây là điểm yếu lớn nhất cần khắc phục bằng câu hỏi tương tác hoặc lời kêu gọi chia sẻ.
+- **Caption nên mở bằng câu hỏi khơi gợi vấn đề thực tế của người dùng** (mồ hôi tay làm xước máy, xe ám mùi, dây rối) rồi mới đưa giải pháp — cách này giúp tăng comment.
 
-- **Ưu tiên phân bổ nội dung cho nhóm sạc/pin/xe hơi và phụ kiện chống nhìn trộm/chống sốc** (nhóm Score cao); giảm tần suất hook kiểu cũ cho ốp/dán/cáp trừ khi đổi hoàn toàn góc tiếp cận.
+- **Luôn kết caption bằng 1 lời kêu gọi tạo comment/share** (hỏi ý kiến, "tag người cần") vì Shares (x5) và Comments (x3) là đòn bẩy Score lớn nhất, hiện đang rất thấp (Shares=0).
