@@ -1,15 +1,8 @@
-- **Ưu tiên hook dạng câu hỏi "bạn tin không? 🤔" gắn với lợi ích cụ thể, đo lường được** (VD: Sạc 25W, chống nhìn trộm): nhóm này đạt Score cao nhất (5–6). Luôn đặt con số/tính năng gây bất ngờ ngay trong câu hỏi.
-
-- **Tập trung nhóm sản phẩm tương tác tốt: sạc/pin dự phòng, phụ kiện bảo vệ MacBook (chống nhìn trộm, giá đỡ, túi chống sốc)** — đây là các sản phẩm cho Score ≥4–6, nên khai thác sâu và ưu tiên tần suất.
-
-- **Chèn ít nhất 1 con số ấn tượng vào hook** (25W, 360°, 50.000mAh, 7 mức, 1000 lumen): hook có số liệu luôn nhỉnh hơn hook chung chung.
-
-- **Tránh hook mô tả chung chung không có câu hỏi kích thích và không có số nổi bật** (VD: "Balo chống thấm nước...", "Sạc nhanh 22.5W: đầy pin thần tốc"): các hook này chỉ đạt Score 3.
-
-- **Hạn chế lạm dụng emoji 🤯/⚡ đơn thuần mà thiếu yếu tố tương tác** — emoji không cứu được hook thiếu con số hoặc thiếu câu hỏi mở.
-
-- **Feature bullets nên viết dạng "lợi ích + con số" ngắn gọn** (VD: "Chống sốc 4 góc 360°", "Giữ hương 60 ngày"), mỗi bullet 1 ý, tối đa 3–4 bullet.
-
-- **Caption nên mở bằng câu hỏi khơi gợi vấn đề thực tế của người dùng** (mồ hôi tay làm xước máy, xe ám mùi, dây rối) rồi mới đưa giải pháp — cách này giúp tăng comment.
-
-- **Luôn kết caption bằng 1 lời kêu gọi tạo comment/share** (hỏi ý kiến, "tag người cần") vì Shares (x5) và Comments (x3) là đòn bẩy Score lớn nhất, hiện đang rất thấp (Shares=0).
+- **Ưu tiên hook dạng câu hỏi khơi tò mò** ("...bạn tin không?", "...bạn có gặp không? 🤔"): nhóm này đạt Score cao nhất (Sạc LISEN W608 Score=6, Chống nhìn trộm MacBook Score=5) nhờ kích Reactions và Comment tương tác.
+- **Nêu con số/thông số gây sốc ngay đầu hook** (25W xoay 360°, 50.000mAh, tải 15kg): tạo Reactions cao hơn (2-3 Reactions), tăng điểm rõ rệt so với hook chung chung.
+- **Gắn hook với "nỗi đau" cụ thể của người dùng** (mỏi cổ, mồ hôi tay làm xước, xe ám mùi, dây rối): nhóm giải quyết vấn đề thực tế giữ tương tác ổn định (Score 4-5).
+- **Luôn kết hook bằng emoji cảm xúc 🤯/⚡/🤔**: đồng hành với các bài điểm cao, giúp tăng nhận diện và click.
+- **Tránh hook chỉ mô tả tính năng phẳng, không có câu hỏi hoặc con số** (Balo "chống thấm nước...", Pin "sạc nhanh...", Đèn "1000 lumen..."): các bài này chỉ đạt Score=3 (đáy).
+- **Tránh mọi bài không tạo được Reactions và Shares**: toàn bộ dữ liệu Shares=0, cần thêm CTA khuyến khích chia sẻ ("tag người cần", "lưu lại ngay") vào caption để mở khóa điểm Shares (×5).
+- **Công thức hook tối ưu**: [Con số/lợi ích gây sốc] + [nỗi đau cụ thể] + [câu hỏi "bạn tin không?"] + [emoji 🤯/🤔], ví dụ mẫu điểm cao "Sạc 25W mà xoay được 360° trên xe, bạn tin không? 🤔".
+- **Feature bullets nên chuyển thông số thành lợi ích + tình huống dùng** (thay "1000 lumen" → "phủ sáng cả góc làm việc"), thêm 1 câu hỏi/CTA cuối để đẩy Comment và Share.
