@@ -1,8 +1,13 @@
-- **Ưu tiên hook dạng câu hỏi khơi tò mò** ("...bạn tin không?", "...bạn có gặp không? 🤔"): nhóm này đạt Score cao nhất (Sạc LISEN W608 Score=6, Chống nhìn trộm MacBook Score=5) nhờ kích Reactions và Comment tương tác.
-- **Nêu con số/thông số gây sốc ngay đầu hook** (25W xoay 360°, 50.000mAh, tải 15kg): tạo Reactions cao hơn (2-3 Reactions), tăng điểm rõ rệt so với hook chung chung.
-- **Gắn hook với "nỗi đau" cụ thể của người dùng** (mỏi cổ, mồ hôi tay làm xước, xe ám mùi, dây rối): nhóm giải quyết vấn đề thực tế giữ tương tác ổn định (Score 4-5).
-- **Luôn kết hook bằng emoji cảm xúc 🤯/⚡/🤔**: đồng hành với các bài điểm cao, giúp tăng nhận diện và click.
-- **Tránh hook chỉ mô tả tính năng phẳng, không có câu hỏi hoặc con số** (Balo "chống thấm nước...", Pin "sạc nhanh...", Đèn "1000 lumen..."): các bài này chỉ đạt Score=3 (đáy).
-- **Tránh mọi bài không tạo được Reactions và Shares**: toàn bộ dữ liệu Shares=0, cần thêm CTA khuyến khích chia sẻ ("tag người cần", "lưu lại ngay") vào caption để mở khóa điểm Shares (×5).
-- **Công thức hook tối ưu**: [Con số/lợi ích gây sốc] + [nỗi đau cụ thể] + [câu hỏi "bạn tin không?"] + [emoji 🤯/🤔], ví dụ mẫu điểm cao "Sạc 25W mà xoay được 360° trên xe, bạn tin không? 🤔".
-- **Feature bullets nên chuyển thông số thành lợi ích + tình huống dùng** (thay "1000 lumen" → "phủ sáng cả góc làm việc"), thêm 1 câu hỏi/CTA cuối để đẩy Comment và Share.
+- **Hook dạng câu hỏi thách thức ("...bạn tin không? 🤔/🤯") cho hiệu quả cao nhất** — 4/5 video top score (6, 5, 5, 4) đều dùng cấu trúc này; ưu tiên mở đầu bằng con số/tính năng gây sốc rồi chốt bằng "bạn tin không?".
+
+- **Ưu tiên sản phẩm có tính năng "wow" cụ thể, độc đáo** (sạc xoay 360°, chống nhìn trộm, số mAh/lumen lớn, tải trọng nặng) — đây là nhóm đạt điểm cao nhất; đưa thông số ấn tượng vào ngay hook.
+
+- **Luôn nhồi 1 con số cụ thể + emoji 🤯/⚡/🤔 vào hook** — mọi video top đều có số liệu định lượng (25W, 360°, 1000 lumen, 15kg) thay vì lời hứa chung chung.
+
+- **Feature bullets nên xoáy vào "lợi ích giải quyết nỗi đau" gắn thông số** (chống mỏi cổ, hết pin cả tuần, giấu dây 30 giây không khoan) để tạo tương tác — các hook nêu pain-point + giải pháp số hóa đều ≥ score 4.
+
+- **Tránh hook dạng khẳng định phẳng, hứa hẹn chung chung** ("bảo vệ trọn vẹn", "sạc nhanh cho cả ngày dài", "phủ sáng rộng") — nhóm này rơi xuống score 3, thiếu yếu tố bất ngờ và không kích thích phản hồi.
+
+- **Tránh mở đầu bằng thông số quá kỹ thuật/khó hình dung** (120Gbps Thunderbolt, chuẩn Qi2.2) khi chưa quy đổi sang lợi ích đời thường — dễ bị score thấp vì người xem không thấy liên quan.
+
+- **Caption nên đặt câu hỏi trực tiếp để kích comment và kêu gọi share** — hiện Shares=0 toàn bộ và Comments chỉ =1; cần thêm CTA rõ ("Tag người cần", "Bình luận X để nhận...") nhằm đẩy Comments*3 và Shares*5.
