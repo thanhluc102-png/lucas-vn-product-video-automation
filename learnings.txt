@@ -1,13 +1,15 @@
-- **Hook dạng câu hỏi thách thức ("...bạn tin không? 🤔/🤯") cho hiệu quả cao nhất** — 4/5 video top score (6, 5, 5, 4) đều dùng cấu trúc này; ưu tiên mở đầu bằng con số/tính năng gây sốc rồi chốt bằng "bạn tin không?".
+- **Ưu tiên hook nêu con số lợi ích cụ thể + cảm xúc mạnh** (VD "50.000mAh sạc cả tuần", "7 mức điều chỉnh tạm biệt mỏi cổ", "màn 32 inch 10kg nâng nhẹ như không") — nhóm sản phẩm pin dự phòng, giá đỡ MacBook, miếng dán chống nhìn trộm đạt Score cao nhất (5).
 
-- **Ưu tiên sản phẩm có tính năng "wow" cụ thể, độc đáo** (sạc xoay 360°, chống nhìn trộm, số mAh/lumen lớn, tải trọng nặng) — đây là nhóm đạt điểm cao nhất; đưa thông số ấn tượng vào ngay hook.
+- **Đánh vào nỗi đau/tình huống thực tế người dùng gặp hàng ngày** (bàn rối dây, mỏi cổ, xe ám mùi, lộ màn hình) giúp tăng Reactions — hook dạng "giải quyết vấn đề" hiệu quả hơn hook thuần thông số kỹ thuật.
 
-- **Luôn nhồi 1 con số cụ thể + emoji 🤯/⚡/🤔 vào hook** — mọi video top đều có số liệu định lượng (25W, 360°, 1000 lumen, 15kg) thay vì lời hứa chung chung.
+- **Emoji 🤯 và 🤔 gắn với câu hỏi khơi gợi tò mò** ("bạn tin không?", "tin không?") kéo tương tác tốt hơn emoji ⚡ đơn thuần chỉ nhấn thông số.
 
-- **Feature bullets nên xoáy vào "lợi ích giải quyết nỗi đau" gắn thông số** (chống mỏi cổ, hết pin cả tuần, giấu dây 30 giây không khoan) để tạo tương tác — các hook nêu pain-point + giải pháp số hóa đều ≥ score 4.
+- **Tránh hook nặng thông số kỹ thuật trừu tượng, khó hình dung** (VD "120Gbps 1 sợi cáp", "chuẩn Qi2.2", "1000 lumen 180cm") — các hook này Score thấp nhất (3) vì thiếu liên hệ lợi ích đời thường.
 
-- **Tránh hook dạng khẳng định phẳng, hứa hẹn chung chung** ("bảo vệ trọn vẹn", "sạc nhanh cho cả ngày dài", "phủ sáng rộng") — nhóm này rơi xuống score 3, thiếu yếu tố bất ngờ và không kích thích phản hồi.
+- **Tránh emoji ⚡ dùng cho sản phẩm sạc/đèn khi chỉ liệt kê công suất** mà không kèm ngữ cảnh sử dụng — nhóm này tương tác kém đều (Score 3).
 
-- **Tránh mở đầu bằng thông số quá kỹ thuật/khó hình dung** (120Gbps Thunderbolt, chuẩn Qi2.2) khi chưa quy đổi sang lợi ích đời thường — dễ bị score thấp vì người xem không thấy liên quan.
+- **Feature bullets nên quy đổi thông số thành lợi ích cảm nhận được** (mAh → số ngày dùng, kg tải trọng → sự tiện lợi, độ sáng → phủ sáng góc làm việc) thay vì để nguyên số liệu khô khan.
 
-- **Caption nên đặt câu hỏi trực tiếp để kích comment và kêu gọi share** — hiện Shares=0 toàn bộ và Comments chỉ =1; cần thêm CTA rõ ("Tag người cần", "Bình luận X để nhận...") nhằm đẩy Comments*3 và Shares*5.
+- **Caption nên chốt bằng câu hỏi mở hoặc thách thức niềm tin** để kích Comments (yếu tố đang đóng góp điểm chính, mọi video đều có ít nhất 1 comment).
+
+- **Cần thử nghiệm thêm yếu tố kích Shares** (hiện Shares=0 toàn bộ) — thêm CTA "tag người cần", "lưu lại", hoặc nội dung mẹo hữu ích đáng chia sẻ để tối ưu hệ số Share ×5.
