@@ -1,15 +1,15 @@
-- **Ưu tiên hook nêu con số lợi ích cụ thể + cảm xúc mạnh** (VD "50.000mAh sạc cả tuần", "7 mức điều chỉnh tạm biệt mỏi cổ", "màn 32 inch 10kg nâng nhẹ như không") — nhóm sản phẩm pin dự phòng, giá đỡ MacBook, miếng dán chống nhìn trộm đạt Score cao nhất (5).
+- **Hook dạng câu hỏi thách thức + con số cụ thể** cho điểm cao nhất (Score=5): dùng cấu trúc "[Lợi ích bất ngờ], tin không? 🤔" hoặc nêu thẳng con số ấn tượng ("50.000mAh", "7 mức điều chỉnh") — ưu tiên format này.
 
-- **Đánh vào nỗi đau/tình huống thực tế người dùng gặp hàng ngày** (bàn rối dây, mỏi cổ, xe ám mùi, lộ màn hình) giúp tăng Reactions — hook dạng "giải quyết vấn đề" hiệu quả hơn hook thuần thông số kỹ thuật.
+- **Sản phẩm nhóm bảo vệ/tiện ích cá nhân** (chống nhìn trộm, pin dự phòng dung lượng lớn, giá đỡ MacBook chống mỏi cổ) hút Reactions tốt nhất; nhấn mạnh nỗi đau cá nhân trực tiếp (mỏi cổ, hết pin, lộ màn hình).
 
-- **Emoji 🤯 và 🤔 gắn với câu hỏi khơi gợi tò mò** ("bạn tin không?", "tin không?") kéo tương tác tốt hơn emoji ⚡ đơn thuần chỉ nhấn thông số.
+- **Luôn gắn 1 con số/thông số nổi bật vào hook** (mAh, W, lumen, kg, độ, số ngày) — mọi hook điểm cao đều có con số định lượng cụ thể.
 
-- **Tránh hook nặng thông số kỹ thuật trừu tượng, khó hình dung** (VD "120Gbps 1 sợi cáp", "chuẩn Qi2.2", "1000 lumen 180cm") — các hook này Score thấp nhất (3) vì thiếu liên hệ lợi ích đời thường.
+- **Tránh hook chung chung mang tính mô tả tính năng khô khan** ("Balo chống thấm nước...", "Sạc nhanh 22.5W...", "1000 lumen phủ sáng...") vì chỉ đạt Score=3, thiếu yếu tố cảm xúc/thách thức.
 
-- **Tránh emoji ⚡ dùng cho sản phẩm sạc/đèn khi chỉ liệt kê công suất** mà không kèm ngữ cảnh sử dụng — nhóm này tương tác kém đều (Score 3).
+- **Emoji nên chọn 🤔 hoặc 🤯** (gợi tò mò/kinh ngạc) thay vì ⚡ — các hook điểm cao dùng 🤔/🤯, còn ⚡ gắn nhiều với hook điểm thấp.
 
-- **Feature bullets nên quy đổi thông số thành lợi ích cảm nhận được** (mAh → số ngày dùng, kg tải trọng → sự tiện lợi, độ sáng → phủ sáng góc làm việc) thay vì để nguyên số liệu khô khan.
+- **Mở hook bằng một câu hỏi khơi nỗi đau rồi tung giải pháp** ("Xe bạn ám mùi khó chịu? ... giữ hương tới 60 ngày!") hiệu quả hơn câu khẳng định phẳng.
 
-- **Caption nên chốt bằng câu hỏi mở hoặc thách thức niềm tin** để kích Comments (yếu tố đang đóng góp điểm chính, mọi video đều có ít nhất 1 comment).
+- **Comments và Shares đang rất yếu (hầu hết Comments=1, Shares=0)**: caption cần thêm CTA kêu gọi bình luận (hỏi ý kiến, "tag người cần") và lý do chia sẻ để đẩy Score qua trọng số cao (Comments×3, Shares×5).
 
-- **Cần thử nghiệm thêm yếu tố kích Shares** (hiện Shares=0 toàn bộ) — thêm CTA "tag người cần", "lưu lại", hoặc nội dung mẹo hữu ích đáng chia sẻ để tối ưu hệ số Share ×5.
+- **Viết feature bullets dạng "thông số + lợi ích đời thường"** (VD "tải 15kg → bàn gọn gấp đôi", "N52 → không rơi khi vào cua"), tránh liệt kê thông số trần trụi không kèm kết quả cho người dùng.
