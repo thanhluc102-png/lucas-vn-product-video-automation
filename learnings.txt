@@ -1,15 +1,8 @@
-- **Hook dạng câu hỏi thách thức + con số cụ thể** cho điểm cao nhất (Score=5): dùng cấu trúc "[Lợi ích bất ngờ], tin không? 🤔" hoặc nêu thẳng con số ấn tượng ("50.000mAh", "7 mức điều chỉnh") — ưu tiên format này.
-
-- **Sản phẩm nhóm bảo vệ/tiện ích cá nhân** (chống nhìn trộm, pin dự phòng dung lượng lớn, giá đỡ MacBook chống mỏi cổ) hút Reactions tốt nhất; nhấn mạnh nỗi đau cá nhân trực tiếp (mỏi cổ, hết pin, lộ màn hình).
-
-- **Luôn gắn 1 con số/thông số nổi bật vào hook** (mAh, W, lumen, kg, độ, số ngày) — mọi hook điểm cao đều có con số định lượng cụ thể.
-
-- **Tránh hook chung chung mang tính mô tả tính năng khô khan** ("Balo chống thấm nước...", "Sạc nhanh 22.5W...", "1000 lumen phủ sáng...") vì chỉ đạt Score=3, thiếu yếu tố cảm xúc/thách thức.
-
-- **Emoji nên chọn 🤔 hoặc 🤯** (gợi tò mò/kinh ngạc) thay vì ⚡ — các hook điểm cao dùng 🤔/🤯, còn ⚡ gắn nhiều với hook điểm thấp.
-
-- **Mở hook bằng một câu hỏi khơi nỗi đau rồi tung giải pháp** ("Xe bạn ám mùi khó chịu? ... giữ hương tới 60 ngày!") hiệu quả hơn câu khẳng định phẳng.
-
-- **Comments và Shares đang rất yếu (hầu hết Comments=1, Shares=0)**: caption cần thêm CTA kêu gọi bình luận (hỏi ý kiến, "tag người cần") và lý do chia sẻ để đẩy Score qua trọng số cao (Comments×3, Shares×5).
-
-- **Viết feature bullets dạng "thông số + lợi ích đời thường"** (VD "tải 15kg → bàn gọn gấp đôi", "N52 → không rơi khi vào cua"), tránh liệt kê thông số trần trụi không kèm kết quả cho người dùng.
+- **Ưu tiên hook có con số cụ thể + lợi ích tức thì** (VD: "50.000mAh", "1000 lumen", "22.5W", "360°"): các video top score (5đ) đều gắn số đo/thông số rõ ràng gây ấn tượng mạnh.
+- **Dùng emoji cảm xúc mạnh 🤯 hoặc ⚡ ngay cuối hook** để tăng độ giật tít, nhưng chỉ 1 emoji/hook, tránh lạm dụng.
+- **Nhóm sản phẩm sạc/pin/phụ kiện bàn làm việc (power & ergonomic) tương tác tốt hơn** balo/túi/sáp thơm — nên đẩy mạnh và viết sâu hơn cho nhóm này.
+- **Hook dạng câu hỏi "chạm nỗi đau" rồi đưa giải pháp** (VD: "Xe ám mùi? Giữ hương 60 ngày!", "Bàn rối dây? Gắn 30 giây!") hiệu quả, nên duy trì cấu trúc: [Nỗi đau] → [Giải pháp có số liệu].
+- **Hạn chế đuôi "bạn tin không? / tin không? 🤔"**: dạng thách thức nghi ngờ cho tương tác trung bình–thấp, nên thay bằng khẳng định lợi ích hoặc kêu gọi hành động.
+- **Feature bullets nên bám vào 1 con số nổi bật + 1 lợi ích đời sống** (chống sốc 4 góc, tải 15kg, xoay 360°), tránh liệt kê thông số khô khan không kèm giá trị sử dụng.
+- **Caption cần thêm CTA rõ ràng để kích Comment/Share** (đặt câu hỏi cho người xem, mời tag bạn bè) vì hiện Shares=0 và Comments chỉ =1 ở hầu hết video — đây là điểm yếu lớn nhất cần khắc phục.
+- **Tránh hook chung chung, thiếu số liệu hoặc thiếu nỗi đau** (VD kiểu "chống thấm nước", "sạc nhanh cả ngày") vì cho score thấp nhất (3đ).
