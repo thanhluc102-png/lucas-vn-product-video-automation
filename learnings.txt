@@ -1,8 +1,13 @@
-- **Ưu tiên hook có con số cụ thể + lợi ích tức thì** (VD: "50.000mAh", "1000 lumen", "22.5W", "360°"): các video top score (5đ) đều gắn số đo/thông số rõ ràng gây ấn tượng mạnh.
-- **Dùng emoji cảm xúc mạnh 🤯 hoặc ⚡ ngay cuối hook** để tăng độ giật tít, nhưng chỉ 1 emoji/hook, tránh lạm dụng.
-- **Nhóm sản phẩm sạc/pin/phụ kiện bàn làm việc (power & ergonomic) tương tác tốt hơn** balo/túi/sáp thơm — nên đẩy mạnh và viết sâu hơn cho nhóm này.
-- **Hook dạng câu hỏi "chạm nỗi đau" rồi đưa giải pháp** (VD: "Xe ám mùi? Giữ hương 60 ngày!", "Bàn rối dây? Gắn 30 giây!") hiệu quả, nên duy trì cấu trúc: [Nỗi đau] → [Giải pháp có số liệu].
-- **Hạn chế đuôi "bạn tin không? / tin không? 🤔"**: dạng thách thức nghi ngờ cho tương tác trung bình–thấp, nên thay bằng khẳng định lợi ích hoặc kêu gọi hành động.
-- **Feature bullets nên bám vào 1 con số nổi bật + 1 lợi ích đời sống** (chống sốc 4 góc, tải 15kg, xoay 360°), tránh liệt kê thông số khô khan không kèm giá trị sử dụng.
-- **Caption cần thêm CTA rõ ràng để kích Comment/Share** (đặt câu hỏi cho người xem, mời tag bạn bè) vì hiện Shares=0 và Comments chỉ =1 ở hầu hết video — đây là điểm yếu lớn nhất cần khắc phục.
-- **Tránh hook chung chung, thiếu số liệu hoặc thiếu nỗi đau** (VD kiểu "chống thấm nước", "sạc nhanh cả ngày") vì cho score thấp nhất (3đ).
+- **Ưu tiên con số cụ thể + lợi ích tức thì**: các hook điểm cao nhất (Score 5) đều dẫn bằng thông số ấn tượng gắn kết quả rõ ràng (50.000mAh sạc cả tuần, 7 mức điều chỉnh hết mỏi cổ, xoay 360° vẫn dính chặt) — luôn mở đầu bằng 1 con số nổi bật.
+
+- **Dùng câu hỏi "nỗi đau" ở đầu hook**: dạng nêu vấn đề người dùng gặp phải rồi đưa giải pháp (xe ám mùi, bàn rối dây, điện thoại rơi khi vào cua) tạo tương tác tốt hơn hook chỉ liệt kê tính năng.
+
+- **Nhấn yếu tố "không cần khoan / lắp 30 giây"**: các hook nhắc tới sự tiện lợi, nhanh gọn (khay giấu dây gắn 30 giây) đạt điểm khá — nên khai thác lợi ích tiết kiệm công sức, lắp đặt dễ.
+
+- **Tránh hook chỉ nêu thông số kỹ thuật khô khan**: các hook điểm thấp nhất (Score 3) đều nặng thông số, thiếu bối cảnh sử dụng hoặc lợi ích cảm xúc (22.5W, Qi2.2 25W, 240W PD3.1, 1000 lumen) — cần diễn giải con số thành lợi ích đời thường.
+
+- **Hạn chế lạm dụng emoji 🤯 và cụm "bạn tin không?"**: bị dùng lặp quá nhiều nên mất hiệu quả gây tò mò; luân phiên đa dạng cách kết hook, tránh công thức rập khuôn.
+
+- **Toàn bộ video gần như 0 Shares và Comments thấp**: caption cần thêm lời kêu gọi hành động (CTA) khuyến khích chia sẻ/tag bạn bè và đặt câu hỏi mở để tăng bình luận.
+
+- **Công thức hook tối ưu**: [Con số/nỗi đau cụ thể] + [lợi ích tức thì, dễ hình dung] + [1 emoji phù hợp ngữ cảnh], tránh thuật ngữ kỹ thuật đứng một mình.
