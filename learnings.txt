@@ -1,13 +1,13 @@
-- **Ưu tiên con số cụ thể + lợi ích tức thì**: các hook điểm cao nhất (Score 5) đều dẫn bằng thông số ấn tượng gắn kết quả rõ ràng (50.000mAh sạc cả tuần, 7 mức điều chỉnh hết mỏi cổ, xoay 360° vẫn dính chặt) — luôn mở đầu bằng 1 con số nổi bật.
+- **Ưu tiên hook có con số cụ thể + lợi ích tức thì** (VD: "50.000mAh sạc cả tuần", "25W chuẩn Qi2.2", "7 mức điều chỉnh"): các video này đạt Score cao nhất (5) vì tạo cảm giác đáng tin và dễ hình dung.
 
-- **Dùng câu hỏi "nỗi đau" ở đầu hook**: dạng nêu vấn đề người dùng gặp phải rồi đưa giải pháp (xe ám mùi, bàn rối dây, điện thoại rơi khi vào cua) tạo tương tác tốt hơn hook chỉ liệt kê tính năng.
+- **Kết hợp con số với emoji mạnh** 🤯 hoặc ⚡ đầu/cuối hook để tăng reactions; nhóm hook có emoji + số liệu luôn nhỉnh hơn hook chỉ đặt câu hỏi suông.
 
-- **Nhấn yếu tố "không cần khoan / lắp 30 giây"**: các hook nhắc tới sự tiện lợi, nhanh gọn (khay giấu dây gắn 30 giây) đạt điểm khá — nên khai thác lợi ích tiết kiệm công sức, lắp đặt dễ.
+- **Dùng công thức "vấn đề đau + giải pháp số hóa"** (VD: "Xe ám mùi? Giữ hương 60 ngày", "Bàn rối dây? Gắn 30 giây không cần khoan"): tạo tương tác tốt hơn nhờ chạm nỗi đau thực tế.
 
-- **Tránh hook chỉ nêu thông số kỹ thuật khô khan**: các hook điểm thấp nhất (Score 3) đều nặng thông số, thiếu bối cảnh sử dụng hoặc lợi ích cảm xúc (22.5W, Qi2.2 25W, 240W PD3.1, 1000 lumen) — cần diễn giải con số thành lợi ích đời thường.
+- **Tránh lạm dụng đuôi "bạn tin không? / tin không? 🤔"**: các hook dạng nghi vấn hoài nghi này gom nhiều Score thấp (3–4), gây cảm giác nghi ngờ thay vì thuyết phục.
 
-- **Hạn chế lạm dụng emoji 🤯 và cụm "bạn tin không?"**: bị dùng lặp quá nhiều nên mất hiệu quả gây tò mò; luân phiên đa dạng cách kết hook, tránh công thức rập khuôn.
+- **Tránh hook thuần thông số kỹ thuật khô khan không kèm lợi ích đời thường** (VD: "240W chuẩn PD3.1 EPR", "1000 lumen 180cm"): đạt Score thấp nhất (3) vì thiếu liên hệ trải nghiệm người dùng.
 
-- **Toàn bộ video gần như 0 Shares và Comments thấp**: caption cần thêm lời kêu gọi hành động (CTA) khuyến khích chia sẻ/tag bạn bè và đặt câu hỏi mở để tăng bình luận.
+- **Feature bullets nên quy đổi thông số thành lợi ích cảm nhận** (mAh → "sạc cả tuần", mức chỉnh → "hết mỏi cổ", kg tải → "bàn gọn gấp đôi") thay vì liệt kê con số kỹ thuật đơn thuần.
 
-- **Công thức hook tối ưu**: [Con số/nỗi đau cụ thể] + [lợi ích tức thì, dễ hình dung] + [1 emoji phù hợp ngữ cảnh], tránh thuật ngữ kỹ thuật đứng một mình.
+- **Caption cần thêm CTA kích Comments/Shares** (đặt câu hỏi mở, mời tag bạn bè, hỏi nhu cầu): toàn bộ video đang có Shares=0 và Comments=1 — đây là điểm yếu lớn nhất cần cải thiện để nâng Score.
