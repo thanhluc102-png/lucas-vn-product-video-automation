@@ -1,13 +1,15 @@
-- **Ưu tiên hook có con số cụ thể + lợi ích tức thì** (VD: "50.000mAh sạc cả tuần", "25W chuẩn Qi2.2", "7 mức điều chỉnh"): các video này đạt Score cao nhất (5) vì tạo cảm giác đáng tin và dễ hình dung.
+- **Ưu tiên hook nêu con số ấn tượng cụ thể ngay đầu câu** (50.000mAh, 1000 lumen, 240W, 15kg): nhóm này đạt Score cao nhất (5) khi kèm reaction — con số càng "sốc" càng dễ tạo tương tác.
 
-- **Kết hợp con số với emoji mạnh** 🤯 hoặc ⚡ đầu/cuối hook để tăng reactions; nhóm hook có emoji + số liệu luôn nhỉnh hơn hook chỉ đặt câu hỏi suông.
+- **Dùng hook dạng "thách thức niềm tin" ("bạn tin không?", "tin không?")** kết hợp tình huống đời thực (điện thoại rơi khi vào cua, xoay 360° vẫn dính chặt): ổn định ở Score 4-5, nên duy trì.
 
-- **Dùng công thức "vấn đề đau + giải pháp số hóa"** (VD: "Xe ám mùi? Giữ hương 60 ngày", "Bàn rối dây? Gắn 30 giây không cần khoan"): tạo tương tác tốt hơn nhờ chạm nỗi đau thực tế.
+- **Mở đầu bằng câu hỏi nêu nỗi đau (pain point) rồi đưa giải pháp tức thì** ("Bàn rối dây? Gắn 30 giây, không cần khoan"): tạo reaction tốt (Score 4), nên áp dụng cho sản phẩm tiện ích.
 
-- **Tránh lạm dụng đuôi "bạn tin không? / tin không? 🤔"**: các hook dạng nghi vấn hoài nghi này gom nhiều Score thấp (3–4), gây cảm giác nghi ngờ thay vì thuyết phục.
+- **Nhấn lợi ích thời gian/công sức cụ thể** ("30 giây", "không cần khoan", "7 mức điều chỉnh tạm biệt mỏi cổ"): dễ chạm người xem hơn thông số kỹ thuật khô khan.
 
-- **Tránh hook thuần thông số kỹ thuật khô khan không kèm lợi ích đời thường** (VD: "240W chuẩn PD3.1 EPR", "1000 lumen 180cm"): đạt Score thấp nhất (3) vì thiếu liên hệ trải nghiệm người dùng.
+- **Tránh hook chỉ liệt kê thông số thuần kỹ thuật, không gắn lợi ích hay cảm xúc** (22.5W, Qi2.2 25W, PD3.1 EPR, "3 in 1 sạc cùng lúc"): nhóm này Score thấp nhất (3), reaction = 0.
 
-- **Feature bullets nên quy đổi thông số thành lợi ích cảm nhận** (mAh → "sạc cả tuần", mức chỉnh → "hết mỏi cổ", kg tải → "bàn gọn gấp đôi") thay vì liệt kê con số kỹ thuật đơn thuần.
+- **Hạn chế lạm dụng emoji ⚡ đơn điệu ở cuối câu**: các hook Score 3 đều dùng ⚡ máy móc; nên thay bằng emoji gợi cảm xúc/tò mò (🤯 🤔 🔋) đúng ngữ cảnh.
 
-- **Caption cần thêm CTA kích Comments/Shares** (đặt câu hỏi mở, mời tag bạn bè, hỏi nhu cầu): toàn bộ video đang có Shares=0 và Comments=1 — đây là điểm yếu lớn nhất cần cải thiện để nâng Score.
+- **Mỗi caption nên có 1 CTA khơi comment/share** vì hiện Shares=0 toàn bộ và comment thấp — thêm câu hỏi mở hoặc mini-poll cuối caption để đẩy Comments (x3) và Shares (x5).
+
+- **Công thức tối ưu: [Con số sốc HOẶC pain point] + [lợi ích đời thực tức thì] + [câu thách thức niềm tin] + [emoji cảm xúc] + [CTA hỏi ý kiến].**
