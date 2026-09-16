@@ -1,15 +1,7 @@
-- **Ưu tiên hook nêu con số ấn tượng cụ thể ngay đầu câu** (50.000mAh, 1000 lumen, 240W, 15kg): nhóm này đạt Score cao nhất (5) khi kèm reaction — con số càng "sốc" càng dễ tạo tương tác.
-
-- **Dùng hook dạng "thách thức niềm tin" ("bạn tin không?", "tin không?")** kết hợp tình huống đời thực (điện thoại rơi khi vào cua, xoay 360° vẫn dính chặt): ổn định ở Score 4-5, nên duy trì.
-
-- **Mở đầu bằng câu hỏi nêu nỗi đau (pain point) rồi đưa giải pháp tức thì** ("Bàn rối dây? Gắn 30 giây, không cần khoan"): tạo reaction tốt (Score 4), nên áp dụng cho sản phẩm tiện ích.
-
-- **Nhấn lợi ích thời gian/công sức cụ thể** ("30 giây", "không cần khoan", "7 mức điều chỉnh tạm biệt mỏi cổ"): dễ chạm người xem hơn thông số kỹ thuật khô khan.
-
-- **Tránh hook chỉ liệt kê thông số thuần kỹ thuật, không gắn lợi ích hay cảm xúc** (22.5W, Qi2.2 25W, PD3.1 EPR, "3 in 1 sạc cùng lúc"): nhóm này Score thấp nhất (3), reaction = 0.
-
-- **Hạn chế lạm dụng emoji ⚡ đơn điệu ở cuối câu**: các hook Score 3 đều dùng ⚡ máy móc; nên thay bằng emoji gợi cảm xúc/tò mò (🤯 🤔 🔋) đúng ngữ cảnh.
-
-- **Mỗi caption nên có 1 CTA khơi comment/share** vì hiện Shares=0 toàn bộ và comment thấp — thêm câu hỏi mở hoặc mini-poll cuối caption để đẩy Comments (x3) và Shares (x5).
-
-- **Công thức tối ưu: [Con số sốc HOẶC pain point] + [lợi ích đời thực tức thì] + [câu thách thức niềm tin] + [emoji cảm xúc] + [CTA hỏi ý kiến].**
+- **Ưu tiên hook dạng thách thức tò mò** ("...bạn tin không? 🤯/🤔"): nhóm này đạt Score 4-5 đều đặn (Giá đỡ từ tính, Anker Nano 45W, Core Arm), kích comment và reaction tốt nhất.
+- **Mở đầu bằng nỗi đau cụ thể của người dùng** rồi chốt giải pháp nhanh ("Bàn rối dây?", "Điện thoại rơi khi vào cua?", "Hết pin giữa đường?") giúp tăng tương tác — luôn gắn con số/thời gian cụ thể (30 giây, 360°, N52, 10.000mAh).
+- **Đưa thông số ấn tượng ngay đầu hook** kèm lợi ích thực tế (7 mức điều chỉnh, 1000 lumen, 15kg, 25W Qi2.2) — sản phẩm có 2 reactions (WiWU ZM-015, LISEN Vaccum) là nhờ chi tiết "wow" dễ hình dung.
+- **Dùng emoji có chủ đích** (🤯 🤔 🔋 ⚡) đặt cuối câu hook để nhấn cảm xúc; tránh mở đầu bằng emoji đơn thuần như "⚡ 3 in 1..." (chỉ đạt Score 4, kém sức nặng hơn bản đặt cuối câu).
+- **Tránh hook chỉ liệt kê thông số khô khan** không có yếu tố tò mò/nỗi đau (Elite 22.5W, W116, Cáp 240W, Pin P604, Đèn Luna) — nhóm này Score chỉ 3, thiếu reaction, chỉ gom được comment.
+- **Mỗi feature bullet nên bám 1 con số + 1 lợi ích đời thực** (giảm mỏi cổ, gọn bàn, không rơi khi lái xe) thay vì nêu chuẩn kỹ thuật trần trụi (PD3.1 EPR, Qi2.2) mà không diễn giải.
+- **Caption chốt bằng câu hỏi mở hoặc lời mời phản hồi** để đẩy comment (đang là nguồn Score chính, nhân hệ số 3) và chèn CTA share nhẹ nhàng vì Shares (hệ số 5) hiện đang bằng 0 — cần chủ động kêu gọi chia sẻ để bứt Score.
