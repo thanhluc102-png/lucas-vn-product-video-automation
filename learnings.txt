@@ -1,7 +1,15 @@
-- **Ưu tiên hook dạng thách thức tò mò** ("...bạn tin không? 🤯/🤔"): nhóm này đạt Score 4-5 đều đặn (Giá đỡ từ tính, Anker Nano 45W, Core Arm), kích comment và reaction tốt nhất.
-- **Mở đầu bằng nỗi đau cụ thể của người dùng** rồi chốt giải pháp nhanh ("Bàn rối dây?", "Điện thoại rơi khi vào cua?", "Hết pin giữa đường?") giúp tăng tương tác — luôn gắn con số/thời gian cụ thể (30 giây, 360°, N52, 10.000mAh).
-- **Đưa thông số ấn tượng ngay đầu hook** kèm lợi ích thực tế (7 mức điều chỉnh, 1000 lumen, 15kg, 25W Qi2.2) — sản phẩm có 2 reactions (WiWU ZM-015, LISEN Vaccum) là nhờ chi tiết "wow" dễ hình dung.
-- **Dùng emoji có chủ đích** (🤯 🤔 🔋 ⚡) đặt cuối câu hook để nhấn cảm xúc; tránh mở đầu bằng emoji đơn thuần như "⚡ 3 in 1..." (chỉ đạt Score 4, kém sức nặng hơn bản đặt cuối câu).
-- **Tránh hook chỉ liệt kê thông số khô khan** không có yếu tố tò mò/nỗi đau (Elite 22.5W, W116, Cáp 240W, Pin P604, Đèn Luna) — nhóm này Score chỉ 3, thiếu reaction, chỉ gom được comment.
-- **Mỗi feature bullet nên bám 1 con số + 1 lợi ích đời thực** (giảm mỏi cổ, gọn bàn, không rơi khi lái xe) thay vì nêu chuẩn kỹ thuật trần trụi (PD3.1 EPR, Qi2.2) mà không diễn giải.
-- **Caption chốt bằng câu hỏi mở hoặc lời mời phản hồi** để đẩy comment (đang là nguồn Score chính, nhân hệ số 3) và chèn CTA share nhẹ nhàng vì Shares (hệ số 5) hiện đang bằng 0 — cần chủ động kêu gọi chia sẻ để bứt Score.
+- **Ưu tiên hook có yếu tố "wow" cụ thể + hình ảnh sản phẩm đẹp/độc**: Hai top score (5đ) là ốp MIPOW x MIFFY ("mạ kim 3 lớp, không nỡ dán che") và giá đỡ MagSafe LISEN ("xoay 360° mà đế vẫn dính chặt") — kết hợp con số/tính năng bất ngờ với cảm xúc mạnh.
+
+- **Dùng câu hỏi thách thức "bạn tin không? 🤯/🤔"**: Dạng hook phản biện kích thích tương tác tốt (đa số đạt 4-5đ) — nên đặt con số ấn tượng ngay trước câu hỏi.
+
+- **Nêu "nỗi đau" cụ thể của người dùng rồi chốt bằng giải pháp nhanh gọn**: Ví dụ "Bàn rối dây? 30 giây, không cần khoan" hay "Điện thoại rơi mỗi khi vào cua?" — đạt 4đ, hiệu quả hơn hook thuần mô tả tính năng.
+
+- **Luôn gắn con số định lượng gây shock**: 240W, 1000 lumen, 15kg, N52, 32 inch 10kg — số càng cụ thể càng nổi bật; tránh mô tả chung chung.
+
+- **Tránh hook thuần thông số kỹ thuật, liệt kê tính năng khô khan**: Các hook chỉ nêu "Sạc nhanh 22.5W", "10.000mAh", "3 in 1 chuẩn Qi2.2" chỉ đạt 3đ — thiếu cảm xúc và yếu tố bất ngờ.
+
+- **Hạn chế mở đầu bằng emoji ⚡ đơn thuần hoặc thông số**: Nhóm điểm thấp (3đ) hay bắt đầu bằng tính năng + ⚡; nên đặt cảm xúc/câu hỏi lên trước, emoji để cuối câu.
+
+- **Nhắm nhóm sản phẩm "gọn gàng/công thái học/phụ kiện đẹp"**: Khay giấu dây, giá đỡ màn hình, ốp lưng tạo tương tác cao hơn pin/cáp/sạc phổ thông — nên khai thác góc "biến đổi không gian" và "thẩm mỹ".
+
+- **Công thức tối ưu**: [Nỗi đau hoặc con số shock] → [giải pháp/lợi ích cụ thể] → [câu hỏi "tin không?" + emoji cảm xúc], tránh liệt kê thông số đơn thuần.
