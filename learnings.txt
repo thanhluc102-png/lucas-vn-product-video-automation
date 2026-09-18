@@ -1,15 +1,15 @@
-- **Ưu tiên hook có yếu tố "wow" cụ thể + hình ảnh sản phẩm đẹp/độc**: Hai top score (5đ) là ốp MIPOW x MIFFY ("mạ kim 3 lớp, không nỡ dán che") và giá đỡ MagSafe LISEN ("xoay 360° mà đế vẫn dính chặt") — kết hợp con số/tính năng bất ngờ với cảm xúc mạnh.
+- **Ưu tiên hook "tin không?" cho sản phẩm có tính năng gây bất ngờ**: Các hook kết thúc bằng "bạn tin không? 🤯/🤔" cho sản phẩm nổi bật (ốp MIPOW x MIFFY, đế xoay 360° MagSafe) đạt Score cao nhất (5) — nên dùng công thức "Tính năng khó tin + tin không? + emoji ngạc nhiên".
 
-- **Dùng câu hỏi thách thức "bạn tin không? 🤯/🤔"**: Dạng hook phản biện kích thích tương tác tốt (đa số đạt 4-5đ) — nên đặt con số ấn tượng ngay trước câu hỏi.
+- **Đẩy mạnh nhóm sản phẩm cảm xúc/thẩm mỹ & giải pháp chống rơi**: Ốp lưng thời trang, giá đỡ nam châm chống rơi, đế xoay chắc chắn tương tác tốt hơn — khai thác nỗi lo thực tế (rơi điện thoại, rối dây) hoặc yếu tố "đẹp/xịn không nỡ che".
 
-- **Nêu "nỗi đau" cụ thể của người dùng rồi chốt bằng giải pháp nhanh gọn**: Ví dụ "Bàn rối dây? 30 giây, không cần khoan" hay "Điện thoại rơi mỗi khi vào cua?" — đạt 4đ, hiệu quả hơn hook thuần mô tả tính năng.
+- **Dùng con số cụ thể + lợi ích tức thì trong feature**: Các hook mạnh đều có số liệu rõ (360°, N52, mạ 3 lớp, 15kg, 30 giây) gắn với kết quả nhìn thấy ngay; tránh chỉ nêu thông số kỹ thuật khô khan.
 
-- **Luôn gắn con số định lượng gây shock**: 240W, 1000 lumen, 15kg, N52, 32 inch 10kg — số càng cụ thể càng nổi bật; tránh mô tả chung chung.
+- **Tránh hook thuần thông số/liệt kê chuẩn kỹ thuật**: Các hook chỉ nêu "25W Qi2.2", "240W PD3.1 EPR", "10.000mAh", "1000 lumen" cho Score thấp nhất (3) — thông số đứng một mình không kích tương tác.
 
-- **Tránh hook thuần thông số kỹ thuật, liệt kê tính năng khô khan**: Các hook chỉ nêu "Sạc nhanh 22.5W", "10.000mAh", "3 in 1 chuẩn Qi2.2" chỉ đạt 3đ — thiếu cảm xúc và yếu tố bất ngờ.
+- **Hạn chế mở đầu bằng emoji ⚡ và câu khẳng định phẳng**: Hook bắt đầu bằng "⚡" hoặc khẳng định không có câu hỏi tương tác kém hơn hook dạng câu hỏi khơi gợi.
 
-- **Hạn chế mở đầu bằng emoji ⚡ đơn thuần hoặc thông số**: Nhóm điểm thấp (3đ) hay bắt đầu bằng tính năng + ⚡; nên đặt cảm xúc/câu hỏi lên trước, emoji để cuối câu.
+- **Chèn câu hỏi tương tác/tình huống đời thực ngay đầu caption**: Mở bằng vấn đề người dùng gặp ("Điện thoại rơi mỗi khi vào cua?", "Bàn làm việc rối dây?") rồi mới đưa giải pháp để tăng comment.
 
-- **Nhắm nhóm sản phẩm "gọn gàng/công thái học/phụ kiện đẹp"**: Khay giấu dây, giá đỡ màn hình, ốp lưng tạo tương tác cao hơn pin/cáp/sạc phổ thông — nên khai thác góc "biến đổi không gian" và "thẩm mỹ".
+- **Kết hook bằng CTA nhẹ dạng thách thức niềm tin** thay vì mô tả tính năng, để kích người xem bình luận phản hồi.
 
-- **Công thức tối ưu**: [Nỗi đau hoặc con số shock] → [giải pháp/lợi ích cụ thể] → [câu hỏi "tin không?" + emoji cảm xúc], tránh liệt kê thông số đơn thuần.
+- **Cân đối emoji đúng ngữ cảnh**: Dùng 🤯/🤔 cho yếu tố bất ngờ, 🔋/⚡ chỉ khi thật sự liên quan và không đặt ở vị trí mở đầu thay cho hook.
