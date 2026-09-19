@@ -1,15 +1,15 @@
-- **Ưu tiên hook "tin không?" cho sản phẩm có tính năng gây bất ngờ**: Các hook kết thúc bằng "bạn tin không? 🤯/🤔" cho sản phẩm nổi bật (ốp MIPOW x MIFFY, đế xoay 360° MagSafe) đạt Score cao nhất (5) — nên dùng công thức "Tính năng khó tin + tin không? + emoji ngạc nhiên".
+- **Ưu tiên hook dạng câu hỏi thách thức ("...bạn tin không? 🤯/🤔")**: nhóm điểm cao nhất (Score 5) đều dùng công thức này hoặc khơi gợi tò mò mạnh — dùng làm khung mặc định cho hook line.
 
-- **Đẩy mạnh nhóm sản phẩm cảm xúc/thẩm mỹ & giải pháp chống rơi**: Ốp lưng thời trang, giá đỡ nam châm chống rơi, đế xoay chắc chắn tương tác tốt hơn — khai thác nỗi lo thực tế (rơi điện thoại, rối dây) hoặc yếu tố "đẹp/xịn không nỡ che".
+- **Gắn con số/thông số gây sốc vào lợi ích cụ thể**: "màn hình 32 inch nặng 10kg nâng nhẹ như không", "mạ kim 3 lớp", "xoay 360° vẫn dính chặt" — số liệu + kết quả bất ngờ kéo tương tác tốt hơn thông số khô khan.
 
-- **Dùng con số cụ thể + lợi ích tức thì trong feature**: Các hook mạnh đều có số liệu rõ (360°, N52, mạ 3 lớp, 15kg, 30 giây) gắn với kết quả nhìn thấy ngay; tránh chỉ nêu thông số kỹ thuật khô khan.
+- **Nhấn yếu tố cảm xúc/thẩm mỹ và trải nghiệm ("xịn đến mức không nỡ dán che", "khoe trọn màu gốc")**: các hook chạm cảm xúc/sở hữu đạt Reactions cao (2), nên thêm 1 câu gợi cảm xúc trong caption.
 
-- **Tránh hook thuần thông số/liệt kê chuẩn kỹ thuật**: Các hook chỉ nêu "25W Qi2.2", "240W PD3.1 EPR", "10.000mAh", "1000 lumen" cho Score thấp nhất (3) — thông số đứng một mình không kích tương tác.
+- **Tránh hook chỉ liệt kê thông số kỹ thuật thuần ("240W chuẩn PD3.1 EPR", "1000 lumen phủ 180cm", "10.000mAh")**: nhóm này Reactions=0, Score thấp nhất (3) — cần bọc thông số trong tình huống đời thường hoặc câu hỏi.
 
-- **Hạn chế mở đầu bằng emoji ⚡ và câu khẳng định phẳng**: Hook bắt đầu bằng "⚡" hoặc khẳng định không có câu hỏi tương tác kém hơn hook dạng câu hỏi khơi gợi.
+- **Mở đầu bằng nỗi đau (pain point) rồi chốt giải pháp nhanh ("Bàn rối dây?", "Điện thoại rơi khi vào cua?")**: cho tương tác khá (Score 4), dùng cho sản phẩm giải quyết vấn đề.
 
-- **Chèn câu hỏi tương tác/tình huống đời thực ngay đầu caption**: Mở bằng vấn đề người dùng gặp ("Điện thoại rơi mỗi khi vào cua?", "Bàn làm việc rối dây?") rồi mới đưa giải pháp để tăng comment.
+- **Viết feature bullets ngắn 3-4 gạch, mỗi bullet = 1 lợi ích + 1 số liệu, tránh nhồi thông số**: ưu tiên "làm được gì cho người dùng" hơn tên chuẩn kỹ thuật.
 
-- **Kết hook bằng CTA nhẹ dạng thách thức niềm tin** thay vì mô tả tính năng, để kích người xem bình luận phản hồi.
+- **Luôn thêm CTA khơi comment trong caption** (tương tác hiện gần như chỉ đến từ comment): đặt câu hỏi mở cuối caption để tận dụng trọng số Comments×3.
 
-- **Cân đối emoji đúng ngữ cảnh**: Dùng 🤯/🤔 cho yếu tố bất ngờ, 🔋/⚡ chỉ khi thật sự liên quan và không đặt ở vị trí mở đầu thay cho hook.
+- **Chèn 1 emoji trọng tâm (⚡🤯🔋🤔) ngay hook**: các hook điểm cao đều có emoji nhấn mạnh cảm xúc, giữ tối đa 1-2 emoji/hook để không loãng.
