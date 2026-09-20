@@ -1,15 +1,15 @@
-- **Ưu tiên hook dạng câu hỏi thách thức ("...bạn tin không? 🤯/🤔")**: nhóm điểm cao nhất (Score 5) đều dùng công thức này hoặc khơi gợi tò mò mạnh — dùng làm khung mặc định cho hook line.
+- **Ưu tiên hook có con số/tính năng gây sốc cụ thể** ("mạ kim 3 lớp", "xoay 360° vẫn dính chặt", "trong suốt khoe màu gốc") — nhóm Score cao nhất (5) đều là ốp lưng, giá đỡ từ tính với chi tiết độc đáo, dễ hình dung.
 
-- **Gắn con số/thông số gây sốc vào lợi ích cụ thể**: "màn hình 32 inch nặng 10kg nâng nhẹ như không", "mạ kim 3 lớp", "xoay 360° vẫn dính chặt" — số liệu + kết quả bất ngờ kéo tương tác tốt hơn thông số khô khan.
+- **Kết hook bằng câu thách thức "bạn tin không? 🤯/🤔"** cho tương tác nhỉnh hơn khi đi kèm tính năng bất ngờ; giữ emoji ⚡/🤯 ở cuối để tăng nhấn nhá.
 
-- **Nhấn yếu tố cảm xúc/thẩm mỹ và trải nghiệm ("xịn đến mức không nỡ dán che", "khoe trọn màu gốc")**: các hook chạm cảm xúc/sở hữu đạt Reactions cao (2), nên thêm 1 câu gợi cảm xúc trong caption.
+- **Nêu bật lợi ích chống nỗi đau đời thường** (dây rối, điện thoại rơi khi vào cua, chói nắng) — tạo đồng cảm, giữ Score ổn định 4-5.
 
-- **Tránh hook chỉ liệt kê thông số kỹ thuật thuần ("240W chuẩn PD3.1 EPR", "1000 lumen phủ 180cm", "10.000mAh")**: nhóm này Reactions=0, Score thấp nhất (3) — cần bọc thông số trong tình huống đời thường hoặc câu hỏi.
+- **Tránh hook chỉ liệt kê thông số kỹ thuật khô khan** ("240W chuẩn PD3.1 EPR", "Qi2.2 25W", "45W GaN") mà thiếu hình ảnh liên tưởng — nhóm này Score thấp nhất (3), Reactions=0.
 
-- **Mở đầu bằng nỗi đau (pain point) rồi chốt giải pháp nhanh ("Bàn rối dây?", "Điện thoại rơi khi vào cua?")**: cho tương tác khá (Score 4), dùng cho sản phẩm giải quyết vấn đề.
+- **Tránh mở đầu bằng emoji + thông số** (kiểu "⚡ 3 in 1 sạc...") thay cho câu hook đánh vào cảm xúc; ưu tiên câu hỏi/tình huống trước, thông số sau.
 
-- **Viết feature bullets ngắn 3-4 gạch, mỗi bullet = 1 lợi ích + 1 số liệu, tránh nhồi thông số**: ưu tiên "làm được gì cho người dùng" hơn tên chuẩn kỹ thuật.
+- **Feature bullets: mỗi gạch đầu dòng = 1 lợi ích cảm nhận được** (nhẹ như không, gắn 30 giây không khoan, giữ chặt cứng), tránh bullet toàn chuẩn/mã kỹ thuật.
 
-- **Luôn thêm CTA khơi comment trong caption** (tương tác hiện gần như chỉ đến từ comment): đặt câu hỏi mở cuối caption để tận dụng trọng số Comments×3.
+- **Caption nên chèn 1 câu hỏi tương tác** để kích comment (Comments nhân hệ số 3), vì hiện comment là nguồn điểm chính, còn Shares đang = 0 toàn bộ.
 
-- **Chèn 1 emoji trọng tâm (⚡🤯🔋🤔) ngay hook**: các hook điểm cao đều có emoji nhấn mạnh cảm xúc, giữ tối đa 1-2 emoji/hook để không loãng.
+- **Cần thêm CTA khuyến khích chia sẻ** ("tag đứa bạn bàn bừa", "gửi cho hội mê đồ công nghệ") để phá vỡ điểm nghẽn Shares=0 — đòn bẩy điểm lớn nhất (hệ số 5) chưa được khai thác.
