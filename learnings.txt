@@ -1,15 +1,15 @@
-- **Ưu tiên hook mô tả trực quan kết quả/trải nghiệm** ("khoe trọn màu gốc", "mạ kim 3 lớp không nỡ dán che") — nhóm ốp lưng iPhone đạt điểm cao nhất (Score 5–8), nên ưu tiên khai thác sản phẩm case/phụ kiện thẩm mỹ và cảm giác sở hữu.
+- **Ưu tiên hook khơi curiosity + con số/tính năng cụ thể**: Video top điểm (Score 8: ốp trong suốt "khoe trọn màu gốc"; Score 5: ốp mạ kim "không nỡ dán che", đế xoay 360° "vẫn dính chặt") đều nêu 1 lợi ích bất ngờ rất cụ thể, dễ hình dung → luôn gắn 1 chi tiết trực quan gây tò mò.
 
-- **Nhấn mạnh yếu tố cảm xúc + giá trị hình ảnh** (đẹp, xịn, khoe được) hiệu quả hơn hook thuần thông số kỹ thuật; kết hợp "cường điệu hợp lý" như "xịn đến mức", "khoe trọn".
+- **Nhóm sản phẩm ốp lưng/case iPhone tương tác tốt nhất** → khai thác mạnh mảng này; ưu tiên góc "thẩm mỹ + bảo vệ khoe được ra ngoài" thay vì chỉ nói thông số kỹ thuật khô khan.
 
-- **Chèn con số cụ thể gắn với lợi ích tức thì** ("15kg", "10kg nhẹ như không", "30 giây gọn hết dây") giúp tăng tương tác vừa phải (Score 4).
+- **Hook nên có thành phần cảm xúc/tình huống đời thường trước khi chốt lợi ích** (VD: "chụp ảnh ngoài nắng", "rơi điện thoại", "khoe màu gốc") → tăng comment và reaction.
 
-- **CẦN TRÁNH: hook chỉ liệt kê thông số khô khan** ("240W chuẩn PD3.1 EPR", "Qi2.2 25W", "chuẩn quân đội") — nhóm cáp/sạc/pin đạt điểm thấp nhất (Score 3), thiếu kết nối cảm xúc.
+- **Tránh hook chỉ liệt kê thông số công suất/dung lượng thuần túy** (240W PD3.1, 10.000mAh, 45W GaN, Qi2.2 25W) → nhóm sạc/cáp/pin đều điểm thấp (Score 3); nếu nói thông số phải bọc trong 1 tình huống hoặc so sánh gây sốc.
 
-- **HẠN CHẾ lạm dụng công thức "..., bạn tin không? 🤯/🤔"** — xuất hiện ở hầu hết video nhưng chỉ cho Score trung bình 3–4; nên dùng biến thể mở đầu bằng câu hỏi tình huống đau (pain point) như "Điện thoại rơi mỗi khi vào cua?".
+- **Hạn chế lạm dụng công thức "..., bạn tin không? 🤯/🤔"**: đã xuất hiện quá dày, gây nhàm; giữ tối đa 1 câu hỏi/hook và đa dạng cách chốt (thách thức, tiết lộ, hé lộ bí mật).
 
-- **Feature bullets nên dịch thông số thành lợi ích đời thực** thay vì nêu tên chuẩn kỹ thuật (ví dụ: thay "chuẩn Qi2.2 25W" bằng "sạc đầy khi vừa pha xong ly cà phê").
+- **Mọi bài đều gần như 0 Shares và Comments = 1** → viết caption có CTA rõ ràng thúc đẩy chia sẻ/bình luận (đặt câu hỏi mở, mini-quiz, "tag người cần", "bạn chọn màu nào?") để phá trần điểm số.
 
-- **Caption ưu tiên khơi bình luận** (Score chủ yếu đến từ Comments*3); kết caption bằng câu hỏi tương tác/lựa chọn (màu nào, mẫu nào) để đẩy Comments, vì Shares gần như bằng 0 ở mọi video.
+- **Feature bullets nên chuyển thông số thành lợi ích hình ảnh hóa** (VD: "15kg" → "gắn được cả màn hình siêu to"; "N52" → "giữ chặt khi vào cua gấp") thay vì để thông số trần.
 
-- **Không kỳ vọng Shares tự nhiên** — thay vào đó tối ưu Reactions + Comments; cân nhắc thêm CTA khuyến khích chia sẻ hoặc tag bạn bè để cải thiện điểm Share (hệ số cao nhất *5).
+- **Công thức tối ưu cho lần sau**: [Tình huống đau/bất ngờ đời thường] + [1 tính năng cụ thể hình ảnh hóa] + [chốt tò mò đa dạng] + [CTA kích comment/share], ưu tiên emoji đúng ngữ cảnh, tránh trùng lặp mô-típ.
