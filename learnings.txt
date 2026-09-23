@@ -1,15 +1,8 @@
-- **Ưu tiên hook khơi curiosity + con số/tính năng cụ thể**: Video top điểm (Score 8: ốp trong suốt "khoe trọn màu gốc"; Score 5: ốp mạ kim "không nỡ dán che", đế xoay 360° "vẫn dính chặt") đều nêu 1 lợi ích bất ngờ rất cụ thể, dễ hình dung → luôn gắn 1 chi tiết trực quan gây tò mò.
-
-- **Nhóm sản phẩm ốp lưng/case iPhone tương tác tốt nhất** → khai thác mạnh mảng này; ưu tiên góc "thẩm mỹ + bảo vệ khoe được ra ngoài" thay vì chỉ nói thông số kỹ thuật khô khan.
-
-- **Hook nên có thành phần cảm xúc/tình huống đời thường trước khi chốt lợi ích** (VD: "chụp ảnh ngoài nắng", "rơi điện thoại", "khoe màu gốc") → tăng comment và reaction.
-
-- **Tránh hook chỉ liệt kê thông số công suất/dung lượng thuần túy** (240W PD3.1, 10.000mAh, 45W GaN, Qi2.2 25W) → nhóm sạc/cáp/pin đều điểm thấp (Score 3); nếu nói thông số phải bọc trong 1 tình huống hoặc so sánh gây sốc.
-
-- **Hạn chế lạm dụng công thức "..., bạn tin không? 🤯/🤔"**: đã xuất hiện quá dày, gây nhàm; giữ tối đa 1 câu hỏi/hook và đa dạng cách chốt (thách thức, tiết lộ, hé lộ bí mật).
-
-- **Mọi bài đều gần như 0 Shares và Comments = 1** → viết caption có CTA rõ ràng thúc đẩy chia sẻ/bình luận (đặt câu hỏi mở, mini-quiz, "tag người cần", "bạn chọn màu nào?") để phá trần điểm số.
-
-- **Feature bullets nên chuyển thông số thành lợi ích hình ảnh hóa** (VD: "15kg" → "gắn được cả màn hình siêu to"; "N52" → "giữ chặt khi vào cua gấp") thay vì để thông số trần.
-
-- **Công thức tối ưu cho lần sau**: [Tình huống đau/bất ngờ đời thường] + [1 tính năng cụ thể hình ảnh hóa] + [chốt tò mò đa dạng] + [CTA kích comment/share], ưu tiên emoji đúng ngữ cảnh, tránh trùng lặp mô-típ.
+- **Ưu tiên hook nêu bật lợi ích cụ thể + gợi tò mò kép** (VD: "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc" – Score cao nhất 8): kết hợp mô tả tính năng thật + câu hỏi thách thức người đọc.
+- **Nhóm sản phẩm case/ốp lưng & kính bảo vệ đạt tương tác tốt nhất** (Score 5–8): nên đẩy mạnh, khai thác góc "bảo vệ + thẩm mỹ", nhấn vào nỗi đau (xước, rơi vỡ, che mất thiết kế).
+- **Hook dùng con số ấn tượng + hình ảnh trực quan hiệu quả** (VD: "Màn hình 32 inch nặng 10kg nâng nhẹ như không", "Nam châm N52 giữ chặt"): luôn chèn thông số nổi bật để tăng độ tin.
+- **Nên đặt câu hỏi khơi gợi nỗi đau ở đầu hook** (VD: "Điện thoại rơi mỗi khi vào cua?", "Chụp ảnh ngoài nắng mà màn hình không chói?"): dạng "vấn đề → giải pháp" giữ tương tác ổn định.
+- **Tránh hook chung chung, thiếu điểm nhấn khác biệt** (VD "Sạc 2 thiết bị cùng lúc mà nhỏ gọn", "Sạc nhanh 240W đầy pin tích tắc" – toàn Score 3): nhóm sạc/cáp/pin tương tác kém, cần thêm góc cạnh cảm xúc hoặc so sánh cụ thể.
+- **Hạn chế lạm dụng emoji 🤯 và cụm "bạn tin không?" lặp lại** – xuất hiện quá dày, gây nhàm; nên đa dạng cách chốt hook (thách đố, cam kết, số liệu bất ngờ).
+- **Feature bullets nên viết ngắn, mỗi dòng 1 lợi ích + 1 thông số** (chuẩn Qi2.2, N52, kháng va đập chuẩn quân đội): ưu tiên yếu tố khác biệt so với đối thủ.
+- **Caption cần thêm CTA rõ ràng và yếu tố kích comment** (đặt câu hỏi mở, mini game, "comment để nhận tư vấn") vì hiện comment kéo Score chính, share gần như bằng 0 – cần thiết kế nội dung dễ chia sẻ hơn.
