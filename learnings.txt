@@ -1,8 +1,13 @@
-- **Ưu tiên hook nêu bật lợi ích cụ thể + gợi tò mò kép** (VD: "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc" – Score cao nhất 8): kết hợp mô tả tính năng thật + câu hỏi thách thức người đọc.
-- **Nhóm sản phẩm case/ốp lưng & kính bảo vệ đạt tương tác tốt nhất** (Score 5–8): nên đẩy mạnh, khai thác góc "bảo vệ + thẩm mỹ", nhấn vào nỗi đau (xước, rơi vỡ, che mất thiết kế).
-- **Hook dùng con số ấn tượng + hình ảnh trực quan hiệu quả** (VD: "Màn hình 32 inch nặng 10kg nâng nhẹ như không", "Nam châm N52 giữ chặt"): luôn chèn thông số nổi bật để tăng độ tin.
-- **Nên đặt câu hỏi khơi gợi nỗi đau ở đầu hook** (VD: "Điện thoại rơi mỗi khi vào cua?", "Chụp ảnh ngoài nắng mà màn hình không chói?"): dạng "vấn đề → giải pháp" giữ tương tác ổn định.
-- **Tránh hook chung chung, thiếu điểm nhấn khác biệt** (VD "Sạc 2 thiết bị cùng lúc mà nhỏ gọn", "Sạc nhanh 240W đầy pin tích tắc" – toàn Score 3): nhóm sạc/cáp/pin tương tác kém, cần thêm góc cạnh cảm xúc hoặc so sánh cụ thể.
-- **Hạn chế lạm dụng emoji 🤯 và cụm "bạn tin không?" lặp lại** – xuất hiện quá dày, gây nhàm; nên đa dạng cách chốt hook (thách đố, cam kết, số liệu bất ngờ).
-- **Feature bullets nên viết ngắn, mỗi dòng 1 lợi ích + 1 thông số** (chuẩn Qi2.2, N52, kháng va đập chuẩn quân đội): ưu tiên yếu tố khác biệt so với đối thủ.
-- **Caption cần thêm CTA rõ ràng và yếu tố kích comment** (đặt câu hỏi mở, mini game, "comment để nhận tư vấn") vì hiện comment kéo Score chính, share gần như bằng 0 – cần thiết kế nội dung dễ chia sẻ hơn.
+- **Ưu tiên hook gợi lo lắng/nỗi đau cụ thể rồi tung giải pháp** (VD: "sợ người bên cạnh liếc màn hình? Góc nhìn 28° khoá lại!", "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc") — đây là 2 hook Score cao nhất (6-8).
+
+- **Dùng câu hỏi tương phản "X mà vẫn Y, tin không?"** kết hợp lợi ích trực quan (khoe màu gốc, chống nhìn trộm, chống xước như đá quý) cho tương tác tốt; nêu con số/chuẩn kỹ thuật cụ thể (N52, Qi2.2, góc 28°, Sapphire) để tăng độ tin.
+
+- **Nhóm sản phẩm bảo vệ/bảo mật (ốp trong, kính chống nhìn trộm, kính camera Sapphire, ốp MIPOW mạ kim) tương tác cao nhất** — ưu tiên khai thác cảm xúc "bảo vệ tài sản đẹp/riêng tư".
+
+- **Tránh hook chỉ liệt kê thông số khô khan** (VD: "Sạc nhanh tới 240W chuẩn PD3.1 EPR", "3 in 1 sạc iPhone, Watch, AirPods") — nhóm sạc/cáp/pin Score thấp nhất (3-4), thiếu yếu tố cảm xúc và câu hỏi khơi gợi.
+
+- **Tránh lạm dụng công thức "tin không? 🤯/🤔" lặp lại máy móc** — dùng quá dày làm giảm hiệu quả; đa dạng cách mở (đặt tình huống thực tế: "Ngồi cafe, đi metro...", "Chụp ảnh ngoài nắng gắt...").
+
+- **Feature bullets nên gắn thông số với lợi ích cảm xúc/tình huống dùng thật** (không nêu số suông), mỗi bullet = 1 lợi ích + 1 dẫn chứng kỹ thuật.
+
+- **Caption cần chèn CTA khuyến khích comment/share** (Reactions và Comments có nhưng Shares=0 toàn bộ) — thêm câu hỏi mở hoặc mời tag bạn bè để đẩy Shares (trọng số cao nhất ×5).
