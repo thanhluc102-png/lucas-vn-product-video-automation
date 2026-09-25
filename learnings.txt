@@ -1,13 +1,13 @@
-- **Ưu tiên hook gợi lo lắng/nỗi đau cụ thể rồi tung giải pháp** (VD: "sợ người bên cạnh liếc màn hình? Góc nhìn 28° khoá lại!", "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc") — đây là 2 hook Score cao nhất (6-8).
+- **Ưu tiên hook nêu nỗi đau/rủi ro cụ thể rồi tung giải pháp** (VD "sợ người bên cạnh liếc màn hình? Góc nhìn 28° khoá lại", "Camera xước là hết đẹp") — nhóm này đạt Score cao nhất (6–8).
 
-- **Dùng câu hỏi tương phản "X mà vẫn Y, tin không?"** kết hợp lợi ích trực quan (khoe màu gốc, chống nhìn trộm, chống xước như đá quý) cho tương tác tốt; nêu con số/chuẩn kỹ thuật cụ thể (N52, Qi2.2, góc 28°, Sapphire) để tăng độ tin.
+- **Dùng đặc tả kỹ thuật minh chứng ngay trong hook** (Qi2.2, N52, 4M, chuẩn quân đội, mạ 3 lớp): tăng độ tin và tương tác, nên bám sát vào lợi ích hữu hình thay vì chung chung.
 
-- **Nhóm sản phẩm bảo vệ/bảo mật (ốp trong, kính chống nhìn trộm, kính camera Sapphire, ốp MIPOW mạ kim) tương tác cao nhất** — ưu tiên khai thác cảm xúc "bảo vệ tài sản đẹp/riêng tư".
+- **Nhóm ốp lưng & phụ kiện bảo vệ (kính cường lực, camera, ốp trong suốt) hút tương tác tốt hơn** cáp sạc/củ sạc/pin dự phòng — hãy khai thác góc "bảo vệ - thẩm mỹ - an tâm".
 
-- **Tránh hook chỉ liệt kê thông số khô khan** (VD: "Sạc nhanh tới 240W chuẩn PD3.1 EPR", "3 in 1 sạc iPhone, Watch, AirPods") — nhóm sạc/cáp/pin Score thấp nhất (3-4), thiếu yếu tố cảm xúc và câu hỏi khơi gợi.
+- **Tránh lạm dụng công thức "..., bạn tin không? 🤔/🤯"**: xuất hiện dày đặc, phần lớn chỉ đạt Score 3–5, gây nhàm và loãng; chỉ dùng tối đa 1 lần/tuần.
 
-- **Tránh lạm dụng công thức "tin không? 🤯/🤔" lặp lại máy móc** — dùng quá dày làm giảm hiệu quả; đa dạng cách mở (đặt tình huống thực tế: "Ngồi cafe, đi metro...", "Chụp ảnh ngoài nắng gắt...").
+- **Tránh hook thuần thông số khô khan** ("Sạc nhanh tới 240W chuẩn PD3.1 EPR", "3 in 1 sạc… Qi2.2 25W") — mở đầu bằng thông số không có ngữ cảnh đau/lợi ích khiến Score thấp nhất (3).
 
-- **Feature bullets nên gắn thông số với lợi ích cảm xúc/tình huống dùng thật** (không nêu số suông), mỗi bullet = 1 lợi ích + 1 dẫn chứng kỹ thuật.
+- **Feature bullets nên viết dạng "vấn đề → tính năng giải quyết → con số chứng minh"**, mỗi bullet gắn 1 lợi ích thực tế đời thường (đi metro, chụp nắng, tuột tay).
 
-- **Caption cần chèn CTA khuyến khích comment/share** (Reactions và Comments có nhưng Shares=0 toàn bộ) — thêm câu hỏi mở hoặc mời tag bạn bè để đẩy Shares (trọng số cao nhất ×5).
+- **Caption cần thêm CTA kích comment/share** (đặt câu hỏi lựa chọn, "tag người hay làm rơi máy") vì hiện Shares=0 toàn bộ và Comments rất thấp — đây là điểm yếu lớn nhất cần cải thiện.
