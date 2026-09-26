@@ -1,13 +1,8 @@
-- **Ưu tiên hook nêu nỗi đau/rủi ro cụ thể rồi tung giải pháp** (VD "sợ người bên cạnh liếc màn hình? Góc nhìn 28° khoá lại", "Camera xước là hết đẹp") — nhóm này đạt Score cao nhất (6–8).
-
-- **Dùng đặc tả kỹ thuật minh chứng ngay trong hook** (Qi2.2, N52, 4M, chuẩn quân đội, mạ 3 lớp): tăng độ tin và tương tác, nên bám sát vào lợi ích hữu hình thay vì chung chung.
-
-- **Nhóm ốp lưng & phụ kiện bảo vệ (kính cường lực, camera, ốp trong suốt) hút tương tác tốt hơn** cáp sạc/củ sạc/pin dự phòng — hãy khai thác góc "bảo vệ - thẩm mỹ - an tâm".
-
-- **Tránh lạm dụng công thức "..., bạn tin không? 🤔/🤯"**: xuất hiện dày đặc, phần lớn chỉ đạt Score 3–5, gây nhàm và loãng; chỉ dùng tối đa 1 lần/tuần.
-
-- **Tránh hook thuần thông số khô khan** ("Sạc nhanh tới 240W chuẩn PD3.1 EPR", "3 in 1 sạc… Qi2.2 25W") — mở đầu bằng thông số không có ngữ cảnh đau/lợi ích khiến Score thấp nhất (3).
-
-- **Feature bullets nên viết dạng "vấn đề → tính năng giải quyết → con số chứng minh"**, mỗi bullet gắn 1 lợi ích thực tế đời thường (đi metro, chụp nắng, tuột tay).
-
-- **Caption cần thêm CTA kích comment/share** (đặt câu hỏi lựa chọn, "tag người hay làm rơi máy") vì hiện Shares=0 toàn bộ và Comments rất thấp — đây là điểm yếu lớn nhất cần cải thiện.
+- **Ưu tiên hook nêu vấn đề/nỗi đau cụ thể rồi tung giải pháp** (VD: "sợ người bên cạnh liếc màn hình? Góc nhìn 28° khoá lại!" — Score 6; "khoe trọn màu gốc" — Score 8): đây là dạng cho tương tác cao nhất.
+- **Dùng cấu trúc "câu hỏi + con số/thông số ấn tượng + emoji 🤯💎⚡"** để kích thích bình luận (các hook có Score 5-8 đều theo mô-típ này).
+- **Nhấn lợi ích chống trộm, bảo vệ camera, khoe màu gốc, độ bền cao cấp** — nhóm feature này tạo Reactions & Comments tốt hơn nhóm sạc thuần công suất.
+- **Tránh hook chung chung, thiếu con số hoặc thiếu nỗi đau cụ thể** (VD: "3 in 1 sạc cùng lúc", "chịu rơi 4m đạt chuẩn SGS", "sạc nhanh 240W") — các hook nặng thông số kỹ thuật khô khan chỉ đạt Score 3.
+- **Tránh lặp lại đuôi "bạn tin không? 🤔/🤯" quá nhiều** — cụm này đã bị nhàm, không còn tạo đột phá tương tác.
+- **Sản phẩm ốp lưng & kính cường lực (bảo vệ, thẩm mỹ) hiệu quả hơn phụ kiện sạc** — nên đầu tư hook mạnh và caption cảm xúc cho nhóm này.
+- **Caption nên chèn tình huống đời thực + CTA gợi bình luận** (ngồi cafe, đi metro, chụp ảnh ngoài nắng) thay vì chỉ liệt kê thông số.
+- **Bổ sung yếu tố kêu gọi chia sẻ (Shares=0 toàn bộ)** — thêm CTA "tag người cần" hoặc "lưu lại kẻo quên" để tăng Shares, đòn bẩy điểm cao nhất (×5).
