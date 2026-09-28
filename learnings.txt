@@ -1,15 +1,13 @@
-- **Ưu tiên tạo tương tác kép (React + Comment):** Hook thắng lớn nhất (Score 8) là ốp trong suốt "khoe màu gốc" — kết hợp lợi ích trực quan cụ thể + câu hỏi "bạn tin không?" khơi gợi phản biện, kéo cả reaction lẫn comment.
+- **Hook ngắn gọn nêu bật lợi ích trực quan cụ thể** (VD: "khoe trọn màu gốc", "khoá góc nhìn 28°", "cứng như đá quý") tạo tương tác cao nhất — ưu tiên chi tiết số liệu/tính năng độc đáo thay vì câu hỏi chung chung.
 
-- **Dùng nỗi sợ đời thường siêu cụ thể (ngữ cảnh hoá):** Các hook nhắc tình huống thật ("ngồi cafe, đi metro sợ người liếc màn hình", góc nhìn 28°) đạt Score cao (6) — nêu bối cảnh + con số cụ thể mạnh hơn mô tả chung chung.
+- **Nhóm sản phẩm ốp lưng trong suốt và kính chống nhìn trộm dẫn đầu tương tác** (Score 6–8) — nên khai thác mạnh dòng bảo vệ màn hình/quyền riêng tư và ốp khoe thiết kế gốc.
 
-- **Nhấn con số/chuẩn kỹ thuật gây "wow":** Hook chứa số liệu ấn tượng kèm emoji 🤯 (kim mạ 3 lớp, cứng như đá quý 💎, màn hình báo công suất) cho tương tác trên trung bình — luôn đưa 1 con số hoặc chuẩn cụ thể vào hook.
+- **Kết hợp "vấn đề đời thực + giải pháp cụ thể" (đi cafe, metro, nắng gắt) hiệu quả** — nên đặt bối cảnh sử dụng quen thuộc kèm con số ấn tượng (28°, 45W, 4M).
 
-- **Tránh hook chỉ liệt kê thông số khô khan:** Cáp 240W, pin 10.000mAh, sạc GaN 45W chỉ đạt Score 3 (toàn comment lẻ) — số kỹ thuật đơn thuần không đủ, phải gắn vào lợi ích cảm xúc/tình huống người dùng.
+- **Tránh lạm dụng công thức "bạn tin không? 🤯"** — xuất hiện dày đặc, gây nhàm và tương tác thấp (đa số Score=3), chỉ dùng tối đa 1 lần và thay bằng insight/số liệu.
 
-- **Tránh lặp mô-típ "chống rơi 4M/chuẩn SGS" cho nhóm ốp bảo vệ:** Loạt hook rơi/tuột tay đều Score 3 — mô-típ này đã bão hoà, cần đổi góc (ví dụ tính năng phụ, thẩm mỹ, sự tiện lợi) thay vì lặp cùng nỗi sợ.
+- **Tránh hook chống rơi chung chung ("chịu rơi 4m", "tim rớt theo")** — trùng lặp, tương tác kém (Score=3); nếu dùng cần thêm yếu tố khác biệt hoặc dẫn chứng thực tế.
 
-- **Ưu tiên nhóm sản phẩm thẩm mỹ & màn hình hơn nhóm sạc:** Ốp/kính (đặc biệt trong suốt, chống nhìn trộm, chống chói) tương tác tốt hơn hẳn nhóm sạc/cáp/pin — dồn công thức mạnh cho nhóm này.
+- **Feature bullets nên nhấn 2–3 thông số kỹ thuật nổi bật + 1 lợi ích cảm xúc**, ưu tiên tính năng "chỉ sản phẩm này có" để kích comment.
 
-- **Công thức hook chuẩn để tái dùng:** [Nỗi sợ/tình huống cụ thể] + [con số hoặc lợi ích trực quan bất ngờ] + [câu hỏi chốt "bạn tin không?"/emoji 🤯💎⚡] — giữ 1 câu, dưới 20 từ.
-
-- **Kêu gọi comment nhẹ trong caption:** Vì comment nhân hệ số 3, nên cài câu hỏi mở cuối caption (chọn màu, tag bạn hay rớt máy...) để đẩy Score thay vì chỉ
+- **Caption nên gợi mở câu hỏi tương tác hoặc kêu gọi chia sẻ trải nghiệm** thay vì chỉ mô tả — hiện Shares=0 toàn bộ, cần thêm CTA khuyến khích chia sẻ/tag bạn bè.
