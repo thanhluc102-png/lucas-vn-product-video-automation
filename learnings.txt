@@ -1,13 +1,15 @@
-- **Hook ngắn gọn nêu bật lợi ích trực quan cụ thể** (VD: "khoe trọn màu gốc", "khoá góc nhìn 28°", "cứng như đá quý") tạo tương tác cao nhất — ưu tiên chi tiết số liệu/tính năng độc đáo thay vì câu hỏi chung chung.
+- **Ưu tiên hook dạng "câu hỏi kịch bản đời thực" cụ thể** (ví dụ: "Ngồi cafe, đi metro mà sợ người bên cạnh liếc màn hình?"): nhóm chống nhìn trộm đạt score cao nhất (6-7). Đặt bối cảnh quen thuộc + nỗi lo cụ thể trước khi tung giải pháp.
 
-- **Nhóm sản phẩm ốp lưng trong suốt và kính chống nhìn trộm dẫn đầu tương tác** (Score 6–8) — nên khai thác mạnh dòng bảo vệ màn hình/quyền riêng tư và ốp khoe thiết kế gốc.
+- **Hook nêu lợi ích trực quan gây tò mò về sản phẩm ốp/kính** hiệu quả tốt (Score 7-8): "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc", "Túi khí chữ U + chống rơi 6m" — kết hợp thông số kỹ thuật nổi bật (Qi2.2 25W, 6M, SGS, sapphire) với hình ảnh dễ mường tượng.
 
-- **Kết hợp "vấn đề đời thực + giải pháp cụ thể" (đi cafe, metro, nắng gắt) hiệu quả** — nên đặt bối cảnh sử dụng quen thuộc kèm con số ấn tượng (28°, 45W, 4M).
+- **Nhóm ốp lưng và kính cường lực là chủ lực tương tác**; nên tập trung nhấn mạnh khả năng bảo vệ (chống rơi, chống xước, chống nhìn trộm) bằng con số cụ thể (4M/6M, góc 28°) thay vì nói chung chung.
 
-- **Tránh lạm dụng công thức "bạn tin không? 🤯"** — xuất hiện dày đặc, gây nhàm và tương tác thấp (đa số Score=3), chỉ dùng tối đa 1 lần và thay bằng insight/số liệu.
+- **Tránh lạm dụng công thức "..., bạn tin không? 🤯"**: motif này lặp quá nhiều, phần lớn chỉ đạt score thấp (3-4) do gây nhàm và loãng — chỉ dùng tối đa 1 lần/đợt hoặc thay bằng câu hỏi tình huống thật.
 
-- **Tránh hook chống rơi chung chung ("chịu rơi 4m", "tim rớt theo")** — trùng lặp, tương tác kém (Score=3); nếu dùng cần thêm yếu tố khác biệt hoặc dẫn chứng thực tế.
+- **Tránh hook chỉ nêu thông số khô khan hoặc quá kỹ thuật** cho sạc/củ sạc (Score 3-4): cần thêm bối cảnh dùng hằng ngày ("bỏ túi", "sạc 3 thiết bị khi vội") thay vì chỉ liệt kê W và số cổng.
 
-- **Feature bullets nên nhấn 2–3 thông số kỹ thuật nổi bật + 1 lợi ích cảm xúc**, ưu tiên tính năng "chỉ sản phẩm này có" để kích comment.
+- **Ưu tiên emoji đắt giá, đặt đúng chỗ** (👀 💎 ⚡ cho tính năng cụ thể); tránh dùng 🤯 tràn lan vì không còn tạo bất ngờ.
 
-- **Caption nên gợi mở câu hỏi tương tác hoặc kêu gọi chia sẻ trải nghiệm** thay vì chỉ mô tả — hiện Shares=0 toàn bộ, cần thêm CTA khuyến khích chia sẻ/tag bạn bè.
+- **Feature bullets nên chuyển thông số thành lợi ích + tình huống**: mỗi bullet = 1 thông số mạnh + 1 kịch bản đời thực người dùng gặp phải.
+
+- **Caption nên mở bằng nỗi đau/tình huống cụ thể, chốt bằng giải pháp và CTA nhẹ**; ưu tiên khơi comment (đặt câu hỏi cho người xem) vì comment nhân hệ số 3, và thúc đẩy share (mẹo hữu ích, nội dung đáng lưu) vì share nhân hệ số 5 — hiện shares đang bằng 0 toàn bộ, đây là dư địa lớn nhất
