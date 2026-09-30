@@ -1,15 +1,15 @@
-- **Ưu tiên hook dạng "câu hỏi kịch bản đời thực" cụ thể** (ví dụ: "Ngồi cafe, đi metro mà sợ người bên cạnh liếc màn hình?"): nhóm chống nhìn trộm đạt score cao nhất (6-7). Đặt bối cảnh quen thuộc + nỗi lo cụ thể trước khi tung giải pháp.
+- **Ưu tiên hook "nêu vấn đề/nỗi đau cụ thể → giải pháp"**: các video điểm cao nhất (Score 8, 7, 6) đều mở đầu bằng tình huống thật (khoe màu gốc, rơi từ tầng 2 túi khí chữ U, sợ người liếc màn hình góc 28°), tạo tò mò và thúc đẩy comment.
 
-- **Hook nêu lợi ích trực quan gây tò mò về sản phẩm ốp/kính** hiệu quả tốt (Score 7-8): "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc", "Túi khí chữ U + chống rơi 6m" — kết hợp thông số kỹ thuật nổi bật (Qi2.2 25W, 6M, SGS, sapphire) với hình ảnh dễ mường tượng.
+- **Đưa thông số/độ chống chịu ĐỘC ĐÁO ngay vào hook**: "chống rơi 6m + túi khí chữ U", "góc nhìn 28°", "trong suốt khoe màu gốc" hiệu quả hơn thông số chung chung; nên gắn con số cụ thể, khác biệt so với đối thủ.
 
-- **Nhóm ốp lưng và kính cường lực là chủ lực tương tác**; nên tập trung nhấn mạnh khả năng bảo vệ (chống rơi, chống xước, chống nhìn trộm) bằng con số cụ thể (4M/6M, góc 28°) thay vì nói chung chung.
+- **Nhóm ốp lưng iPhone (trong suốt, chống rơi cao cấp) là chủ lực tương tác** → ưu tiên khai thác sâu, thêm feature bullets nhấn mạnh vật liệu/khả năng bảo vệ nổi bật và lợi ích cảm xúc (an tâm, khoe máy đẹp).
 
-- **Tránh lạm dụng công thức "..., bạn tin không? 🤯"**: motif này lặp quá nhiều, phần lớn chỉ đạt score thấp (3-4) do gây nhàm và loãng — chỉ dùng tối đa 1 lần/đợt hoặc thay bằng câu hỏi tình huống thật.
+- **Hạn chế tối đa mẫu câu "..., bạn tin không? 🤯"**: đây là dạng lặp lại nhiều nhất và đa số cho Score thấp (3–5); tránh dùng emoji 🤯 tràn lan và công thức trùng nhau gây nhàm.
 
-- **Tránh hook chỉ nêu thông số khô khan hoặc quá kỹ thuật** cho sạc/củ sạc (Score 3-4): cần thêm bối cảnh dùng hằng ngày ("bỏ túi", "sạc 3 thiết bị khi vội") thay vì chỉ liệt kê W và số cổng.
+- **Tránh hook chỉ liệt kê thông số kỹ thuật khô khan** (VD "45W trên củ sạc bé xíu", "sạc 2 thiết bị nhỏ gọn") — nhóm phụ kiện sạc tương tác kém nhất; cần thêm ngữ cảnh sử dụng và cảm xúc.
 
-- **Ưu tiên emoji đắt giá, đặt đúng chỗ** (👀 💎 ⚡ cho tính năng cụ thể); tránh dùng 🤯 tràn lan vì không còn tạo bất ngờ.
+- **Mỗi hook nên chứa 1 câu hỏi khơi gợi trải nghiệm cá nhân** ("Ngồi cafe...", "Lỡ tay rơi...") để tăng comment — vì comment nhân hệ số 3, đóng góp lớn nhất vào Score.
 
-- **Feature bullets nên chuyển thông số thành lợi ích + tình huống**: mỗi bullet = 1 thông số mạnh + 1 kịch bản đời thực người dùng gặp phải.
+- **Mục tiêu tối ưu Shares (hệ số 5, hiện đang = 0)**: thêm yếu tố dễ chia sẻ như mẹo hữu ích, kết quả gây bất ngờ hoặc lời kêu gọi "tag người hay làm rơi máy" vào cuối caption.
 
-- **Caption nên mở bằng nỗi đau/tình huống cụ thể, chốt bằng giải pháp và CTA nhẹ**; ưu tiên khơi comment (đặt câu hỏi cho người xem) vì comment nhân hệ số 3, và thúc đẩy share (mẹo hữu ích, nội dung đáng lưu) vì share nhân hệ số 5 — hiện shares đang bằng 0 toàn bộ, đây là dư địa lớn nhất
+- **Feature bullets nên gồm 3–4 dòng ngắn**: 1 dòng thông số khác biệt + 1 dòng lợi ích cảm xúc + 1 dòng tình huống dùng thực tế, đồng bộ với hook để giữ mạch tò mò.
