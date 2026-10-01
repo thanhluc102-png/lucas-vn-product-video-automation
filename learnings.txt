@@ -1,15 +1,15 @@
-- **Ưu tiên hook "nêu vấn đề/nỗi đau cụ thể → giải pháp"**: các video điểm cao nhất (Score 8, 7, 6) đều mở đầu bằng tình huống thật (khoe màu gốc, rơi từ tầng 2 túi khí chữ U, sợ người liếc màn hình góc 28°), tạo tò mò và thúc đẩy comment.
+- **Ưu tiên hook nêu lợi ích cụ thể + nghịch lý "nhưng vẫn":** các top video (Score 8, 7) dùng cấu trúc "tính năng A mà vẫn giữ B" (ốp trong suốt mà khoe màu gốc; túi khí chữ U + chống rơi 6m) — tạo tò mò, tăng comment.
 
-- **Đưa thông số/độ chống chịu ĐỘC ĐÁO ngay vào hook**: "chống rơi 6m + túi khí chữ U", "góc nhìn 28°", "trong suốt khoe màu gốc" hiệu quả hơn thông số chung chung; nên gắn con số cụ thể, khác biệt so với đối thủ.
+- **Chèn con số/chuẩn cụ thể và bằng chứng:** nhắc rõ thông số (6m, 4M, chuẩn SGS, góc nhìn 28°, mạ 3 lớp) giúp tăng tương tác hơn hook chung chung.
 
-- **Nhóm ốp lưng iPhone (trong suốt, chống rơi cao cấp) là chủ lực tương tác** → ưu tiên khai thác sâu, thêm feature bullets nhấn mạnh vật liệu/khả năng bảo vệ nổi bật và lợi ích cảm xúc (an tâm, khoe máy đẹp).
+- **Dùng câu hỏi tình huống đời thường gần gũi:** bối cảnh "ngồi cafe, đi metro sợ người liếc màn hình", "chụp ảnh ngoài nắng gắt" kéo reactions tốt (Score 4-6) vì người xem thấy mình trong đó.
 
-- **Hạn chế tối đa mẫu câu "..., bạn tin không? 🤯"**: đây là dạng lặp lại nhiều nhất và đa số cho Score thấp (3–5); tránh dùng emoji 🤯 tràn lan và công thức trùng nhau gây nhàm.
+- **Giới hạn 1 emoji đắt giá đặt cuối hook:** 🤯 💎 ⚡ dùng điểm nhấn, tránh lạm dụng; emoji đặt sau câu hỏi/khẳng định hiệu quả hơn rải nhiều.
 
-- **Tránh hook chỉ liệt kê thông số kỹ thuật khô khan** (VD "45W trên củ sạc bé xíu", "sạc 2 thiết bị nhỏ gọn") — nhóm phụ kiện sạc tương tác kém nhất; cần thêm ngữ cảnh sử dụng và cảm xúc.
+- **Tránh lạm dụng công thức "bạn tin không?":** motif này lặp quá nhiều, phần lớn chỉ đạt Score 3-4 — nên thay bằng câu hỏi gắn hậu quả cụ thể ("Camera xước là hết đẹp") để tăng reactions.
 
-- **Mỗi hook nên chứa 1 câu hỏi khơi gợi trải nghiệm cá nhân** ("Ngồi cafe...", "Lỡ tay rơi...") để tăng comment — vì comment nhân hệ số 3, đóng góp lớn nhất vào Score.
+- **Tránh hook trùng lặp giữa các sản phẩm cùng dòng:** nhóm chống rơi WiWU/HODA dùng chung mô-típ "lỡ tay rơi" khiến tương tác thấp (Score 3) do bão hòa; cần đa dạng góc tiếp cận.
 
-- **Mục tiêu tối ưu Shares (hệ số 5, hiện đang = 0)**: thêm yếu tố dễ chia sẻ như mẹo hữu ích, kết quả gây bất ngờ hoặc lời kêu gọi "tag người hay làm rơi máy" vào cuối caption.
+- **Kích comment bằng câu hỏi mở hoặc kêu gọi chọn lựa trong caption:** các video điểm cao đều nhỉnh comment — nên thêm CTA hỏi ý kiến/so sánh phiên bản để duy trì chỉ số này.
 
-- **Feature bullets nên gồm 3–4 dòng ngắn**: 1 dòng thông số khác biệt + 1 dòng lợi ích cảm xúc + 1 dòng tình huống dùng thực tế, đồng bộ với hook để giữ mạch tò mò.
+- **Feature bullets nên ngắn, mỗi dòng 1 lợi ích + 1 thông số:** nhấn "giữ màu gốc", "chống chói ngoài nắng", "chịu rơi X mét chuẩn SGS" thay vì liệt kê kỹ thuật khô khan.
