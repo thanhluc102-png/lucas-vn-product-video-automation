@@ -1,15 +1,13 @@
-- **Ưu tiên hook nêu lợi ích cụ thể + nghịch lý "nhưng vẫn":** các top video (Score 8, 7) dùng cấu trúc "tính năng A mà vẫn giữ B" (ốp trong suốt mà khoe màu gốc; túi khí chữ U + chống rơi 6m) — tạo tò mò, tăng comment.
+- **Hook dạng câu hỏi "khoe lợi ích độc đáo" thắng nhất**: Top 2 video (ốp trong suốt khoe màu gốc – Score 8; túi khí chữ U chống rơi 6m – Score 7) đều mở bằng một lợi ích hình ảnh/cụ thể gây tò mò. Ưu tiên hook nêu rõ điểm khác biệt thị giác hoặc thông số ấn tượng.
 
-- **Chèn con số/chuẩn cụ thể và bằng chứng:** nhắc rõ thông số (6m, 4M, chuẩn SGS, góc nhìn 28°, mạ 3 lớp) giúp tăng tương tác hơn hook chung chung.
+- **Nhấn thông số cứng + emoji đắt giá giúp tăng Reactions**: Các hook có số liệu rõ (28°, 6m, 45W, "cứng như đá quý 💎") hoặc emoji 🤯💎⚡ đạt Score cao hơn (5-6). Mỗi hook nên có 1 con số cụ thể và tối đa 1 emoji mạnh.
 
-- **Dùng câu hỏi tình huống đời thường gần gũi:** bối cảnh "ngồi cafe, đi metro sợ người liếc màn hình", "chụp ảnh ngoài nắng gắt" kéo reactions tốt (Score 4-6) vì người xem thấy mình trong đó.
+- **Tránh lạm dụng công thức "bạn tin không?"**: Cụm này xuất hiện ở nhiều video Score thấp (3-4), đã bão hòa và mất sức hút. Hạn chế hoặc thay bằng câu hỏi gợi nỗi đau thực tế.
 
-- **Giới hạn 1 emoji đắt giá đặt cuối hook:** 🤯 💎 ⚡ dùng điểm nhấn, tránh lạm dụng; emoji đặt sau câu hỏi/khẳng định hiệu quả hơn rải nhiều.
+- **Tránh hook trùng lặp giữa các sản phẩm cùng dòng**: Loạt ốp WiWU/HODA chống rơi và kính chống nhìn trộm dùng chung mô-típ "rơi iPhone / sợ người liếc màn hình" nên đều kẹt Score 3. Mỗi sản phẩm cần góc độc nhất, tránh copy ý tưởng.
 
-- **Tránh lạm dụng công thức "bạn tin không?":** motif này lặp quá nhiều, phần lớn chỉ đạt Score 3-4 — nên thay bằng câu hỏi gắn hậu quả cụ thể ("Camera xước là hết đẹp") để tăng reactions.
+- **Mở hook bằng nỗi đau cụ thể rồi chốt giải pháp bất ngờ**: Công thức "Tình huống khó chịu + Giải pháp khoe lợi ích đo lường được" (vd ốp trong suốt, túi khí) hiệu quả hơn hook chung chung chỉ dọa rủi ro.
 
-- **Tránh hook trùng lặp giữa các sản phẩm cùng dòng:** nhóm chống rơi WiWU/HODA dùng chung mô-típ "lỡ tay rơi" khiến tương tác thấp (Score 3) do bão hòa; cần đa dạng góc tiếp cận.
+- **Feature bullets nên quy đổi thông số thành lợi ích thị giác/trải nghiệm**: Thay vì chỉ liệt kê chuẩn (SGS, quân đội), diễn giải thành "khoe màu gốc", "không chói ngoài nắng", "khóa góc nhìn 28°" — những điểm người dùng thấy/cảm được.
 
-- **Kích comment bằng câu hỏi mở hoặc kêu gọi chọn lựa trong caption:** các video điểm cao đều nhỉnh comment — nên thêm CTA hỏi ý kiến/so sánh phiên bản để duy trì chỉ số này.
-
-- **Feature bullets nên ngắn, mỗi dòng 1 lợi ích + 1 thông số:** nhấn "giữ màu gốc", "chống chói ngoài nắng", "chịu rơi X mét chuẩn SGS" thay vì liệt kê kỹ thuật khô khan.
+- **Caption cần CTA tương tác (hỏi ngược / mời bình luận)**: Hầu hết video có Comments nhưng gần như không có Shares. Thêm CTA khuyến khích share (tag bạn hay rơi máy, lưu lại) để tăng điểm Shares nhân hệ số 5.
