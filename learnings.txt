@@ -1,13 +1,15 @@
-- **Hook dạng câu hỏi "khoe lợi ích độc đáo" thắng nhất**: Top 2 video (ốp trong suốt khoe màu gốc – Score 8; túi khí chữ U chống rơi 6m – Score 7) đều mở bằng một lợi ích hình ảnh/cụ thể gây tò mò. Ưu tiên hook nêu rõ điểm khác biệt thị giác hoặc thông số ấn tượng.
+- **Mở hook bằng câu hỏi gây tò mò + cam kết ngược đời**: dạng "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc, bạn tin không? 🤔" (Score cao nhất=8) và "Túi khí chữ U + chống rơi 6m... an tâm mỗi lần lỡ tay!" (Score=7) cho tương tác tốt nhất — ưu tiên công thức này.
 
-- **Nhấn thông số cứng + emoji đắt giá giúp tăng Reactions**: Các hook có số liệu rõ (28°, 6m, 45W, "cứng như đá quý 💎") hoặc emoji 🤯💎⚡ đạt Score cao hơn (5-6). Mỗi hook nên có 1 con số cụ thể và tối đa 1 emoji mạnh.
+- **Chạm nỗi đau cụ thể theo tình huống đời thường**: "Ngồi cafe, đi metro mà sợ người bên cạnh liếc màn hình?" (Score=5-6) hiệu quả vì gắn bối cảnh thật; nên gắn feature với ngữ cảnh sử dụng cụ thể (metro, cafe, rơi từ bàn/tầng 2).
 
-- **Tránh lạm dụng công thức "bạn tin không?"**: Cụm này xuất hiện ở nhiều video Score thấp (3-4), đã bão hòa và mất sức hút. Hạn chế hoặc thay bằng câu hỏi gợi nỗi đau thực tế.
+- **Nêu thông số/bằng chứng mạnh làm điểm nhấn**: "góc nhìn 28°", "cứng như đá quý 💎", "chuẩn SGS", "túi khí chữ U" giúp tăng reaction — luôn chèn 1 con số hoặc tiêu chuẩn kiểm định cụ thể.
 
-- **Tránh hook trùng lặp giữa các sản phẩm cùng dòng**: Loạt ốp WiWU/HODA chống rơi và kính chống nhìn trộm dùng chung mô-típ "rơi iPhone / sợ người liếc màn hình" nên đều kẹt Score 3. Mỗi sản phẩm cần góc độc nhất, tránh copy ý tưởng.
+- **Dùng tối đa 1 emoji đắt giá cuối hook** (🤔 🤯 💎 ⚡) để nhấn cảm xúc, tránh lạm dụng nhiều emoji cùng lúc.
 
-- **Mở hook bằng nỗi đau cụ thể rồi chốt giải pháp bất ngờ**: Công thức "Tình huống khó chịu + Giải pháp khoe lợi ích đo lường được" (vd ốp trong suốt, túi khí) hiệu quả hơn hook chung chung chỉ dọa rủi ro.
+- **TRÁNH hook công năng khô khan, không có câu hỏi/nỗi đau**: "Ốp cùng màu iPhone, sạc MagSafe không cần tháo", "Sạc 2 thiết bị cùng lúc nhỏ gọn" đều Score=3 (thấp nhất) — không viết hook chỉ liệt kê tính năng.
 
-- **Feature bullets nên quy đổi thông số thành lợi ích thị giác/trải nghiệm**: Thay vì chỉ liệt kê chuẩn (SGS, quân đội), diễn giải thành "khoe màu gốc", "không chói ngoài nắng", "khóa góc nhìn 28°" — những điểm người dùng thấy/cảm được.
+- **TRÁNH lặp lại rập khuôn cùng một mẫu "chống rơi 4m/6m SGS"** cho quá nhiều sản phẩm (hàng loạt Score=3) gây nhàm; mỗi sản phẩm cần góc tiếp cận/nỗi đau khác biệt.
 
-- **Caption cần CTA tương tác (hỏi ngược / mời bình luận)**: Hầu hết video có Comments nhưng gần như không có Shares. Thêm CTA khuyến khích share (tag bạn hay rơi máy, lưu lại) để tăng điểm Shares nhân hệ số 5.
+- **TRÁNH hook chung chung không bối cảnh** kiểu "Điện thoại rơi hoài mỗi khi tuột tay?" (Score=3) — phải cụ thể hóa tình huống rơi (từ bàn, tầng 2, trong lúc quay video...).
+
+- **Công thức tối ưu đề xuất**: [Tình huống đau cụ thể] + [câu hỏi "bạn tin không?"/thách thức] + [1 thông số/bằng chứng mạnh] + [1 emoji] — ưu tiên áp dụng cho nhóm ốp lưng và kính cường lực.
