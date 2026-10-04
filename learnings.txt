@@ -1,15 +1,15 @@
-- **Mở hook bằng câu hỏi gây tò mò + cam kết ngược đời**: dạng "Ốp trong suốt mà iPhone vẫn khoe trọn màu gốc, bạn tin không? 🤔" (Score cao nhất=8) và "Túi khí chữ U + chống rơi 6m... an tâm mỗi lần lỡ tay!" (Score=7) cho tương tác tốt nhất — ưu tiên công thức này.
+- **Ưu tiên hook "nỗi đau cụ thể + con số/bằng chứng":** Các hook Score cao nhất (7đ) đều nêu tình huống thật ("rơi từ tầng 2", "chạm chìa khóa trong túi") kèm thông số chứng minh ("túi khí chữ U + chống rơi 6m SGS", "độ cứng 9H") — luôn gắn pain point với một dẫn chứng kỹ thuật đo lường được.
 
-- **Chạm nỗi đau cụ thể theo tình huống đời thường**: "Ngồi cafe, đi metro mà sợ người bên cạnh liếc màn hình?" (Score=5-6) hiệu quả vì gắn bối cảnh thật; nên gắn feature với ngữ cảnh sử dụng cụ thể (metro, cafe, rơi từ bàn/tầng 2).
+- **Nhóm sản phẩm bảo vệ (kính cường lực, chống nhìn trộm, ốp chống rơi cao cấp) hút tương tác nhất:** Nhấn mạnh yếu tố "chống chói/chống nhìn trộm" (góc nhìn 28°) và "chống rơi 6m" vì đây là các hook đạt Score 6-7.
 
-- **Nêu thông số/bằng chứng mạnh làm điểm nhấn**: "góc nhìn 28°", "cứng như đá quý 💎", "chuẩn SGS", "túi khí chữ U" giúp tăng reaction — luôn chèn 1 con số hoặc tiêu chuẩn kiểm định cụ thể.
+- **Dùng tình huống đời thường + câu hỏi đồng cảm:** "Ngồi cafe, đi metro mà sợ người bên cạnh liếc màn hình?" và "Màn hình xước chỉ vì chạm chìa khóa?" tạo kết nối mạnh — mở đầu bằng bối cảnh quen thuộc trước khi chốt giải pháp.
 
-- **Dùng tối đa 1 emoji đắt giá cuối hook** (🤔 🤯 💎 ⚡) để nhấn cảm xúc, tránh lạm dụng nhiều emoji cùng lúc.
+- **Tránh hook "bạn tin không?" chung chung:** Các hook dùng mô-típ này đạt Score thấp (3đ) vì thiếu cảm xúc và bằng chứng — bỏ công thức hoài nghi sáo mòn, thay bằng con số hoặc tình huống cụ thể.
 
-- **TRÁNH hook công năng khô khan, không có câu hỏi/nỗi đau**: "Ốp cùng màu iPhone, sạc MagSafe không cần tháo", "Sạc 2 thiết bị cùng lúc nhỏ gọn" đều Score=3 (thấp nhất) — không viết hook chỉ liệt kê tính năng.
+- **Tránh hook thiên về tính năng/tiện ích phụ (sạc nhanh, túi đựng phụ kiện, ốp cùng màu, MagSafe):** Nhóm này chỉ đạt Score 3 — nếu buộc viết, hãy chuyển sang góc "nỗi lo mất mát/hỏng hóc" thay vì chỉ liệt kê đặc điểm.
 
-- **TRÁNH lặp lại rập khuôn cùng một mẫu "chống rơi 4m/6m SGS"** cho quá nhiều sản phẩm (hàng loạt Score=3) gây nhàm; mỗi sản phẩm cần góc tiếp cận/nỗi đau khác biệt.
+- **Feature bullets nên là thông số chứng nhận, không phải mô tả cảm tính:** Ưu tiên "chuẩn SGS", "độ cứng 9H", "góc nhìn 28°", "chống rơi 6m" — con số cụ thể tạo độ tin và tương tác cao hơn từ ngữ hoa mỹ.
 
-- **TRÁNH hook chung chung không bối cảnh** kiểu "Điện thoại rơi hoài mỗi khi tuột tay?" (Score=3) — phải cụ thể hóa tình huống rơi (từ bàn, tầng 2, trong lúc quay video...).
+- **Hạn chế lạm dụng emoji 💎 🤯:** Các hook Score thấp dùng nhiều emoji trang trí mà thiếu nội dung; chỉ giữ 1 emoji nhấn mạnh đúng thông điệp (⚡ cho tốc độ, 👀 cho riêng tư).
 
-- **Công thức tối ưu đề xuất**: [Tình huống đau cụ thể] + [câu hỏi "bạn tin không?"/thách thức] + [1 thông số/bằng chứng mạnh] + [1 emoji] — ưu tiên áp dụng cho nhóm ốp lưng và kính cường lực.
+- **Caption nên mở bằng câu hỏi pain point → chèn 1-2 bằng chứng kỹ thuật → kết bằng CTA nhẹ:** Cấu trúc này khớp với các
