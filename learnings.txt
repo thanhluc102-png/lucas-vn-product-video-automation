@@ -1,15 +1,15 @@
-- **Ưu tiên hook "nỗi đau cụ thể + con số/bằng chứng":** Các hook Score cao nhất (7đ) đều nêu tình huống thật ("rơi từ tầng 2", "chạm chìa khóa trong túi") kèm thông số chứng minh ("túi khí chữ U + chống rơi 6m SGS", "độ cứng 9H") — luôn gắn pain point với một dẫn chứng kỹ thuật đo lường được.
+- **Dùng con số cụ thể gây sốc trong hook** (9H, góc nhìn 28°, chống rơi 6M): các video Score cao nhất (7 điểm) đều có thông số rõ ràng + lợi ích chống trộm/chống xước — ưu tiên format "vấn đề + con số chứng minh".
 
-- **Nhóm sản phẩm bảo vệ (kính cường lực, chống nhìn trộm, ốp chống rơi cao cấp) hút tương tác nhất:** Nhấn mạnh yếu tố "chống chói/chống nhìn trộm" (góc nhìn 28°) và "chống rơi 6m" vì đây là các hook đạt Score 6-7.
+- **Nhắm nỗi đau đời thường + riêng tư** (sợ người liếc màn hình, xước vì chìa khóa) tạo tương tác tốt hơn hẳn; nên mở hook bằng tình huống quen thuộc khiến người đọc "thấy mình trong đó".
 
-- **Dùng tình huống đời thường + câu hỏi đồng cảm:** "Ngồi cafe, đi metro mà sợ người bên cạnh liếc màn hình?" và "Màn hình xước chỉ vì chạm chìa khóa?" tạo kết nối mạnh — mở đầu bằng bối cảnh quen thuộc trước khi chốt giải pháp.
+- **Kính cường lực chống nhìn trộm & chống xước** là nhóm sản phẩm hiệu quả nhất; khi viết nên nhấn mạnh quyền riêng tư và bảo vệ màn hình.
 
-- **Tránh hook "bạn tin không?" chung chung:** Các hook dùng mô-típ này đạt Score thấp (3đ) vì thiếu cảm xúc và bằng chứng — bỏ công thức hoài nghi sáo mòn, thay bằng con số hoặc tình huống cụ thể.
+- **Tránh hook chung chung về chống rơi lặp lại** ("rơi hoài tuột tay", "tim rớt theo", "rơi từ tầng 2"): nhóm ốp chống rơi đa số chỉ đạt Score=3, bị trùng ý và nhàm.
 
-- **Tránh hook thiên về tính năng/tiện ích phụ (sạc nhanh, túi đựng phụ kiện, ốp cùng màu, MagSafe):** Nhóm này chỉ đạt Score 3 — nếu buộc viết, hãy chuyển sang góc "nỗi lo mất mát/hỏng hóc" thay vì chỉ liệt kê đặc điểm.
+- **Tránh hook thiên về tính năng khô khan** (sạc MagSafe không cần tháo, túi đựng phụ kiện gọn): tương tác thấp nhất vì thiếu cảm xúc và con số thuyết phục.
 
-- **Feature bullets nên là thông số chứng nhận, không phải mô tả cảm tính:** Ưu tiên "chuẩn SGS", "độ cứng 9H", "góc nhìn 28°", "chống rơi 6m" — con số cụ thể tạo độ tin và tương tác cao hơn từ ngữ hoa mỹ.
+- **Hạn chế lạm dụng emoji 💎🤯** và câu hỏi tu từ "bạn tin không?": xuất hiện nhiều ở video Score thấp, không còn tạo khác biệt.
 
-- **Hạn chế lạm dụng emoji 💎 🤯:** Các hook Score thấp dùng nhiều emoji trang trí mà thiếu nội dung; chỉ giữ 1 emoji nhấn mạnh đúng thông điệp (⚡ cho tốc độ, 👀 cho riêng tư).
+- **Feature bullets nên gắn chuẩn kiểm định cụ thể** (SGS, chuẩn quân đội, độ cứng 9H, túi khí chữ U) thay vì nói "an tâm", "bảo vệ tối đa" chung chung.
 
-- **Caption nên mở bằng câu hỏi pain point → chèn 1-2 bằng chứng kỹ thuật → kết bằng CTA nhẹ:** Cấu trúc này khớp với các
+- **Caption nên đẩy comment** (câu hỏi lựa chọn, mời bình luận mẫu máy): tất cả video đều có ít nhất 1 comment, đây là đòn bẩy Score chính vì Shares đang = 0.
