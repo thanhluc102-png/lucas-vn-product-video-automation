@@ -1,13 +1,15 @@
-- **Ưu tiên công thức "Nỗi sợ cụ thể → Giải pháp bằng số liệu":** Các hook điểm cao nhất (Score 7) đều mô tả tình huống rủi ro thật (rơi từ tầng 2, chạm chìa khóa trong túi) rồi chốt bằng thông số kỹ thuật (túi khí chữ U + chống rơi 6m, độ cứng 9H).
+- **Ưu tiên hook kịch bản "nỗi sợ cụ thể + hậu quả"**: mô tả tình huống đời thường gây mất mát (rơi máy từ tầng 2, chìa khóa làm xước màn, người lạ liếc màn hình) rồi chốt bằng thông số bảo vệ mạnh (chống rơi 6M, túi khí chữ U, độ cứng 9H, góc nhìn 28°) — nhóm này đạt Score cao nhất (7).
 
-- **Nhấn mạnh tính năng chống nhìn trộm với góc nhìn cụ thể:** Hook nêu con số "góc nhìn 28° khoá lại" đạt Score 6 — luôn gắn số đo/tiêu chuẩn (SGS, 9H, 4M, 28°) vào feature bullets thay vì nói chung chung.
+- **Dùng câu hỏi tu từ đánh trúng tâm lý người dùng** ("sợ người bên cạnh liếc màn hình?", "tim rớt theo khi tuột tay?") để kích comment — các hook dạng câu hỏi luôn có Comments ≥ 1.
 
-- **Tạo tương tác bằng câu hỏi khơi gợi + emoji chọn lọc:** Hook dùng câu hỏi trực diện ("bạn tin không? 🤯", "👀", "💎") kết hợp bối cảnh đời thường (cafe, metro, balo) giúp tăng reactions/comments.
+- **Nêu thông số/chứng nhận đáng tin ngay trong hook** (chuẩn SGS, 9H, 10000mAh, 360°) để tăng độ thuyết phục; kết hợp emoji cảm xúc mạnh (💎🤯🔋) đúng 1 emoji/câu.
 
-- **Tránh hook lặp lại rập khuôn:** Nhiều mẫu ốp WiWU chống rơi dùng chung mô-típ "Lỡ tay rơi iPhone" chỉ đạt Score 3 do trùng lặp; cần đa dạng tình huống và lợi ích riêng từng sản phẩm.
+- **Tránh hook chung chung, thiếu nỗi đau rõ ràng** (kiểu "ốp cùng màu iPhone, sạc MagSafe không cần tháo", "tai nghe cáp sạc lộn tung trong balo") — các hook thiên về tiện ích nhẹ chỉ đạt Score 3.
 
-- **Tránh sai lệch thông số trong hook:** Ốp quảng cáo "chống rơi 6m/tầng 2" nhưng viết nhầm "chịu rơi 4m" làm giảm độ tin cậy — luôn khớp con số với đúng sản phẩm.
+- **Tránh trùng lặp hook giữa nhiều sản phẩm cùng dòng** (nhiều ốp WiWU chống rơi dùng chung mô-típ "rơi từ tầng 2/4m") gây loãng, Score tụt xuống 3; mỗi sản phẩm cần một tình huống hoặc điểm nhấn riêng.
 
-- **Hạn chế hook mô tả tiện ích nhạt, thiếu kịch tính:** Các hook kiểu "cùng màu iPhone", "sạc MagSafe không cần tháo", "gọn hơn" chỉ đạt Score 3 vì thiếu nỗi đau rõ ràng — cần gắn hậu quả cảm xúc mạnh.
+- **Hook cho kính/case nên nhấn mảng "quyền riêng tư" và "chống rơi cấp độ cao"** vì đây là 2 chủ đề tạo tương tác tốt nhất; đẩy thông số bảo vệ cao nhất (6M > 4M) lên đầu để nổi bật.
 
-- **Mỗi hook nên có 1 nỗi đau + 1 bằng chứng mạnh + 1 emoji điểm nhấn:** Giữ câu ngắn, 2 vế, kết bằng thông số hoặc cam kết (chuẩn SGS, 9H) để tối ưu điểm tương tác.
+- **Caption nên mở bằng 1 câu hỏi nỗi đau, giữa là 2–3 feature bullet dạng "thông số + lợi ích thực tế", cuối là 1 CTA kích bình luận** (hỏi size máy/màu) để duy trì Comments cao.
+
+- **Tránh hook phụ kiện lưu trữ/pin viết nhạt** (túi đựng, pin dự phòng) — cần thêm tình huống bất tiện cụ thể + con số gây ấn tượng thay vì mô tả tính năng khô khan.
