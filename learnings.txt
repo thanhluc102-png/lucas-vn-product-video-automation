@@ -1,15 +1,8 @@
-- **Dùng công thức hook "nỗi đau cụ thể + giải pháp số liệu chốt mạnh":** các hook đạt điểm cao nhất (Score 7) đều mở bằng tình huống đời thực ("làm rơi iPhone", "màn hình xước vì chìa khóa") rồi chốt bằng thông số thuyết phục ("túi khí chữ U + chống rơi 6m", "độ cứng 9H nói không với trầy xước").
-
-- **Ưu tiên nhóm sản phẩm bảo vệ có cảm xúc lo lắng rõ ràng:** ốp chống rơi (AeroShield Pro) và kính cường lực chống xước (MIPOW IRONBULL 3D) tương tác tốt nhất — nhấn mạnh yếu tố "mất mát/hư hỏng tài sản" để kích comment.
-
-- **Chèn emoji có chủ đích (💎🔋👀) ở cuối hook:** các hook điểm cao thường có 1 emoji minh họa giá trị; tránh lạm dụng nhiều emoji gây loãng.
-
-- **Tận dụng câu hỏi tu từ đánh vào tâm lý "sợ mất/sợ bị nhìn":** dạng "Lỡ tay rơi...?", "Sợ người bên cạnh liếc màn hình?" tạo tò mò và kích phản hồi tốt hơn câu kể trần thuật.
-
-- **Tránh hook thiên về tính năng kỹ thuật khô khan, thiếu nỗi đau:** các hook chỉ nêu đặc điểm ("Ốp cùng màu iPhone, sạc MagSafe không cần tháo", "10000mAh nạp đầy nhiều lần") đều tương tác thấp (Score 3).
-
-- **Tránh hook bị trùng lặp mô-típ giữa nhiều sản phẩm:** nhiều ốp chống rơi dùng gần như cùng một hook "Lỡ tay rơi iPhone..." khiến tương tác bão hòa, điểm thấp — cần biến tấu tình huống khác nhau.
-
-- **Luôn kết thúc caption bằng câu hỏi hoặc lời mời phản hồi để tăng Comment:** vì Comment nhân hệ số 3 và Share hiếm xảy ra (Shares=0 toàn bộ dữ liệu), nên tối ưu hook/caption hướng vào kích bình luận là đòn bẩy điểm lớn nhất.
-
-- **Dùng từ ngữ gợi hình ảnh thiệt hại tức thì ("tim rớt theo", "rơi tung trong balo"):** tăng tính đồng cảm, nhưng phải đi kèm giải pháp số liệu ngay sau đó mới giữ được tương tác cao.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + hệ quả cảm xúc** (VD: "Tuột tay rơi máy là tim rớt theo?", "Màn hình xước chỉ vì chạm chìa khóa?"): đây là công thức cho điểm cao nhất (Score 7).
+- **Thêm bằng chứng/thông số gây sốc ngay sau nỗi đau** (chống rơi 6M + túi khí chữ U, độ cứng 9H, chuẩn SGS): cặp "nỗi đau + con số chứng minh" tạo tương tác tốt nhất, ưu tiên nhóm ốp chống rơi cao (6M) và kính cường lực chống xước.
+- **Dùng yếu tố tò mò/thách thức người đọc** ("bạn tin không? 🤯", "Làm rơi iPhone từ tầng 2 mà máy vẫn ok?"): kích comment, nên giữ.
+- **Giữ emoji có chủ đích (👀 🤯 💎 🔋) đặt cuối câu hook**, tối đa 1–2 emoji, tránh lạm dụng.
+- **Tránh hook chỉ liệt kê tính năng khô khan không có nỗi đau** ("Ốp cùng màu iPhone, sạc MagSafe", "10000mAh nạp đầy nhiều lần"): các hook này cho điểm thấp (Score 3), luôn gắn tính năng vào một tình huống bực bội thực tế.
+- **Tránh lặp lại hook y hệt cho cùng sản phẩm**; khi viết lại hãy đổi góc nỗi đau (VD túi phụ kiện: bản "rơi tung mỗi lần tìm" Score 5 > bản chung chung Score 3).
+- **Hạn chế hook nhấn mạnh thông số "4M" mà thiếu kịch tính** (loạt ốp 4M đều Score 3); nếu dùng, phải kèm tình huống rơi cụ thể và cảm xúc mạnh như bản 6M.
+- **Caption/feature bullet nên mở đầu bằng vấn đề người dùng gặp, sau đó mới nêu giải pháp + số liệu**, kết bằng câu hỏi hoặc thách thức để đẩy comment/share.
