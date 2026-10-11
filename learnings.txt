@@ -1,15 +1,13 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + hệ quả cảm xúc** (VD: "Tuột tay rơi máy là tim rớt theo?", "sợ người bên cạnh liếc màn hình?") — đây là dạng cho điểm cao nhất (Score 7), luôn đưa pain point lên đầu câu.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + emoji**: Các hook điểm cao nhất (Score 7) đều bắt đầu bằng tình huống đời thường gây khó chịu ("Túi khí chữ U + chống rơi 6m...", "Màn hình xước nhẹ chỉ vì chạm chìa khóa...") — ưu tiên mô tả rủi ro/bực bội rồi mới dẫn tính năng.
 
-- **Ưu tiên nhóm sản phẩm bảo vệ có thông số gây shock**: ốp chống rơi (6M/túi khí chữ U), kính chống nhìn trộm, kính 9H — gắn kèm 1 con số/chuẩn cụ thể (6m, 9H, SGS) ngay trong hook để tăng độ tin và tò mò.
+- **Nhấn mạnh con số + tiêu chuẩn kỹ thuật đáng tin**: Hook mạnh dùng số liệu cụ thể và chứng nhận ("6m đạt chuẩn SGS", "độ cứng 9H") thay vì nói chung chung — luôn chèn ít nhất 1 thông số định lượng.
 
-- **Dùng yếu tố kích thích tương tác/phản biện** như "bạn tin không? 🤯", "mà máy vẫn ok?" để mời người xem comment — các hook này kéo được Comments (trọng số x3) tốt hơn.
+- **Chủ đề chống rơi (Case WiWU) và chống xước (kính MIPOW 9H) cho tương tác tốt nhất** — ưu tiên khai thác góc "bảo vệ máy khỏi tai nạn hàng ngày" cho nhóm sản phẩm này.
 
-- **Tối đa 1 emoji đặt cuối hook** (👀 💎 🔋 🤯 📱), không rải nhiều emoji; emoji nên khớp ngữ cảnh sản phẩm.
+- **Tránh lặp lại y hệt một hook cho cùng sản phẩm**: Túi YOYOISLES bị viết lại 5 lần gần giống nhau ("tai nghe, cáp sạc rơi tung trong balo") → điểm thấp và bão hòa; mỗi biến thể cần đổi góc nhìn (tiết kiệm thời gian, gọn gàng, du lịch...) chứ không chỉ đổi vài từ.
 
-- **Feature bullets viết dạng lợi ích thực tế đời thường** (đi cafe, đi metro, lục balo, rơi từ tầng 2) thay vì liệt kê thông số khô khan.
+- **Hook kết thúc bằng khẳng định giải pháp mạnh hiệu quả hơn câu hỏi hoài nghi**: "Kính 9H này xử lý gọn!" / "Miếng kính này khoá lại!" tốt hơn kiểu "...bạn tin không? 🤯" (tạo nghi ngờ, điểm thấp).
 
-- **Cần tránh hook chung chung chỉ mô tả tính năng** ("Ốp cùng màu iPhone, sạc MagSafe không cần tháo", "10000mAh nạp đầy nhiều lần") — dạng thuần feature này chỉ đạt Score 3.
+- **Dùng tối đa 1 emoji đặt cuối hook**: Các hook điểm cao dùng emoji tiết chế (💎, 🔋); tránh emoji gây hoang mang như 🤯 giữa câu.
 
-- **Tránh viết lại gần như trùng lặp cho cùng 1 sản phẩm** (túi YOYOISLES bị lặp hook "rơi tung trong balo" → đa số Score 3); mỗi lần phải đổi góc pain point mới để không bão hòa.
-
-- **Mục tiêu tối ưu theo trọng số Score**: đẩy mạnh Comments và Shares (x3, x5) bằng câu hỏi mời tương tác + nội dung đáng chia sẻ, thay vì chỉ cầu Reactions.
+- **Viết feature bullets dạng "vấn đề → giải pháp → con số"**: Mỗi bullet nêu 1 lợi ích rõ ràng kèm thông số, tránh liệt kê tính năng khô khan không gắn với nhu cầu người dùng.
