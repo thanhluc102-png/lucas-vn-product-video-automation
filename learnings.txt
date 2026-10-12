@@ -1,13 +1,8 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + emoji**: Các hook điểm cao nhất (Score 7) đều bắt đầu bằng tình huống đời thường gây khó chịu ("Túi khí chữ U + chống rơi 6m...", "Màn hình xước nhẹ chỉ vì chạm chìa khóa...") — ưu tiên mô tả rủi ro/bực bội rồi mới dẫn tính năng.
-
-- **Nhấn mạnh con số + tiêu chuẩn kỹ thuật đáng tin**: Hook mạnh dùng số liệu cụ thể và chứng nhận ("6m đạt chuẩn SGS", "độ cứng 9H") thay vì nói chung chung — luôn chèn ít nhất 1 thông số định lượng.
-
-- **Chủ đề chống rơi (Case WiWU) và chống xước (kính MIPOW 9H) cho tương tác tốt nhất** — ưu tiên khai thác góc "bảo vệ máy khỏi tai nạn hàng ngày" cho nhóm sản phẩm này.
-
-- **Tránh lặp lại y hệt một hook cho cùng sản phẩm**: Túi YOYOISLES bị viết lại 5 lần gần giống nhau ("tai nghe, cáp sạc rơi tung trong balo") → điểm thấp và bão hòa; mỗi biến thể cần đổi góc nhìn (tiết kiệm thời gian, gọn gàng, du lịch...) chứ không chỉ đổi vài từ.
-
-- **Hook kết thúc bằng khẳng định giải pháp mạnh hiệu quả hơn câu hỏi hoài nghi**: "Kính 9H này xử lý gọn!" / "Miếng kính này khoá lại!" tốt hơn kiểu "...bạn tin không? 🤯" (tạo nghi ngờ, điểm thấp).
-
-- **Dùng tối đa 1 emoji đặt cuối hook**: Các hook điểm cao dùng emoji tiết chế (💎, 🔋); tránh emoji gây hoang mang như 🤯 giữa câu.
-
-- **Viết feature bullets dạng "vấn đề → giải pháp → con số"**: Mỗi bullet nêu 1 lợi ích rõ ràng kèm thông số, tránh liệt kê tính năng khô khan không gắn với nhu cầu người dùng.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể** (VD: "Màn hình xước chỉ vì chạm chìa khóa?", "Túi khí chữ U + chống rơi 6m?"): dạng này đạt Score cao nhất (7 điểm), luôn ưu tiên.
+- **Nêu thông số/chứng nhận rõ ràng ngay trong hook** (9H, chống rơi 6m, chuẩn SGS, 10000mAh): tăng comment mạnh, luôn chèn ít nhất 1 con số cụ thể vào hook và feature bullets.
+- **Dòng sản phẩm hiệu quả nhất**: kính cường lực MIPOW/HODA và ốp chống sốc WiWU — khai thác góc "bảo vệ máy khỏi trầy/rơi", tập trung nội dung vào nhóm này.
+- **Với sản phẩm túi phụ kiện YOYOISLES**: biến thể "rơi tung trong balo mỗi lần tìm" + emoji 🤯 cho Score tốt hơn (5), tránh viết cụt lủn kiểu "rơi tung mỗi lần lục balo?" (chỉ 3).
+- **Tránh**: hook quá dài, lan man, nhiều ý (như hook chống nhìn trộm dài dòng chỉ đạt Score thấp dù Reactions có); ưu tiên 1 nỗi đau — 1 giải pháp — 1 con số.
+- **Tránh lạm dụng emoji 💎📱**: chúng xuất hiện nhiều ở các hook Score thấp (3); dùng emoji gợi cảm xúc/bất ngờ (🤯👀🔋) đúng ngữ cảnh thay vì emoji trang trí.
+- **Caption nên kết bằng CTA khuyến khích bình luận** (hỏi "bạn tin không?", "có cách gọn hơn") vì comment nhân hệ số 3 — đòn bẩy điểm cao nhất khi share gần như bằng 0.
+- **Ưu tiên tạo cảm giác bất ngờ/thách thức** ("Làm rơi iPhone từ tầng 2 mà máy vẫn ok?") để kích reaction + comment, thay vì mô tả tính năng khô khan.
