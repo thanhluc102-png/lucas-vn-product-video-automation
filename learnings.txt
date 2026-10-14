@@ -1,7 +1,13 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + tình huống đời thường** (làm rơi iPhone, màn xước vì chìa khóa, đồ rối tung trong balo): đây là nhóm Score cao nhất (5–7), luôn ưu tiên công thức này.
-- **Nêu ngay con số/bằng chứng mạnh trong hook** (chống rơi 6m chuẩn SGS, độ cứng 9H, túi khí chữ U, 10000mAh): các hook có số liệu cụ thể tương tác tốt hơn hook chung chung.
-- **Sản phẩm mạnh về tương tác: Ốp chống rơi WiWU AeroShield, Kính cường lực MIPOW IRONBULL, Túi phụ kiện YOYOISLES** — nên khai thác nhiều biến thể hook cho nhóm này.
-- **Dùng emoji chọn lọc, đúng ngữ cảnh (💎 📱 🔋 🤯)**: hook có emoji "sốc/đắt giá" đạt Score cao hơn hook không emoji.
-- **Tránh viết lại kiểu rút gọn lặp từ gần như y hệt** (nhiều biến thể YOYOISLES "rơi tung trong balo" bị trùng ý chỉ đạt Score=3): mỗi lần viết lại phải đổi góc tiếp cận (tình huống, lợi ích, cảm xúc) chứ không chỉ cắt bớt chữ.
-- **Tránh hook thiên về tính năng khô khan, thiếu nỗi đau** (ốp cùng màu iPhone, sạc MagSafe không cần tháo): nhóm này tương tác yếu (Score=3).
-- **Giữ hook ngắn 1 câu, kết bằng dấu "?" hoặc "!" tạo kịch tính** và chèn ngay giải pháp/con số liền sau để giữ nhịp.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + hệ quả tức thì**: dạng "Màn hình xước chỉ vì chạm chìa khóa trong túi?", "Làm rơi iPhone từ tầng 2 mà máy vẫn ok?" cho điểm cao nhất (Score 5–7); luôn nêu tình huống thường gặp người dùng dễ tự nhận ra.
+
+- **Ưu tiên nhóm sản phẩm bảo vệ thiết bị (kính cường lực, ốp chống rơi)**: Kính MIPOW IRONBULL đạt tương tác tốt nhất; nhấn mạnh số liệu thuyết phục (độ cứng 9H, chịu rơi 4–6m, túi khí chữ U) ngay trong hook.
+
+- **Chèn feature bullet dạng "con số + lợi ích"**: ví dụ "9H chặn ngay", "10000mAh nạp đầy nhiều lần", "chống rơi 6m" — số liệu cụ thể giúp tăng reaction/comment.
+
+- **Với sản phẩm phụ kiện (túi YOYOISLES)**: bản viết lại thêm động từ mạnh "lục", "rối tung" + emoji 👀 nhỉnh hơn bản gốc; tránh lặp lại gần như y hệt nhiều lần vì bản trùng lặp bị tụt tương tác (Score 3).
+
+- **Giữ 1 emoji điểm nhấn cuối hook** (💎 🔋 📱 👀) để tăng chú ý, không lạm dụng quá 1 emoji mỗi câu.
+
+- **Tránh**: hook chung chung chỉ mô tả tính năng khô khan ("Ốp cùng màu iPhone, sạc MagSafe"), hook quá dài kể lể cảm xúc ("nhìn mà mỏi mắt chảy nước mắt") và các biến thể gần trùng nội dung — đều rơi về Score 3.
+
+- **Công thức tối ưu cho hook tiếp theo**: [Câu hỏi nỗi đau cụ thể] + [số liệu/giải pháp mạnh] + [1 emoji], độ dài 1–2 dòng ngắn gọn.
