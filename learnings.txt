@@ -1,15 +1,15 @@
-- **Hook hiệu quả nhất = câu hỏi "pain point" cụ thể + cảm xúc mạnh**: điểm cao nhất (Score=7) thuộc kính cường lực với công thức "tình huống xước cụ thể (chạm chìa khóa) + lợi ích số liệu (độ cứng 9H) + emoji 💎"; luôn mở bằng câu hỏi chạm đúng nỗi đau người dùng.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + tình huống đời thường**: điểm cao nhất rơi vào hook nêu vấn đề rõ ("Màn hình xước nhẹ chỉ vì chạm chìa khóa trong túi?", Score=7) — ưu tiên mô tả sự cố thật người dùng hay gặp.
 
-- **Ưu tiên cụm sản phẩm kính cường lực và túi đựng phụ kiện**: đây là nhóm tạo tương tác ổn định và cao nhất; viết hook xoay quanh tình huống đời thường gây khó chịu (xước màn, đồ lộn xộn trong balo).
+- **Nêu ngay giải pháp/thông số thuyết phục sau câu hỏi**: hook mạnh đi kèm con số hoặc tính năng cụ thể ("Độ cứng 9H", "10000mAh", "sạc MagSafe mà không cần tháo ra") tạo lý do tin tưởng tức thì.
 
-- **Chốt lợi ích bằng con số + độ cứng/dung lượng rõ ràng** (vd: "9H", "chịu rơi 4m", "10000mAh") ngay trong hook và feature bullets để tăng độ thuyết phục.
+- **Sản phẩm kính cường lực và túi phụ kiện (YOYOISLES) cho tương tác ổn định nhất**: tập trung khai thác nhóm "bảo vệ thiết bị" và "sắp xếp gọn gàng" vì chạm đúng nhu cầu phổ biến.
 
-- **Dùng emoji chọn lọc, đúng ngữ cảnh** (💎 sang trọng, 🔋 pin, 👀🤯 nhấn khó chịu); emoji giúp hook nổi bật nhưng không lạm dụng quá 1–2 cái/câu.
+- **Dùng emoji có chủ đích (💎 🔋 📱 👀) đặt cuối hook**: các hook điểm cao đều có emoji liên quan trực tiếp đến lợi ích; tránh lạm dụng emoji chỉ để trang trí.
 
-- **Tránh hook chung chung, lặp lại y hệt**: các biến thể túi YOYOISLES gần giống nhau ("rơi tung trong balo") đều chỉ đạt Score=3–4; mỗi hook cần góc tiếp cận hoặc tình huống mới để không bão hòa.
+- **Tránh viết lại kiểu "lặp nguyên văn, chỉ đổi vài chữ"**: các biến thể gần giống nhau của túi YOYOISLES ("rơi tung trong balo", "lục balo tìm") đều tụt về Score=3 — mỗi lần phải đổi góc nhìn/ngữ cảnh mới, không xào lại cùng một ý.
 
-- **Tránh hook thiếu yếu tố gây sốc/định lượng**: các hook chỉ nêu vấn đề mà không kèm giải pháp số liệu hoặc cảm xúc mạnh thường chỉ đạt Score=3.
+- **Tránh hook mô tả nỗi đau quá nhẹ hoặc cường điệu lố** ("chảy nước mắt", "chìm trong túi"): các hook phóng đại hoặc mơ hồ đều cho Score thấp (3); giữ nỗi đau thực tế, dễ đồng cảm.
 
-- **Caption nên gồm 3 tầng**: (1) câu hook pain-point dạng câu hỏi, (2) feature bullet ngắn kèm số liệu/lợi ích cốt lõi, (3) CTA nhẹ + emoji; giữ câu ngắn, dễ đọc trên Reels.
+- **Giữ feature bullets ngắn, mỗi dòng 1 lợi ích gắn với thông số** (độ cứng 9H, dung lượng, tương thích MagSafe) thay vì liệt kê đặc điểm chung chung.
 
-- **Ưu tiên biến thể có "giải pháp tức thì"** ("xử lý gọn!", "chặn ngay!", "nói không với trầy xước!") vì các hook có vế giải pháp dứt khoát cho điểm nhỉnh hơn hook chỉ mô tả vấn đề.
+- **Caption nên lặp lại câu hỏi "nỗi đau" ở đầu + chèn 1 thông số nổi bật + 1 CTA rõ ràng**, kết thúc bằng 1 emoji phù hợp để tối ưu reactions/comments.
