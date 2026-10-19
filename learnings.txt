@@ -1,15 +1,8 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + con số/thông số mạnh**: các hook điểm cao nhất đều nêu vấn đề rõ ("Màn hình xước vì chạm chìa khóa", "độ cứng 9H", "10000mAh") → ưu tiên công thức *Nỗi đau cụ thể → Giải pháp kèm thông số*.
-
-- **Nhóm sản phẩm kính cường lực & túi phụ kiện cho tương tác tốt nhất** (Score 5–7): tập trung khai thác mạnh, biến thể hook xoay quanh tình huống đời thường gây khó chịu (rơi đồ, trầy xước, lục balo).
-
-- **Dùng emoji đắt giá, chọn lọc 1 cái cuối câu** (💎 🔋 🤯) thay vì lặp lại 👀: emoji mới lạ + đúng ngữ cảnh (💎 cho kính, 🔋 cho pin) nhỉnh hơn emoji chung chung.
-
-- **Giữ hook ngắn, 1 câu hỏi + 1 câu khẳng định giải pháp**: ví dụ mẫu đạt điểm cao "...chạm chìa khóa trong túi? Độ cứng 9H nói không với trầy xước!".
-
-- **Tránh viết lại gần giống nhau hàng loạt**: 6 biến thể MacBook và 4 biến thể túi chỉ đổi vài từ đều tụt về Score 3–4 → mỗi lần viết phải đổi *góc nhìn/tình huống* chứ không đổi từ ngữ.
-
-- **Tránh emoji 👀 lặp lại và hook mơ hồ thiếu thông số** (các hook Score=3 thường thiếu con số, thiếu giải pháp rõ hoặc dùng 👀 mòn).
-
-- **Luôn nhét ít nhất 1 lợi ích định lượng vào bullet/caption** (9H, 10000mAh, MagSafe không cần tháo) để tăng độ thuyết phục và kích comment.
-
-- **Thêm CTA/câu gợi tương tác cuối caption** (hỏi ngược người xem) nhằm đẩy Comments và Shares — hai yếu tố có trọng số cao nhất (×3, ×5), vốn đang gần như bằng 0.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + con số/thông số mạnh**: hook điểm cao nhất (Score=7) dùng "Độ cứng 9H nói không với trầy xước!" — nêu rõ thông số kỹ thuật thay vì mô tả chung chung.
+- **Ưu tiên nhóm sản phẩm tương tác tốt**: Kính cường lực (đặc biệt bản 3D Silk Premium) và Túi phụ kiện YOYOISLES là 2 dòng cho điểm cao nhất; nên đẩy mạnh và biến tấu hook cho 2 nhóm này.
+- **Chốt hook bằng lời giải pháp dứt khoát + emoji đắt giá**: các hook mạnh đều kết thúc bằng cụm "xử lý gọn!/nói không với.../chặn ngay!" kèm emoji 💎🔋 — tạo cảm giác quyết đoán, đáng tin.
+- **Giữ hook ngắn, cụ thể hóa bối cảnh đời thường**: "chạm chìa khóa trong túi", "lục balo mãi mới thấy" giúp người xem tự nhận ra mình; tránh câu dài dòng lan man.
+- **Tránh lặp lại hook gần như y hệt cho cùng sản phẩm**: các biến thể YOYOISLES/MacBook na ná nhau ("rơi tung trong balo") khiến tương tác giảm dần (Score tụt về 3); mỗi lần viết lại phải đổi góc nhìn/lợi ích thật sự khác.
+- **Hạn chế hook chỉ nêu vấn đề mà thiếu giải pháp hoặc thông số**: các hook điểm thấp (Score=3) thường bỏ lửng phần "giải pháp" hoặc không nhắc lợi ích cụ thể — luôn thêm vế lợi ích/thông số ở cuối.
+- **Dán chống chói MacBook đang kém hiệu quả (phần lớn Score=3)**: cần đổi hướng khai thác (ví dụ bảo vệ mắt, tăng độ nét, chống vân tay) thay vì lặp mô típ "chói lóa mỏi mắt".
+- **Feature bullets & caption nên dẫn bằng 1 thông số nổi bật (9H, 10000mAh, AR triệt phản quang) + 1 tình huống dùng thực tế**, giữ tông ngắn gọn, mỗi bullet 1 lợi ích rõ ràng, kết bằng CTA hành động.
