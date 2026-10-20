@@ -1,8 +1,13 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + con số/thông số mạnh**: hook điểm cao nhất (Score=7) dùng "Độ cứng 9H nói không với trầy xước!" — nêu rõ thông số kỹ thuật thay vì mô tả chung chung.
-- **Ưu tiên nhóm sản phẩm tương tác tốt**: Kính cường lực (đặc biệt bản 3D Silk Premium) và Túi phụ kiện YOYOISLES là 2 dòng cho điểm cao nhất; nên đẩy mạnh và biến tấu hook cho 2 nhóm này.
-- **Chốt hook bằng lời giải pháp dứt khoát + emoji đắt giá**: các hook mạnh đều kết thúc bằng cụm "xử lý gọn!/nói không với.../chặn ngay!" kèm emoji 💎🔋 — tạo cảm giác quyết đoán, đáng tin.
-- **Giữ hook ngắn, cụ thể hóa bối cảnh đời thường**: "chạm chìa khóa trong túi", "lục balo mãi mới thấy" giúp người xem tự nhận ra mình; tránh câu dài dòng lan man.
-- **Tránh lặp lại hook gần như y hệt cho cùng sản phẩm**: các biến thể YOYOISLES/MacBook na ná nhau ("rơi tung trong balo") khiến tương tác giảm dần (Score tụt về 3); mỗi lần viết lại phải đổi góc nhìn/lợi ích thật sự khác.
-- **Hạn chế hook chỉ nêu vấn đề mà thiếu giải pháp hoặc thông số**: các hook điểm thấp (Score=3) thường bỏ lửng phần "giải pháp" hoặc không nhắc lợi ích cụ thể — luôn thêm vế lợi ích/thông số ở cuối.
-- **Dán chống chói MacBook đang kém hiệu quả (phần lớn Score=3)**: cần đổi hướng khai thác (ví dụ bảo vệ mắt, tăng độ nét, chống vân tay) thay vì lặp mô típ "chói lóa mỏi mắt".
-- **Feature bullets & caption nên dẫn bằng 1 thông số nổi bật (9H, 10000mAh, AR triệt phản quang) + 1 tình huống dùng thực tế**, giữ tông ngắn gọn, mỗi bullet 1 lợi ích rõ ràng, kết bằng CTA hành động.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + tình huống đời thường** (ví dụ: "Màn hình trầy xước vì chìa khóa trong túi?", "Lục balo mãi mới thấy tai nghe rối tung?") — dạng này đạt Score cao nhất (4–5).
+
+- **Ưu tiên ghép nhiều vật thể/chi tiết gần gũi vào 1 cảnh** (tai nghe + cáp sạc + chìa khóa) thay vì liệt kê chung chung — bản chi tiết (Score=5) thắng bản rút gọn (Score=3).
+
+- **Nên kèm ngay giải pháp/thông số thuyết phục sau nỗi đau** (ví dụ: "Kính 9H xử lý gọn!", "Độ trong >92% + chống trầy 4H") — giúp giữ Score 4–5.
+
+- **Dùng tối đa 1 emoji đặt cuối hook** (🔋👀💎) để tăng nhấn, không spam nhiều emoji hoặc đặt giữa câu.
+
+- **Tránh hook chỉ nêu nỗi đau mà bỏ lửng, không có giải pháp** (ví dụ: "...nhìn mà mỏi mắt chảy nước mắt?") — các bản này thường chỉ Score=3.
+
+- **Tránh viết lại lặp ý gần giống nhau cho cùng sản phẩm** (nhiều biến thể "màn chói lóa mỏi mắt" cho MacBook đều kẹt ở Score 3–4) — cần đổi góc tiếp cận, bối cảnh hoặc lợi ích mới.
+
+- **Caption/feature bullets nên nêu rõ công năng + con số định lượng** (10000mAh, 9H, >92%, 4H) để tạo độ tin và tương tác tốt hơn.
