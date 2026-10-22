@@ -1,7 +1,15 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể + hình ảnh đời thường** (trầy màn vì chìa khóa, lục balo rối tung, chói màn ngồi cạnh cửa sổ): các hook dạng này đạt Score cao nhất (4-5).
-- **Ưu tiên công thức: Vấn đề nhức nhối → giải pháp "xử lý gọn/tức thì"** kèm tên công nghệ hoặc thông số (9H, AR JRC, >92%, 4H) để tăng độ tin cậy và tương tác.
-- **Chèn 1 emoji gợi cảm xúc/liên quan** (🤯 👀 🔋 💎) ngay cuối hook; hook có emoji "pain" như 🤯 👀 nhỉnh hơn hook không emoji.
-- **Giữ hook ngắn, dồn trọng tâm vào 1 nỗi đau duy nhất**; biến thể "rõ ngữ cảnh + có giải pháp" (vd "Dán AR JRC xử lý gọn!") thắng biến thể chỉ nêu vấn đề chung chung.
-- **Tránh hook chỉ liệt kê thông số/feature khô khan ngay đầu** mà không gắn nỗi đau (vd mở bằng ">92% + chống trầy 4H") — tương tác thấp hơn.
-- **Tránh viết lại lặp ý quá giống nhau, bỏ bớt ngữ cảnh cụ thể** (vd "rơi tung mỗi lần lục balo tìm") vì rút gọn làm mất sức nặng, Score tụt xuống 3.
-- **Caption/feature bullets nên nhấn lợi ích cảm nxúc trước, thông số sau**, kết bằng CTA nhẹ; sản phẩm có nỗi đau trực quan (kính cường lực, túi phụ kiện, dán chống chói) hiệu quả hơn nhóm sạc/pin.
+- **Hook mạnh nhất = mô tả cảnh "lộn xộn/khó chịu" cụ thể + có Reactions**: hook kiểu "Lục balo mãi mới thấy tai nghe, cáp sạc rối tung?" (Score=4-5) thắng nhờ khắc họa tình huống đời thường rõ ràng, nên ưu tiên văn phong kể cảnh pain-point cụ thể thay vì câu hỏi chung chung.
+
+- **Nhóm sản phẩm hiệu quả nhất: Túi phụ kiện YOYOISLES và Dán chống chói MacBook** — đây là 2 dòng đạt tương tác cao nhất, nên khai thác tiếp với hook nhấn mạnh tình huống trực quan (lục tìm đồ, chói mắt bên cửa sổ).
+
+- **Chèn giải pháp + tên sản phẩm ngay trong hook giúp giữ Score cao**: ví dụ "Dán AR JRC xử lý gọn!" / "triệt phản quang tức thì" (Score=4) tốt hơn hook chỉ nêu vấn đề mà bỏ lửng giải pháp (Score=3).
+
+- **Hook nêu thông số kỹ thuật cụ thể cũng tạo tương tác tốt**: "Độ trong >92% + chống trầy 4H" (Score=4) → nên thêm 1 feature bullet dạng số liệu ấn tượng để tăng độ tin cậy.
+
+- **Tránh viết lại lặp ý gần giống nhau cho cùng sản phẩm**: các hook "chói lóa, mỏi mắt khi làm việc" lặp nhiều lần đều chỉ đạt Score=3 — cần đa dạng tình huống (nắng, đèn trần, cửa sổ, khách hàng đối diện) thay vì đổi vài từ.
+
+- **Hook mở đầu bằng tính năng khô khan, thiếu cảm xúc đạt điểm thấp**: như "10000mAh đủ nạp đầy nhiều lần" (Score=3) — nên bắt đầu bằng nỗi đau/khoảnh khắc trước, rồi mới nêu thông số.
+
+- **Emoji phù hợp ngữ cảnh hỗ trợ tương tác**: dùng 👀 (nhìn/tìm), 💎 (cao cấp), 🤯 (bực bội) đúng cảm xúc; mỗi hook chỉ 1 emoji cuối câu, không lạm dụng.
+
+- **Công thức hook tối ưu**: [Tình huống pain-point cụ thể, trực quan] + [câu hỏi khơi bực bội] + [giải pháp + tên sản phẩm + lợi ích tức thì] + 1 emoji đúng cảm xúc.
