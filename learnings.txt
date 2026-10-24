@@ -1,15 +1,7 @@
-- **Hook mạnh nhất = mô tả cảnh "lộn xộn/khó chịu" cụ thể + có Reactions**: hook kiểu "Lục balo mãi mới thấy tai nghe, cáp sạc rối tung?" (Score=4-5) thắng nhờ khắc họa tình huống đời thường rõ ràng, nên ưu tiên văn phong kể cảnh pain-point cụ thể thay vì câu hỏi chung chung.
-
-- **Nhóm sản phẩm hiệu quả nhất: Túi phụ kiện YOYOISLES và Dán chống chói MacBook** — đây là 2 dòng đạt tương tác cao nhất, nên khai thác tiếp với hook nhấn mạnh tình huống trực quan (lục tìm đồ, chói mắt bên cửa sổ).
-
-- **Chèn giải pháp + tên sản phẩm ngay trong hook giúp giữ Score cao**: ví dụ "Dán AR JRC xử lý gọn!" / "triệt phản quang tức thì" (Score=4) tốt hơn hook chỉ nêu vấn đề mà bỏ lửng giải pháp (Score=3).
-
-- **Hook nêu thông số kỹ thuật cụ thể cũng tạo tương tác tốt**: "Độ trong >92% + chống trầy 4H" (Score=4) → nên thêm 1 feature bullet dạng số liệu ấn tượng để tăng độ tin cậy.
-
-- **Tránh viết lại lặp ý gần giống nhau cho cùng sản phẩm**: các hook "chói lóa, mỏi mắt khi làm việc" lặp nhiều lần đều chỉ đạt Score=3 — cần đa dạng tình huống (nắng, đèn trần, cửa sổ, khách hàng đối diện) thay vì đổi vài từ.
-
-- **Hook mở đầu bằng tính năng khô khan, thiếu cảm xúc đạt điểm thấp**: như "10000mAh đủ nạp đầy nhiều lần" (Score=3) — nên bắt đầu bằng nỗi đau/khoảnh khắc trước, rồi mới nêu thông số.
-
-- **Emoji phù hợp ngữ cảnh hỗ trợ tương tác**: dùng 👀 (nhìn/tìm), 💎 (cao cấp), 🤯 (bực bội) đúng cảm xúc; mỗi hook chỉ 1 emoji cuối câu, không lạm dụng.
-
-- **Công thức hook tối ưu**: [Tình huống pain-point cụ thể, trực quan] + [câu hỏi khơi bực bội] + [giải pháp + tên sản phẩm + lợi ích tức thì] + 1 emoji đúng cảm xúc.
+- **Mở hook bằng nỗi đau cụ thể + hình ảnh hỗn loạn** (vd: "rơi tung trong balo", "mỏi mắt chảy nước mắt") — các hook score cao nhất (5, 4) đều vẽ ra tình huống bức bối rõ ràng, dễ liên tưởng.
+- **Thêm ngay giải pháp/sản phẩm vào cuối hook** ("Dán AR JRC xử lý gọn!", "triệt phản quang tức thì") giúp đẩy Reactions lên, thường đạt Score=4.
+- **Chèn số liệu thuyết phục** ("Độ trong >92% + chống trầy 4H") cho feature bullet tạo Reaction tốt (Score=4) — ưu tiên dùng thông số định lượng.
+- **Ưu tiên emoji 🤯 và 💎** ở hook (xuất hiện trong các bản Score cao), hạn chế dùng 👀 đơn điệu (gắn nhiều với Score=3).
+- **Tránh hook chỉ nêu vấn đề mà không có giải pháp/CTA** ("...nhìn mà mỏi mắt?", "...mỗi lần lục tìm?") — nhóm này toàn Score=3, Reactions=0.
+- **Tránh viết lại lặp ý quá giống nhau** (nhiều biến thể "màn MacBook chói lóa... mỏi mắt") gây bão hòa, tương tác thấp dần; cần đổi góc tiếp cận.
+- **Luôn kết caption bằng CTA hoặc câu hỏi kích bình luận** — mọi video đều có Comments≥1, nên tận dụng để duy trì sàn tương tác, đồng thời chèn yếu tố khuyến khích Share (mẹo, ưu đãi) vì Shares=0 là điểm yếu lớn nhất.
