@@ -1,7 +1,8 @@
-- **Mở hook bằng nỗi đau cụ thể + hình ảnh hỗn loạn** (vd: "rơi tung trong balo", "mỏi mắt chảy nước mắt") — các hook score cao nhất (5, 4) đều vẽ ra tình huống bức bối rõ ràng, dễ liên tưởng.
-- **Thêm ngay giải pháp/sản phẩm vào cuối hook** ("Dán AR JRC xử lý gọn!", "triệt phản quang tức thì") giúp đẩy Reactions lên, thường đạt Score=4.
-- **Chèn số liệu thuyết phục** ("Độ trong >92% + chống trầy 4H") cho feature bullet tạo Reaction tốt (Score=4) — ưu tiên dùng thông số định lượng.
-- **Ưu tiên emoji 🤯 và 💎** ở hook (xuất hiện trong các bản Score cao), hạn chế dùng 👀 đơn điệu (gắn nhiều với Score=3).
-- **Tránh hook chỉ nêu vấn đề mà không có giải pháp/CTA** ("...nhìn mà mỏi mắt?", "...mỗi lần lục tìm?") — nhóm này toàn Score=3, Reactions=0.
-- **Tránh viết lại lặp ý quá giống nhau** (nhiều biến thể "màn MacBook chói lóa... mỏi mắt") gây bão hòa, tương tác thấp dần; cần đổi góc tiếp cận.
-- **Luôn kết caption bằng CTA hoặc câu hỏi kích bình luận** — mọi video đều có Comments≥1, nên tận dụng để duy trì sàn tương tác, đồng thời chèn yếu tố khuyến khích Share (mẹo, ưu đãi) vì Shares=0 là điểm yếu lớn nhất.
+- **Mở hook bằng câu hỏi "nỗi đau" cụ thể, trực diện** (vd: "Người bên cạnh liếc trộm màn hình?", "Màn chói lóa mỏi mắt?") — đây là dạng cho điểm cao nhất, luôn kèm emoji 👀/🤯/💎 cuối câu.
+- **Ưu tiên gắn nỗi đau với tình huống đời thực đặc tả** (ngồi cạnh cửa sổ, làm ngoài nắng, lục balo tìm đồ) rồi mới dẫn ra giải pháp sản phẩm.
+- **Hook hiệu quả nhất = Nêu vấn đề + giải pháp ngay trong 1 câu** (vd: "...? Dán AR JRC xử lý gọn!") thay vì chỉ nêu vấn đề suông.
+- **Chèn thông số/lợi ích định lượng vào bullet** (vd: "Độ trong >92% + chống trầy 4H") giúp tăng tương tác, nên dùng cho feature bullets.
+- **Tránh viết lại hook gần như trùng lặp chỉ đổi vài từ** (các biến thể "cáp sạc rơi tung..." cho điểm thấp giống nhau) — mỗi hook cần một góc tiếp cận/tình huống mới.
+- **Tránh hook chỉ than vãn vấn đề mà không chốt giải pháp** (dạng "...nhìn mỏi mắt kinh khủng?" đứng một mình) vì cho điểm thấp nhất.
+- **Luôn kết thúc hook bằng CTA ngắn hoặc lời hứa kết quả tức thì** ("xử lý gọn", "triệt phản quang tức thì", "bịt kín ngay") để kích thích phản ứng.
+- **Giữ hook ngắn gọn 1 dòng, dùng tối đa 1 emoji đắt giá**; ưu tiên động từ mạnh gợi hành động dứt khoát.
