@@ -1,8 +1,15 @@
-- **Mở hook bằng câu hỏi "nỗi đau" cụ thể, trực diện** (vd: "Người bên cạnh liếc trộm màn hình?", "Màn chói lóa mỏi mắt?") — đây là dạng cho điểm cao nhất, luôn kèm emoji 👀/🤯/💎 cuối câu.
-- **Ưu tiên gắn nỗi đau với tình huống đời thực đặc tả** (ngồi cạnh cửa sổ, làm ngoài nắng, lục balo tìm đồ) rồi mới dẫn ra giải pháp sản phẩm.
-- **Hook hiệu quả nhất = Nêu vấn đề + giải pháp ngay trong 1 câu** (vd: "...? Dán AR JRC xử lý gọn!") thay vì chỉ nêu vấn đề suông.
-- **Chèn thông số/lợi ích định lượng vào bullet** (vd: "Độ trong >92% + chống trầy 4H") giúp tăng tương tác, nên dùng cho feature bullets.
-- **Tránh viết lại hook gần như trùng lặp chỉ đổi vài từ** (các biến thể "cáp sạc rơi tung..." cho điểm thấp giống nhau) — mỗi hook cần một góc tiếp cận/tình huống mới.
-- **Tránh hook chỉ than vãn vấn đề mà không chốt giải pháp** (dạng "...nhìn mỏi mắt kinh khủng?" đứng một mình) vì cho điểm thấp nhất.
-- **Luôn kết thúc hook bằng CTA ngắn hoặc lời hứa kết quả tức thì** ("xử lý gọn", "triệt phản quang tức thì", "bịt kín ngay") để kích thích phản ứng.
-- **Giữ hook ngắn gọn 1 dòng, dùng tối đa 1 emoji đắt giá**; ưu tiên động từ mạnh gợi hành động dứt khoát.
+- **Dùng câu hỏi "chạm nỗi đau" rất cụ thể + hình ảnh hóa**: Hook mạnh nhất (Score=5) đánh trúng sự riêng tư/lo lắng tức thì ("Người bên cạnh liếc trộm màn hình điện thoại bạn? 🤯"), tạo phản ứng cảm xúc nhanh hơn mô tả tính năng.
+
+- **Mở đầu bằng vấn đề của người dùng, không mở bằng thông số**: Hook thiên về thông số kỹ thuật ("Độ trong >92% + chống trầy 4H") chỉ đạt Score=4, kém hấp dẫn hơn hook gợi tình huống khó chịu.
+
+- **Nêu ngay giải pháp sau nỗi đau theo công thức "Vấn đề? Sản phẩm xử lý gọn!"**: Các hook có vế giải quyết rõ ("Dán AR JRC xử lý gọn!", "triệt phản quang tức thì") giữ Score ổn định 4, tốt hơn hook chỉ than vãn mà bỏ lửng.
+
+- **Dùng 1 emoji đắt giá đúng ngữ cảnh (👀 🤯 💎)**, tránh lặp emoji vô nghĩa; emoji cảm xúc mạnh (🤯) đi kèm hook thắng.
+
+- **Tránh viết hook chỉ đặt câu hỏi rồi bỏ ngỏ, không có lối thoát**: Những hook chỉ mô tả cảnh chói mắt mà thiếu vế giải pháp đều rơi xuống Score=3.
+
+- **Tránh trùng lặp motif gần như y hệt cho cùng 1 sản phẩm**: MacBook AR bị lặp quá nhiều biến thể "màn chói lóa, mỏi mắt" khiến tương tác bão hòa, chỉ loanh quanh 3–4; cần đa dạng góc tiếp cận (tiết kiệm mắt, tăng hiệu suất, thẩm mỹ).
+
+- **Ưu tiên nỗi đau mang tính xã hội/an toàn hơn nỗi đau tiện nghi**: Chủ đề "chống nhìn trộm" và "lục balo rối tung" khơi gợi cảm xúc mạnh hơn "chống chói" vốn đã quen thuộc.
+
+- **Caption nên đóng khung: 1 câu nỗi đau → 1–2 feature bullet lợi ích (không phải thông số khô) → CTA ngắn**, để đẩy comment/share thay vì chỉ reaction.
